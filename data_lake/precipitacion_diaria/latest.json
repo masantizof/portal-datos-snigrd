@@ -3,8 +3,8 @@
   "kind": "vector",
   "updated_at": "2026-07-09T10:28:03-05:00",
   "files": {
-    "geojson": "F:/UNGRD/Portal Datos SNIGRD/data_lake/precipitacion_diaria/dt=2026-07-09/precipitacion_diaria.geojson",
-    "parquet": "F:/UNGRD/Portal Datos SNIGRD/data_lake/precipitacion_diaria/dt=2026-07-09/precipitacion_diaria.parquet"
+    "geojson": "data_lake/precipitacion_diaria/dt=2026-07-09/precipitacion_diaria.geojson",
+    "parquet": "data_lake/precipitacion_diaria/dt=2026-07-09/precipitacion_diaria.parquet"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Datos_Precipitacion/MapServer/0",
   "descripcion": "Precipitación diaria por estación",

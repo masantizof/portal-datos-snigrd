@@ -68,6 +68,13 @@ else:
             hide_index=True, width="stretch", height=430,
         )
 
+    st.subheader(f"Promedio por departamento ({unidad})")
+    if len(tabla_f):
+        promedio_depto = tabla_f.groupby("DEPARTAMEN")["DATO"].mean().sort_values(ascending=False)
+        st.bar_chart(promedio_depto, height=360)
+    else:
+        st.info("Sin estaciones en la selección actual.")
+
     c1, c2 = st.columns(2)
     with c1:
         boton_csv(tabla_f, f"{ds}.csv", key=f"csv_{ds}")

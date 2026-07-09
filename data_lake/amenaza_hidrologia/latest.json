@@ -3,11 +3,11 @@
   "kind": "vector",
   "updated_at": "2026-07-09T10:08:37-05:00",
   "files": {
-    "Alertas_vigentes.dbf": "F:/UNGRD/Portal Datos SNIGRD/data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.dbf",
-    "Alertas_vigentes.prj": "F:/UNGRD/Portal Datos SNIGRD/data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.prj",
-    "Alertas_vigentes.shp": "F:/UNGRD/Portal Datos SNIGRD/data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.shp",
-    "Alertas_vigentes.shx": "F:/UNGRD/Portal Datos SNIGRD/data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.shx",
-    "geojson": "F:/UNGRD/Portal Datos SNIGRD/data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.geojson"
+    "Alertas_vigentes.dbf": "data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.dbf",
+    "Alertas_vigentes.prj": "data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.prj",
+    "Alertas_vigentes.shp": "data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.shp",
+    "Alertas_vigentes.shx": "data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.shx",
+    "geojson": "data_lake/amenaza_hidrologia/dt=2026-07-09/Alertas_vigentes.geojson"
   },
   "source_url": "https://bart.ideam.gov.co/ospa/Alertas/modelos/hidrologia/",
   "n_archivos": 5,

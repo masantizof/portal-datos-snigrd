@@ -181,13 +181,28 @@ def _commit_hash(dataset: str, content_hash: str) -> None:
     p.write_text(content_hash, encoding="utf-8")
 
 
+def _relativizar_para_manifest(v) -> str:
+    """Ruta portable para guardar en latest.json: relativa a DATA_ROOT.parent
+    (la raíz del repo), sin importar si quien corrió el extractor tenía
+    IDEAM_DATA_ROOT fijado (relativo, como en el cron) o no (absoluto, como
+    al correr localmente sin la variable de entorno) -- si se guarda la ruta
+    absoluta de una máquina, es basura en cualquier otra (p.ej. Streamlit
+    Cloud no tiene "F:/..."). Nunca confiar en que "absoluta" == "correcta
+    aquí": se recalcula siempre relativa al propio DATA_ROOT."""
+    p = Path(str(v).replace("\\", "/"))
+    try:
+        return p.resolve().relative_to(DATA_ROOT.parent.resolve()).as_posix()
+    except ValueError:
+        return p.as_posix()  # fuera del árbol del repo (caso raro): se deja tal cual
+
+
 def _write_manifest(dataset: str, kind: str, files: dict, **extra) -> None:
     """latest.json: puntero que la app lee para hallar el último snapshot."""
     manifest = {
         "dataset": dataset,
         "kind": kind,
         "updated_at": dt.datetime.now().astimezone().isoformat(timespec="seconds"),
-        "files": {k: Path(v).as_posix() for k, v in files.items()},
+        "files": {k: _relativizar_para_manifest(v) for k, v in files.items()},
         **extra,
     }
     (DATA_ROOT / dataset).mkdir(parents=True, exist_ok=True)

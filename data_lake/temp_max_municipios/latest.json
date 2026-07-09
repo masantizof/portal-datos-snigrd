@@ -3,11 +3,11 @@
   "kind": "alerta_diaria",
   "updated_at": "2026-07-09T10:21:07-05:00",
   "files": {
-    "csv/20260709_TemperaturaMaximaCapitalesDepartamentales.csv": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/csv/20260709_TemperaturaMaximaCapitalesDepartamentales.csv",
-    "csv/20260709_TemperaturaMaximaMunicipal.csv": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/csv/20260709_TemperaturaMaximaMunicipal.csv",
-    "mapas/20260709_MapaTemperaturaMaximaNacional.png": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/mapas/20260709_MapaTemperaturaMaximaNacional.png",
-    "mapas/20260709_MapaTemperaturaMaximaNacional_Continua.png": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/mapas/20260709_MapaTemperaturaMaximaNacional_Continua.png",
-    "raster/20260709_TemperaturaMaximaNacional_10km.tif": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/raster/20260709_TemperaturaMaximaNacional_10km.tif"
+    "csv/20260709_TemperaturaMaximaCapitalesDepartamentales.csv": "data_lake/temp_max_municipios/dt=2026-07-09/csv/20260709_TemperaturaMaximaCapitalesDepartamentales.csv",
+    "csv/20260709_TemperaturaMaximaMunicipal.csv": "data_lake/temp_max_municipios/dt=2026-07-09/csv/20260709_TemperaturaMaximaMunicipal.csv",
+    "mapas/20260709_MapaTemperaturaMaximaNacional.png": "data_lake/temp_max_municipios/dt=2026-07-09/mapas/20260709_MapaTemperaturaMaximaNacional.png",
+    "mapas/20260709_MapaTemperaturaMaximaNacional_Continua.png": "data_lake/temp_max_municipios/dt=2026-07-09/mapas/20260709_MapaTemperaturaMaximaNacional_Continua.png",
+    "raster/20260709_TemperaturaMaximaNacional_10km.tif": "data_lake/temp_max_municipios/dt=2026-07-09/raster/20260709_TemperaturaMaximaNacional_10km.tif"
   },
   "source_url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260709/",
   "categoria": "TemperaturasMaximasMunicipios",

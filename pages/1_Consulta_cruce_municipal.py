@@ -21,8 +21,16 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from src import loaders, ui  # noqa: E402
 from src.maps import mapa_base, mostrar_mapa, capa_vector_coloreada, agregar_leyenda  # noqa: E402
 from src.downloads import boton_csv, boton_geojson  # noqa: E402
+import cruce_divipola as cd  # noqa: E402
 
 DIAG_PATH = Path(__file__).resolve().parents[1] / "data_lake" / "_diagnostico" / "divipola_no_cruza.csv"
+
+
+def _etiqueta_columna(c: str) -> str:
+    if c.startswith("riesgo__"):
+        campo = c[len("riesgo__"):]
+        return f"Índice de riesgo · {cd.INDICES_RIESGO.get(campo, campo)}"
+    return c.replace("__", " · ")
 
 ui.header(
     "Consulta y cruce municipal",
@@ -75,9 +83,9 @@ if not columnas_cruzadas:
     st.stop()
 
 var_sel = st.selectbox(
-    "Variable a visualizar en el mapa",
+    "Variable a visualizar en el mapa y las gráficas",
     columnas_cruzadas,
-    format_func=lambda c: c.replace("__", " · "),
+    format_func=_etiqueta_columna,
 )
 
 sin_dato = df_f[var_sel].isna().sum()
@@ -110,7 +118,7 @@ with col_map:
             colormap = cm.LinearColormap(
                 colors=["#F2F4F8", "#1F3460"],
                 vmin=float(valores.min()), vmax=float(valores.max()),
-                caption=var_sel.replace("__", " · "),
+                caption=_etiqueta_columna(var_sel),
             )
 
             def _style(feature):
@@ -125,7 +133,7 @@ with col_map:
                 geo_f, name=var_sel, style_function=_style,
                 tooltip=folium.GeoJsonTooltip(
                     fields=["MPIO_CNMBR", "DPTO_CNMBR", var_sel],
-                    aliases=["Municipio", "Departamento", var_sel.replace("__", " · ")],
+                    aliases=["Municipio", "Departamento", _etiqueta_columna(var_sel)],
                     sticky=True,
                 ),
             )
@@ -140,11 +148,11 @@ with col_map:
         capa_vector_coloreada(
             m, geo_f, color_field=var_sel, color_map=color_map,
             tooltip_fields=["MPIO_CNMBR", "DPTO_CNMBR", var_sel],
-            tooltip_aliases=["Municipio", "Departamento", var_sel.replace("__", " · ")],
+            tooltip_aliases=["Municipio", "Departamento", _etiqueta_columna(var_sel)],
             nombre=var_sel, color_defecto="#E3E6EC",
         )
         if valores_unicas:
-            agregar_leyenda(m, var_sel.replace("__", " · "), [(color_map[v], v) for v in valores_unicas])
+            agregar_leyenda(m, _etiqueta_columna(var_sel), [(color_map[v], v) for v in valores_unicas])
 
     mostrar_mapa(m, key="mapa_cruce_municipal")
 
@@ -154,6 +162,28 @@ with col_tabla:
         df_f[cols_mostrar].rename(columns={"municipio": "Municipio", "departamento": "Departamento"}),
         hide_index=True, width="stretch", height=430,
     )
+
+# --------------------------------------------------------------------------- #
+# Gráfica interactiva de la variable elegida
+# --------------------------------------------------------------------------- #
+st.subheader(f"Gráfica: {_etiqueta_columna(var_sel)}")
+if es_numerica:
+    top_n = st.slider("Municipios a mostrar (ordenados de mayor a menor)", 5, 50, 15, key="chart_top_n")
+    serie = (
+        df_f[["municipio", var_sel]].dropna(subset=[var_sel])
+        .sort_values(var_sel, ascending=False).head(top_n)
+        .set_index("municipio")[var_sel]
+    )
+    if serie.empty:
+        st.info("Sin datos numéricos para graficar en esta selección.")
+    else:
+        st.bar_chart(serie, height=360)
+else:
+    conteo = df_f[var_sel].dropna().value_counts()
+    if conteo.empty:
+        st.info("Sin datos para graficar en esta selección.")
+    else:
+        st.bar_chart(conteo, height=320)
 
 c1, c2 = st.columns(2)
 with c1:

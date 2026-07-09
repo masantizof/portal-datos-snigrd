@@ -556,8 +556,11 @@ def load_temperatura_municipal(tipo: str) -> Optional[pd.DataFrame]:
 
 def load_amenaza_modelo(categoria: str) -> Optional[pd.DataFrame]:
     """Última corrida del modelo de amenaza (deslizamientos o incendios).
-    Columnas devueltas: COD_DANE, TEXTO_AMENAZA (contrato usado por
-    cruce_divipola.py)."""
+    Columnas mínimas garantizadas: COD_DANE, TEXTO_AMENAZA (contrato usado
+    por cruce_divipola.py). También incluye REGION/DEPARTAMENTO/MUNICIPIO
+    cuando el CSV las trae (para agregaciones por región en la UI) -- estas
+    extra no rompen el contrato: cruce_divipola sólo toma las columnas que
+    tiene registradas."""
     if categoria not in MODELOS_AMENAZA:
         raise ValueError(f"categoría de modelo desconocida: {categoria}")
     dataset = f"amenaza_{categoria}"
@@ -575,7 +578,8 @@ def load_amenaza_modelo(categoria: str) -> Optional[pd.DataFrame]:
     df = pd.read_csv(path, sep=";", dtype=str, encoding="latin-1")
     if "COD_DANE" not in df.columns or "TEXTO_AMENAZA" not in df.columns:
         return None
-    return df[["COD_DANE", "TEXTO_AMENAZA"]].copy()
+    cols = [c for c in ("COD_DANE", "TEXTO_AMENAZA", "REGION", "DEPARTAMENTO", "MUNICIPIO") if c in df.columns]
+    return df[cols].copy()
 
 
 def load_alerta(categoria_nombre: str) -> Optional[dict]:

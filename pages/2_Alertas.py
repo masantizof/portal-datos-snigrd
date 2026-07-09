@@ -176,6 +176,18 @@ def _render_amenaza_modelo(categoria: str, titulo: str) -> None:
         *[{"label": nivel, "value": str(n), "icon": "🔴" if nivel.upper() == "ALTA" else "🟡" if nivel.upper() == "MEDIA" else "🟢"}
           for nivel, n in conteo.items()],
     ])
+
+    if "REGION" in df.columns:
+        st.markdown("**Municipios en amenaza ALTA por región**")
+        pivote = (
+            df[df["TEXTO_AMENAZA"].str.upper() == "ALTA"]
+            .groupby("REGION").size().sort_values(ascending=False)
+        ) if (df["TEXTO_AMENAZA"].str.upper() == "ALTA").any() else None
+        if pivote is not None and not pivote.empty:
+            st.bar_chart(pivote, height=280)
+        else:
+            st.caption("Ningún municipio en nivel ALTA en la corrida vigente.")
+
     base, geo_base = loaders.cargar_base_municipal()
     df["COD_DANE"] = df["COD_DANE"].astype(str).str.zfill(5)
     amenaza_by_cod = dict(zip(df["COD_DANE"], df["TEXTO_AMENAZA"]))

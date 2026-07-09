@@ -3,8 +3,8 @@
   "kind": "table",
   "updated_at": "2026-07-09T10:27:06-05:00",
   "files": {
-    "xlsx": "F:/UNGRD/Portal Datos SNIGRD/data_lake/dane_divipola/dt=2026-07-09/DIVIPOLA_Municipios.xlsx",
-    "parquet": "F:/UNGRD/Portal Datos SNIGRD/data_lake/dane_divipola/dt=2026-07-09/dane_divipola.parquet"
+    "xlsx": "data_lake/dane_divipola/dt=2026-07-09/DIVIPOLA_Municipios.xlsx",
+    "parquet": "data_lake/dane_divipola/dt=2026-07-09/dane_divipola.parquet"
   },
   "source_url": "https://geoportal.dane.gov.co/descargas/divipola/DIVIPOLA_Municipios.xlsx",
   "descripcion": "DIVIPOLA oficial (DANE): nombres/coordenadas de municipio. Hogares/ruralidad/etnia/estrato pendientes de fuente verificada.",

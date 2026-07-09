@@ -33,6 +33,23 @@ CODE_FIELD_RIESGO = "MPIO_CCNCT"
 NOMBRE_FIELD_RIESGO = "MPIO_CNMBR"
 DPTO_FIELD_RIESGO = "DPTO_CNMBR"
 
+# Índices de amenaza/riesgo SNGRD presentes en la propia capa base (no son
+# una "fuente" cruzable aparte: viven en el mismo GeoJSON de geometría).
+# Nombres de campo abreviados tal como los entrega SNGRD (algunos truncados
+# por el límite de 10 caracteres de Shapefile); se muestran con su nombre
+# técnico completo donde es inequívoco, y con el código crudo donde no.
+INDICES_RIESGO = {
+    "I_Vendaval": "Vendavales",
+    "I_MovMasa": "Movimientos en masa (deslizamientos)",
+    "I_IF": "Incendios forestales",
+    "I_Inundaci": "Inundaciones",
+    "I_AVT": "Avenidas torrenciales",
+    "I_Desabast": "Desabastecimiento de agua",
+    "I_Crecient": "Crecientes súbitas",
+    "I_DHTLL_In": "I_DHTLL_In (nombre técnico SNGRD, ver fuente original)",
+    "I_DHTS_I_D": "I_DHTS_I_D (nombre técnico SNGRD, ver fuente original)",
+}
+
 
 def normalizar_codigo(serie: pd.Series) -> pd.Series:
     """DIVIPOLA a string de 5 dígitos, tolerante a floats/enteros (Socrata,
@@ -46,18 +63,26 @@ def normalizar_codigo(serie: pd.Series) -> pd.Series:
 
 def cargar_base_municipal() -> tuple[pd.DataFrame, dict]:
     """Universo base: 1.122 municipios de la capa de riesgo SNGRD (única con
-    geometría de polígono). Devuelve (DataFrame de atributos, GeoJSON dict)."""
+    geometría de polígono). Incluye los índices de amenaza/riesgo SNGRD
+    (prefijo "riesgo__") ya presentes en esa misma capa -- no son una fuente
+    cruzable aparte, viven en el mismo GeoJSON de geometría. Devuelve
+    (DataFrame de atributos, GeoJSON dict)."""
     geo = json.loads(REFERENCIA_RIESGO.read_text(encoding="utf-8"))
     filas = []
     for f in geo["features"]:
         p = f["properties"]
-        filas.append({
+        fila = {
             "divipola": p.get(CODE_FIELD_RIESGO),
             "municipio": p.get(NOMBRE_FIELD_RIESGO),
             "departamento": p.get(DPTO_FIELD_RIESGO),
-        })
+        }
+        for campo in INDICES_RIESGO:
+            fila[f"riesgo__{campo}"] = p.get(campo)
+        filas.append(fila)
     df = pd.DataFrame(filas)
     df["divipola"] = normalizar_codigo(df["divipola"])
+    for campo in INDICES_RIESGO:
+        df[f"riesgo__{campo}"] = pd.to_numeric(df[f"riesgo__{campo}"], errors="coerce")
     return df, geo
 
 

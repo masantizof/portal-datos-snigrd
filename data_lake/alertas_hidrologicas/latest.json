@@ -3,8 +3,8 @@
   "kind": "vector",
   "updated_at": "2026-07-09T10:28:12-05:00",
   "files": {
-    "geojson": "F:/UNGRD/Portal Datos SNIGRD/data_lake/alertas_hidrologicas/dt=2026-07-09/alertas_hidrologicas.geojson",
-    "parquet": "F:/UNGRD/Portal Datos SNIGRD/data_lake/alertas_hidrologicas/dt=2026-07-09/alertas_hidrologicas.parquet"
+    "geojson": "data_lake/alertas_hidrologicas/dt=2026-07-09/alertas_hidrologicas.geojson",
+    "parquet": "data_lake/alertas_hidrologicas/dt=2026-07-09/alertas_hidrologicas.parquet"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas_Hidrologicas/MapServer/2",
   "descripcion": "Alertas hidrológicas vigentes",

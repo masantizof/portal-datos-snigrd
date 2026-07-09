@@ -115,6 +115,8 @@ def load_caracterizacion() -> Optional[pd.DataFrame]:
     p = Path(ruta)
     if not p.is_absolute():
         p = DATA_ROOT.parent / p
+    if not p.exists():
+        return None
     return pd.read_parquet(p)
 
 

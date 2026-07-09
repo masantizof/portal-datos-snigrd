@@ -85,8 +85,14 @@ with tab_estacional:
         for mes, col in zip(meses_disponibles, cols):
             ruta = imgs.get(f"{prod_sel}_mes{mes}")
             with col:
-                st.image(ruta, caption=f"Mes {mes}", width="stretch")
-                boton_png(ruta, f"{ds}_{prod_sel}_mes{mes}.png", key=f"png_{ds}_{prod_sel}_{mes}")
+                # No confiar ciegamente en la ruta del manifiesto: si el
+                # archivo no existe (snapshot incompleto, ruta rota), no
+                # tumbar la página con MediaFileStorageError.
+                if ruta and Path(ruta).exists():
+                    st.image(ruta, caption=f"Mes {mes}", width="stretch")
+                    boton_png(ruta, f"{ds}_{prod_sel}_mes{mes}.png", key=f"png_{ds}_{prod_sel}_{mes}")
+                else:
+                    st.caption(f"Mes {mes}: imagen no disponible.")
         ui.meta_caption(meta)
 
 with tab_grillas:

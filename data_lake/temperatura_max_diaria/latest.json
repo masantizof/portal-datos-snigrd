@@ -3,8 +3,8 @@
   "kind": "vector",
   "updated_at": "2026-07-09T10:28:03-05:00",
   "files": {
-    "geojson": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temperatura_max_diaria/dt=2026-07-09/temperatura_max_diaria.geojson",
-    "parquet": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temperatura_max_diaria/dt=2026-07-09/temperatura_max_diaria.parquet"
+    "geojson": "data_lake/temperatura_max_diaria/dt=2026-07-09/temperatura_max_diaria.geojson",
+    "parquet": "data_lake/temperatura_max_diaria/dt=2026-07-09/temperatura_max_diaria.parquet"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Datos_TMaxima/MapServer/0",
   "descripcion": "Temperatura máxima diaria por estación",
