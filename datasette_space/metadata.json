@@ -1,0 +1,37 @@
+{
+  "title": "Portal de Datos SNIGRD — API consultable (Datasette)",
+  "description": "Tablas municipales consolidadas del Portal de Datos SNIGRD (UNGRD): índices de riesgo, DANE, Sala de Crisis, temperatura y amenaza por modelos de IDEAM. Cruzadas por código DIVIPOLA. Sólo lectura.",
+  "license": "Datos públicos oficiales (IDEAM, DANE, UNGRD); ver metodología en el portal principal.",
+  "source": "Portal de Datos SNIGRD",
+  "source_url": "https://github.com/masantizof/portal-datos-snigrd",
+  "databases": {
+    "db": {
+      "tables": {
+        "municipios": {
+          "description": "Universo base: 1.122 municipios (código DIVIPOLA, nombre, departamento) de la capa de índices de riesgo SNGRD."
+        },
+        "sala_crisis": {
+          "description": "Emergencias históricas agregadas por municipio (UNGRD Sala de Crisis)."
+        },
+        "dane": {
+          "description": "DIVIPOLA oficial DANE. Columnas de caracterización (hogares, ruralidad, etnia, estrato) pendientes de fuente nacional verificada — no inventadas."
+        },
+        "temp_max_municipal": {
+          "description": "Temperatura máxima municipal, última corrida diaria (IDEAM/BART)."
+        },
+        "temp_min_municipal": {
+          "description": "Temperatura mínima municipal, última corrida diaria (IDEAM/BART)."
+        },
+        "amenaza_deslizamientos": {
+          "description": "Amenaza por deslizamientos, última corrida del modelo (IDEAM/BART)."
+        },
+        "amenaza_incendios": {
+          "description": "Amenaza por incendios, última corrida del modelo (IDEAM/BART)."
+        },
+        "cruce_municipal": {
+          "description": "Vista amplia: universo base + todas las fuentes cruzadas por DIVIPOLA (left-join, sin dato = NULL, nunca inventado)."
+        }
+      }
+    }
+  }
+}

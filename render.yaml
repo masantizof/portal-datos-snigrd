@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: portal-datos-snigrd-api
+    runtime: docker
+    plan: free
+    rootDir: datasette_space
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /-/health
+    envVars: []
