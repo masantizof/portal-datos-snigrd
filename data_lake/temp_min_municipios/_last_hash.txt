@@ -1,0 +1,1 @@
+csv/20260709_TemperaturaMinimaCapitalesDepartamentales.csv|2026-07-09T12:22:00|csv/20260709_TemperaturaMinimaMunicipal.csv|2026-07-09T12:22:00|mapas/20260709_MapaTemperaturaMinimaNacional.png|2026-07-09T12:23:00|mapas/20260709_MapaTemperaturaMinimaNacional_Continua.png|2026-07-09T12:24:00|raster/20260709_TemperaturaMinimaNacional_10km.tif|2026-07-09T12:21:00

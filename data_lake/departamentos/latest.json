@@ -1,0 +1,14 @@
+{
+  "dataset": "departamentos",
+  "kind": "vector",
+  "updated_at": "2026-07-09T10:31:08-05:00",
+  "files": {
+    "geojson": "F:/UNGRD/Portal Datos SNIGRD/data_lake/departamentos/dt=2026-07-09/departamentos.geojson",
+    "parquet": "F:/UNGRD/Portal Datos SNIGRD/data_lake/departamentos/dt=2026-07-09/departamentos.parquet"
+  },
+  "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Datos_Precipitacion/MapServer/3",
+  "descripcion": "Departamentos e islas (referencia)",
+  "n_features": 33,
+  "content_hash": "5bc99a858466273957b3313d602d22e82480e3a5659f9d1993770a09ec2bcc6b",
+  "geometry_type": "esriGeometryPolygon"
+}

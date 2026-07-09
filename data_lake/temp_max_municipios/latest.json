@@ -1,0 +1,23 @@
+{
+  "dataset": "temp_max_municipios",
+  "kind": "alerta_diaria",
+  "updated_at": "2026-07-09T10:21:07-05:00",
+  "files": {
+    "csv/20260709_TemperaturaMaximaCapitalesDepartamentales.csv": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/csv/20260709_TemperaturaMaximaCapitalesDepartamentales.csv",
+    "csv/20260709_TemperaturaMaximaMunicipal.csv": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/csv/20260709_TemperaturaMaximaMunicipal.csv",
+    "mapas/20260709_MapaTemperaturaMaximaNacional.png": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/mapas/20260709_MapaTemperaturaMaximaNacional.png",
+    "mapas/20260709_MapaTemperaturaMaximaNacional_Continua.png": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/mapas/20260709_MapaTemperaturaMaximaNacional_Continua.png",
+    "raster/20260709_TemperaturaMaximaNacional_10km.tif": "F:/UNGRD/Portal Datos SNIGRD/data_lake/temp_max_municipios/dt=2026-07-09/raster/20260709_TemperaturaMaximaNacional_10km.tif"
+  },
+  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260709/",
+  "categoria": "TemperaturasMaximasMunicipios",
+  "fecha": "20260709",
+  "n_archivos": 5,
+  "omitidos": [
+    {
+      "archivo": "raster/20260709_TemperaturaMaximaNacional_Downscaling30m.tif",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260709/raster/20260709_TemperaturaMaximaNacional_Downscaling30m.tif"
+    }
+  ],
+  "note": "Última fecha con datos publicados en TemperaturasMaximasMunicipios/ (BART/IDEAM). El histórico completo no se replica, sólo se consulta la fecha vigente. 1 archivo(s) omitido(s) por superar 60MB (ver 'omitidos')."
+}

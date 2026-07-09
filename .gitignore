@@ -1,0 +1,25 @@
+# Grillas de modelo (WRF/GFS): pesan decenas-cientos de MB por corrida y no
+# se renderizan en la app (solo botón de descarga); no se versionan a diario
+# para no reventar el límite gratuito de GitHub/Streamlit Cloud.
+data_lake/wrf00_netcdf/
+data_lake/wrf00_tif/
+data_lake/gfs06_grib2/
+
+# Documentos de requerimiento/planificación (no son parte de la app).
+/*.docx
+/PROMPT_*.md
+/ref_*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/

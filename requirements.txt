@@ -1,0 +1,19 @@
+# Versiones fijas (==) por seguridad/reproducibilidad: build determinista,
+# sin actualizaciones silenciosas.
+#
+# Revisar CVEs periódicamente (p.ej. `pip-audit` o GitHub Dependabot) y subir
+# versión cuando aplique un parche de seguridad.
+#
+# OJO con pyarrow: si Streamlit Cloud cambia de versión de Python y el build
+# falla con "Failed to download and build pyarrow" / "No module named
+# pkg_resources", es porque esta versión exacta no tiene wheel precompilado
+# para el Python nuevo — sube el pin a la última disponible en ese momento.
+streamlit==1.58.0
+streamlit-folium==0.27.2
+folium==0.20.0
+pandas==2.3.3
+pyarrow==24.0.0
+openpyxl==3.1.5
+branca==0.8.2
+requests==2.34.2
+pyshp==3.0.2.post1

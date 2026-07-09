@@ -1,0 +1,32 @@
+[theme]
+base = "light"
+primaryColor = "#1F3460"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F4F8"
+textColor = "#1A1A2E"
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#1F3460"
+secondaryBackgroundColor = "#16264A"
+textColor = "#FFFFFF"
+
+[client]
+showSidebarNavigation = true
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# Ambas son ya el default de Streamlit (true); explícitas aquí por auditoría.
+# server.enableCORS=true protege contra Cross-Origin Resource Sharing no
+# autorizado; server.enableXsrfProtection=true contra CSRF. Streamlit exige
+# que ambas vayan juntas (si CORS se desactiva con XSRF activo, Streamlit
+# ignora esa desactivación de todos modos).
+enableXsrfProtection = true
+enableCORS = true
+# Streamlit Community Cloud gestiona el servidor/proxy real: cabeceras como
+# CSP, X-Content-Type-Options o Referrer-Policy NO se pueden fijar desde este
+# archivo (no son parámetros soportados por Streamlit) ni desde la app misma
+# sin un proxy propio — ver Metodología y fuentes, sección 6.

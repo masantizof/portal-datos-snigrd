@@ -1,0 +1,13 @@
+{
+  "dataset": "amenaza_incendios",
+  "kind": "amenaza_modelo",
+  "updated_at": "2026-07-09T10:08:02-05:00",
+  "files": {
+    "2026_amenaza_icv_vidhag.csv": "F:/UNGRD/Portal Datos SNIGRD/data_lake/amenaza_incendios/dt=2026-07-09/2026_amenaza_icv_vidhag.csv",
+    "amenaza_icv.csv": "F:/UNGRD/Portal Datos SNIGRD/data_lake/amenaza_incendios/dt=2026-07-09/amenaza_icv.csv"
+  },
+  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/modelos/incendios/ultimo/",
+  "categoria": "incendios",
+  "n_archivos": 2,
+  "note": "Última corrida del modelo de amenaza (carpeta ultimo/): vigente pese a que modelos/ como carpeta padre puede mostrar una fecha antigua."
+}

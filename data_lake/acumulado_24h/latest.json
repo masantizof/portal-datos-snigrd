@@ -1,0 +1,22 @@
+{
+  "dataset": "acumulado_24h",
+  "kind": "raster",
+  "updated_at": "2026-07-09T10:31:10-05:00",
+  "files": {
+    "png": "F:/UNGRD/Portal Datos SNIGRD/data_lake/acumulado_24h/dt=2026-07-09/acumulado_24h.png",
+    "legend": "F:/UNGRD/Portal Datos SNIGRD/data_lake/acumulado_24h/dt=2026-07-09/acumulado_24h_legend.json"
+  },
+  "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Precipitacion__Acumulada/MapServer/export",
+  "descripcion": "Precipitación acumulada 24h",
+  "bounds": [
+    [
+      -4.5,
+      -82.0
+    ],
+    [
+      13.5,
+      -66.0
+    ]
+  ],
+  "content_hash": "690fe210719c5227ed8b1131e3c883cefe28ef2670c88b6b5503171978ed03e4"
+}

@@ -1,0 +1,14 @@
+{
+  "dataset": "zonas_hidrograficas",
+  "kind": "vector",
+  "updated_at": "2026-07-09T10:28:30-05:00",
+  "files": {
+    "geojson": "F:/UNGRD/Portal Datos SNIGRD/data_lake/zonas_hidrograficas/dt=2026-07-09/zonas_hidrograficas.geojson",
+    "parquet": "F:/UNGRD/Portal Datos SNIGRD/data_lake/zonas_hidrograficas/dt=2026-07-09/zonas_hidrograficas.parquet"
+  },
+  "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas_Hidrologicas/MapServer/1",
+  "descripcion": "Zonas hidrográficas (referencia)",
+  "n_features": 40,
+  "content_hash": "6da6ef73134c7319e7751bf34a029b71235fce0d2ff236376d3b1c25059e1bef",
+  "geometry_type": "esriGeometryPolygon"
+}
