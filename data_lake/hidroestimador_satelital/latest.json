@@ -1,14 +1,15 @@
 {
   "dataset": "hidroestimador_satelital",
   "kind": "alerta_diaria",
-  "updated_at": "2026-07-09T10:16:14-05:00",
+  "updated_at": "2026-07-10T00:18:54+00:00",
   "files": {
-    "hidroestimador.log": "data_lake/hidroestimador_satelital/dt=2026-07-09/hidroestimador.log",
-    "NOAA_HE_COL_20251231.tif": "data_lake/hidroestimador_satelital/dt=2026-07-09/NOAA_HE_COL_20251231.tif",
-    "NOAA_HE_COL_20251230.tif": "data_lake/hidroestimador_satelital/dt=2026-07-09/NOAA_HE_COL_20251230.tif"
+    "hidroestimador.log": "data_lake/hidroestimador_satelital/dt=2026-07-10/hidroestimador.log",
+    "NOAA_HE_COL_20251231.tif": "data_lake/hidroestimador_satelital/dt=2026-07-10/NOAA_HE_COL_20251231.tif",
+    "NOAA_HE_COL_20251230.tif": "data_lake/hidroestimador_satelital/dt=2026-07-10/NOAA_HE_COL_20251230.tif"
   },
   "source_url": "https://bart.ideam.gov.co/ospa/Alertas/hidroestimador_satelital/",
   "categoria": "hidroestimador_satelital",
   "n_archivos": 3,
+  "omitidos": [],
   "note": "Carpeta plana (sin subcarpetas de fecha) del árbol de Alertas BART/IDEAM."
 }

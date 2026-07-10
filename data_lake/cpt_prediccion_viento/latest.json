@@ -1,7 +1,7 @@
 {
   "dataset": "cpt_prediccion_viento",
   "kind": "unavailable",
-  "updated_at": "2026-07-09T10:39:04-05:00",
+  "updated_at": "2026-07-10T00:20:49+00:00",
   "files": {},
   "source_url": "https://bart.ideam.gov.co/wrfideam/new_modelo/CPT/gif/PREDICCION_MENSUAL",
   "variable": "viento",
