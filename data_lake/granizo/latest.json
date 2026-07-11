@@ -1,15 +1,14 @@
 {
   "dataset": "granizo",
   "kind": "alerta_diaria",
-  "updated_at": "2026-07-09T10:23:14-05:00",
+  "updated_at": "2026-07-11T00:09:02+00:00",
   "files": {
-    "shape/20260709_JornadaDiurna_Granizo_raster.nc": "data_lake/granizo/dt=2026-07-09/shape/20260709_JornadaDiurna_Granizo_raster.nc",
-    "shape/20260711_JornadaDiurna_Granizo_raster.nc": "data_lake/granizo/dt=2026-07-09/shape/20260711_JornadaDiurna_Granizo_raster.nc"
+    "shape/20260711_JornadaDiurna_Granizo_raster.nc": "data_lake/granizo/dt=2026-07-11/shape/20260711_JornadaDiurna_Granizo_raster.nc"
   },
-  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/Granizo/20260709/",
+  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/Granizo/20260710/",
   "categoria": "Granizo",
-  "fecha": "20260709",
-  "n_archivos": 2,
+  "fecha": "20260710",
+  "n_archivos": 1,
   "omitidos": [],
   "note": "Última fecha con datos publicados en Granizo/ (BART/IDEAM). El histórico completo no se replica, sólo se consulta la fecha vigente."
 }

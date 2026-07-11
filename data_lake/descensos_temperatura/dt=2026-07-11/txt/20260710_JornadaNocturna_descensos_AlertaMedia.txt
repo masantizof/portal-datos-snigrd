@@ -1,0 +1,11 @@
+Arauca: Fortul, Tame
+Boyacá: Belén, Cerinza, Corrales, Duitama, El Cocuy, Guacamayas, Gámeza, Güicán De La Sierra, Mongua, Monguí, Panqueba, San Mateo, Santa Rosa De Viterbo, Socha, Socotá, Tasco, Tutazá, Tópaga
+Cauca: Puracé, Páez, Toribío
+Cundinamarca: Cabrera, Chipaque, Choachí, Fómeque, Guasca, Junín, La Calera, San Bernardo, Soacha, Une
+Huila: Colombia, Isnos, Saladoblanco, San Agustín, Teruel
+Meta: Acacías, Lejanías, Uribe
+Norte de Santander: Chitagá, Silos
+Quindío: Génova
+Santander: Charalá, Coromoro, Encino, Guaca, Onzaga, Santa Bárbara
+Tolima: Anzoátegui, Casabianca, Chaparral, Herveo, Ibagué, Planadas, Rioblanco, Roncesvalles, Villahermosa
+Valle del Cauca: Buga, Sevilla, Tuluá
