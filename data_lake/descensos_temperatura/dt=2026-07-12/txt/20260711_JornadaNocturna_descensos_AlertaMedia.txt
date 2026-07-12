@@ -1,0 +1,8 @@
+Cauca: Puracé, Sotará
+Cesar: Valledupar
+Magdalena: Aracataca, Santa Marta
+Meta: Cubarral, Lejanías, Uribe
+Nariño: Aldana, Guachucal, Mallama, Pasto, Pupiales, Santa Cruz, Sapuyes, Túquerres
+Norte de Santander: Chitagá, Silos
+Santander: Guaca, Santa Bárbara
+Tolima: Chaparral, Rioblanco
