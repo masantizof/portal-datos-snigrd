@@ -1,0 +1,11 @@
+Arauca: Tame
+Boyacá: Belén, Chita, El Cocuy, Güicán De La Sierra, Tutazá
+Caldas: Villamaria
+Casanare: La Salina
+Cauca: Corinto, Inzá, Puracé, Páez, Silvia, Toribío, Totoró
+Huila: Isnos, Saladoblanco, Teruel
+N/A: Area En Litigio Cauca - Huila
+Nariño: Aldana, Cumbal, Funes, Guachucal, Mallama, Pasto, Pupiales, Sapuyes, Tangua, Túquerres
+Quindío: Génova
+Santander: Encino
+Tolima: Chaparral, Murillo, Planadas, Rioblanco, Roncesvalles, Santa Isabel

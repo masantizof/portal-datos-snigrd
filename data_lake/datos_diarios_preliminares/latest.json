@@ -1,7 +1,7 @@
 {
   "dataset": "datos_diarios_preliminares",
   "kind": "alerta_diaria",
-  "updated_at": "2026-07-12T00:07:16+00:00",
+  "updated_at": "2026-07-12T18:09:19+00:00",
   "files": {
     "20260203_Ranking%20PPT_%c3%bcltimos%205%20d%c3%adas.xlsx": "data_lake/datos_diarios_preliminares/dt=2026-07-12/20260203_Ranking%20PPT_%c3%bcltimos%205%20d%c3%adas.xlsx",
     "CORDOBA.xlsx": "data_lake/datos_diarios_preliminares/dt=2026-07-12/CORDOBA.xlsx",

@@ -1,7 +1,7 @@
 {
   "dataset": "hidroestimador_satelital",
   "kind": "alerta_diaria",
-  "updated_at": "2026-07-12T00:07:18+00:00",
+  "updated_at": "2026-07-12T18:09:29+00:00",
   "files": {
     "hidroestimador.log": "data_lake/hidroestimador_satelital/dt=2026-07-12/hidroestimador.log",
     "NOAA_HE_COL_20251231.tif": "data_lake/hidroestimador_satelital/dt=2026-07-12/NOAA_HE_COL_20251231.tif",
