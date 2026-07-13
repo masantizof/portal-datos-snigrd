@@ -1,7 +1,7 @@
 {
   "dataset": "cpt_prediccion_temperatura",
   "kind": "unavailable",
-  "updated_at": "2026-07-12T00:09:06+00:00",
+  "updated_at": "2026-07-13T00:10:31+00:00",
   "files": {},
   "source_url": "https://bart.ideam.gov.co/wrfideam/new_modelo/CPT/gif/PREDICCION_MENSUAL",
   "variable": "temperatura",

@@ -1,6 +1,6 @@
 {
   "repo": "masantizof/portal-datos-snigrd",
-  "generado": "2026-07-12T18:09:42+00:00",
+  "generado": "2026-07-13T00:10:34+00:00",
   "nota": "API de sólo lectura: cada URL sirve el archivo crudo del último snapshot vía raw.githubusercontent.com. No hay endpoint de consulta/filtrado — para eso ver la capa Datasette (nivel avanzado, ver README).",
   "datasets": {
     "acumulado_24h": {
@@ -45,15 +45,15 @@
     },
     "amenaza_hidrologia": {
       "kind": "vector",
-      "updated_at": "2026-07-12T18:09:42+00:00",
+      "updated_at": "2026-07-13T00:08:04+00:00",
       "source_url": "https://bart.ideam.gov.co/ospa/Alertas/modelos/hidrologia/",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/latest.json",
       "files": {
-        "Alertas_vigentes.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-12/Alertas_vigentes.dbf",
-        "Alertas_vigentes.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-12/Alertas_vigentes.prj",
-        "Alertas_vigentes.shp": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-12/Alertas_vigentes.shp",
-        "Alertas_vigentes.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-12/Alertas_vigentes.shx",
-        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-12/Alertas_vigentes.geojson"
+        "Alertas_vigentes.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-13/Alertas_vigentes.dbf",
+        "Alertas_vigentes.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-13/Alertas_vigentes.prj",
+        "Alertas_vigentes.shp": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-13/Alertas_vigentes.shp",
+        "Alertas_vigentes.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-13/Alertas_vigentes.shx",
+        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/dt=2026-07-13/Alertas_vigentes.geojson"
       }
     },
     "amenaza_icv": {
@@ -142,14 +142,14 @@
     },
     "cpt_prediccion_temperatura": {
       "kind": "unavailable",
-      "updated_at": "2026-07-12T00:09:06+00:00",
+      "updated_at": "2026-07-13T00:10:31+00:00",
       "source_url": "https://bart.ideam.gov.co/wrfideam/new_modelo/CPT/gif/PREDICCION_MENSUAL",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/cpt_prediccion_temperatura/latest.json",
       "files": {}
     },
     "cpt_prediccion_viento": {
       "kind": "unavailable",
-      "updated_at": "2026-07-12T00:09:08+00:00",
+      "updated_at": "2026-07-13T00:10:34+00:00",
       "source_url": "https://bart.ideam.gov.co/wrfideam/new_modelo/CPT/gif/PREDICCION_MENSUAL",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/cpt_prediccion_viento/latest.json",
       "files": {}
