@@ -1,0 +1,13 @@
+Arauca: Fortul
+Boyacá: Belén, Cerinza, Chita, Corrales, Duitama, Guacamayas, Gámeza, Mongua, Monguí, Panqueba, San Mateo, Santa Rosa De Viterbo, Socha, Socotá, Tasco, Tutazá, Tópaga
+Caldas: Villamaria
+Cauca: Corinto, Inzá, Páez, Silvia, Toribío
+Cundinamarca: Bogotá, D.C., Cabrera, Guasca, Gutiérrez, La Calera
+Huila: Colombia, Teruel
+Meta: Cubarral, Guamal, Lejanías, Uribe
+Nariño: Cumbal, Guachucal, Mallama, Sapuyes
+Norte de Santander: Chitagá, Silos
+Quindío: Génova
+Santander: Coromoro, Encino, Guaca, Onzaga, Santa Bárbara
+Tolima: Casabianca, Chaparral, Herveo, Murillo, Planadas, Rioblanco, Roncesvalles, Santa Isabel, Villahermosa
+Valle del Cauca: Buga
