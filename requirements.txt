@@ -17,4 +17,11 @@ openpyxl==3.1.5
 branca==0.8.2
 requests==2.34.2
 pyshp==3.0.2.post1
-shapely==2.1.1
+# shapely NO va aquí: sólo lo usa ideam_extractor.py al SIMPLIFICAR geometría
+# durante la ingesta (import perezoso, dentro de la función) -- la app en sí
+# nunca lo llama, sólo lee archivos ya generados de data_lake/. Instalarlo
+# como dependencia de la app rompía el build de Streamlit Cloud: no hay
+# wheel precompilado para Python 3.14 (el que corre Streamlit Cloud ahora)
+# y compilarlo desde código fuente exige GEOS como librería de sistema, que
+# ese entorno no tiene. El cron de GitHub Actions (Python 3.12, con wheel
+# disponible) lo instala aparte -- ver .github/workflows/ingesta-ideam.yml.
