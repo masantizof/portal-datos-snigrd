@@ -16,6 +16,19 @@ from src.downloads import boton_csv, boton_geojson, boton_png, boton_generico  #
 
 ROOT = Path(__file__).resolve().parents[1]
 
+
+def _ruta_existente(files: dict, clave: str) -> Path | None:
+    """Path(files.get(clave, "")) si la clave existe y el archivo está en
+    disco -- OJO: Path("").exists() da True (lo resuelve como '.', el
+    directorio actual), así que sin el chequeo de cadena vacía primero
+    intenta leer un directorio como si fuera un archivo (PermissionError)."""
+    ruta = files.get(clave)
+    if not ruta:
+        return None
+    p = Path(ruta)
+    return p if p.exists() else None
+
+
 ui.header(
     "Fuentes, descargas y API",
     "Catálogo completo de los datos que alimentan el portal: fuente, fecha de última "
@@ -81,38 +94,46 @@ with tab_catalogo:
                 ui.no_publicado(meta.get("note", "La fuente no tiene publicado este dataset ahora mismo."))
 
             elif kind == "vector":
-                geo = loaders.cargar_geojson(dataset)
-                tabla = loaders.cargar_tabla(dataset)
+                # Servir los bytes crudos del disco, no parsear+reserializar
+                # (cargar_geojson/cargar_tabla decodifican todo el JSON/parquet
+                # sólo para armar el botón de descarga): con capas de polígonos
+                # grandes -- p.ej. municipios/alertas_idd/alertas_icv, ~1.100
+                # features cada una -- eso tardaba >30s por dataset y hacía
+                # esta página lentísima para cualquier visitante.
                 c1, c2 = st.columns(2)
                 with c1:
-                    if tabla is not None:
-                        boton_csv(tabla, f"{dataset}.csv", key=f"cat_csv_{dataset}")
+                    p = _ruta_existente(files, "parquet")
+                    if p is not None:
+                        boton_generico(p.read_bytes(), p.name, "application/octet-stream",
+                                        "⬇️ Descargar tabla (Parquet)", key=f"cat_csv_{dataset}")
                 with c2:
-                    if geo is not None:
-                        boton_geojson(geo, f"{dataset}.geojson", key=f"cat_geo_{dataset}")
-                if geo is None and tabla is None:
-                    for nombre_a, ruta in files.items():
-                        p = Path(ruta)
-                        if p.exists():
-                            boton_generico(p.read_bytes(), p.name, "application/octet-stream",
-                                            f"⬇️ {nombre_a}", key=f"cat_vecfile_{dataset}_{nombre_a}")
+                    p = _ruta_existente(files, "geojson")
+                    if p is not None:
+                        boton_generico(p.read_bytes(), p.name, "application/geo+json",
+                                        "⬇️ Descargar GeoJSON", key=f"cat_geo_{dataset}")
+                if not files:
+                    st.caption("Sin archivos en el manifiesto.")
 
             elif kind == "raster":
-                r = loaders.cargar_raster(dataset)
-                if r:
-                    png, _, _ = r
-                    boton_png(png, f"{dataset}.png", key=f"cat_png_{dataset}")
+                p = _ruta_existente(files, "png")
+                if p is not None:
+                    boton_generico(p.read_bytes(), p.name, "image/png",
+                                    "⬇️ Descargar imagen (PNG)", key=f"cat_png_{dataset}")
 
             elif kind == "table":
-                df, ruta_xlsx = loaders.cargar_tabla_con_respaldo_xlsx(dataset)
+                # Mismo criterio que "vector": bytes crudos, sin pasar por
+                # pandas sólo para armar la descarga.
                 c1, c2 = st.columns(2)
                 with c1:
-                    if df is not None:
-                        boton_csv(df, f"{dataset}.csv", key=f"cat_csv_{dataset}")
+                    p = _ruta_existente(files, "parquet")
+                    if p is not None:
+                        boton_generico(p.read_bytes(), p.name, "application/octet-stream",
+                                        "⬇️ Descargar tabla (Parquet)", key=f"cat_csv_{dataset}")
                 with c2:
-                    if ruta_xlsx and Path(ruta_xlsx).exists():
+                    p = _ruta_existente(files, "xlsx")
+                    if p is not None:
                         boton_generico(
-                            Path(ruta_xlsx).read_bytes(), Path(ruta_xlsx).name,
+                            p.read_bytes(), p.name,
                             "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                             "⬇️ Descargar Excel", key=f"cat_xlsx_{dataset}",
                         )
@@ -126,8 +147,8 @@ with tab_catalogo:
                             boton_png(p, p.name, etiqueta=f"⬇️ {clave}", key=f"cat_imgset_{dataset}_{clave}")
 
             elif kind == "grid":
-                p = Path(files.get("data", ""))
-                if p.exists():
+                p = _ruta_existente(files, "data")
+                if p is not None:
                     boton_generico(
                         p.read_bytes(), p.name, "application/octet-stream",
                         f"⬇️ Descargar {p.name} ({meta.get('size_bytes', 0) / 1e6:.1f} MB)",

@@ -1,0 +1,14 @@
+{
+  "dataset": "municipios",
+  "kind": "vector",
+  "updated_at": "2026-07-14T19:39:47-05:00",
+  "files": {
+    "geojson": "data_lake/municipios/dt=2026-07-14/municipios.geojson",
+    "parquet": "data_lake/municipios/dt=2026-07-14/municipios.parquet"
+  },
+  "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Datos_Precipitacion/MapServer/22",
+  "descripcion": "Municipios (referencia/regionalización)",
+  "n_features": 1121,
+  "content_hash": "a78d937248219c49157abf4a0e5a4f848f9abf55870af884b2a7ddf8b0ba510e",
+  "geometry_type": "esriGeometryPolygon"
+}

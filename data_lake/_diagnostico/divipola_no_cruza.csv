@@ -1239,21 +1239,14 @@
 05380,LA ESTRELLA,ANTIOQUIA,dane
 94663,MAPIRIPANA,GUAINÍA,temp_max_municipal
 94663,MAPIRIPANA,GUAINÍA,temp_min_municipal
-18001,FLORENCIA,CAQUETÁ,amenaza_deslizamientos
 18029,ALBANIA,CAQUETÁ,amenaza_deslizamientos
-18094,BELÉN DE LOS ANDAQUÍES,CAQUETÁ,amenaza_deslizamientos
-18247,EL DONCELLO,CAQUETÁ,amenaza_deslizamientos
-18256,EL PAUJÍL,CAQUETÁ,amenaza_deslizamientos
-18410,LA MONTAÑITA,CAQUETÁ,amenaza_deslizamientos
 18460,MILÁN,CAQUETÁ,amenaza_deslizamientos
-18479,MORELIA,CAQUETÁ,amenaza_deslizamientos
 18860,VALPARAÍSO,CAQUETÁ,amenaza_deslizamientos
 18150,CARTAGENA DEL CHAIRÁ,CAQUETÁ,amenaza_deslizamientos
 18753,SAN VICENTE DEL CAGUÁN,CAQUETÁ,amenaza_deslizamientos
 18756,SOLANO,CAQUETÁ,amenaza_deslizamientos
 18785,SOLITA,CAQUETÁ,amenaza_deslizamientos
 18205,CURILLO,CAQUETÁ,amenaza_deslizamientos
-18592,PUERTO RICO,CAQUETÁ,amenaza_deslizamientos
 19001,POPAYÁN,CAUCA,amenaza_deslizamientos
 19022,ALMAGUER,CAUCA,amenaza_deslizamientos
 19050,ARGELIA,CAUCA,amenaza_deslizamientos
@@ -1289,7 +1282,6 @@
 19807,TIMBÍO,CAUCA,amenaza_deslizamientos
 19821,TORIBÍO,CAUCA,amenaza_deslizamientos
 19824,TOTORÓ,CAUCA,amenaza_deslizamientos
-19256,EL TAMBO,CAUCA,amenaza_deslizamientos
 19845,VILLA RICA,CAUCA,amenaza_deslizamientos
 76001,CALI,VALLE DEL CAUCA,amenaza_deslizamientos
 76036,ANDALUCÍA,VALLE DEL CAUCA,amenaza_deslizamientos
@@ -1298,6 +1290,7 @@
 76111,GUADALAJARA DE BUGA,VALLE DEL CAUCA,amenaza_deslizamientos
 76113,BUGALAGRANDE,VALLE DEL CAUCA,amenaza_deslizamientos
 76122,CAICEDONIA,VALLE DEL CAUCA,amenaza_deslizamientos
+76126,CALIMA,VALLE DEL CAUCA,amenaza_deslizamientos
 76130,CANDELARIA,VALLE DEL CAUCA,amenaza_deslizamientos
 76147,CARTAGO,VALLE DEL CAUCA,amenaza_deslizamientos
 76243,EL ÁGUILA,VALLE DEL CAUCA,amenaza_deslizamientos
@@ -1329,13 +1322,12 @@
 76400,LA UNIÓN,VALLE DEL CAUCA,amenaza_deslizamientos
 76377,LA CUMBRE,VALLE DEL CAUCA,amenaza_deslizamientos
 76364,JAMUNDÍ,VALLE DEL CAUCA,amenaza_deslizamientos
+76100,BOLÍVAR,VALLE DEL CAUCA,amenaza_deslizamientos
 76233,DAGUA,VALLE DEL CAUCA,amenaza_deslizamientos
-86219,COLÓN,PUTUMAYO,amenaza_deslizamientos
 86757,SAN MIGUEL,PUTUMAYO,amenaza_deslizamientos
 86865,VALLE DEL GUAMUEZ,PUTUMAYO,amenaza_deslizamientos
 86569,PUERTO CAICEDO,PUTUMAYO,amenaza_deslizamientos
 86568,PUERTO ASÍS,PUTUMAYO,amenaza_deslizamientos
-86571,PUERTO GUZMÁN,PUTUMAYO,amenaza_deslizamientos
 86573,PUERTO LEGUÍZAMO,PUTUMAYO,amenaza_deslizamientos
 52683,SANDONÁ,NARIÑO,amenaza_deslizamientos
 52685,SAN BERNARDO,NARIÑO,amenaza_deslizamientos
@@ -1351,6 +1343,7 @@
 52207,CONSACÁ,NARIÑO,amenaza_deslizamientos
 52210,CONTADERO,NARIÑO,amenaza_deslizamientos
 52215,CÓRDOBA,NARIÑO,amenaza_deslizamientos
+52001,PASTO,NARIÑO,amenaza_deslizamientos
 52019,ALBÁN,NARIÑO,amenaza_deslizamientos
 52022,ALDANA,NARIÑO,amenaza_deslizamientos
 52224,CUASPUD CARLOSAMA,NARIÑO,amenaza_deslizamientos
@@ -1370,7 +1363,6 @@
 52838,TÚQUERRES,NARIÑO,amenaza_deslizamientos
 52411,LINARES,NARIÑO,amenaza_deslizamientos
 52885,YACUANQUER,NARIÑO,amenaza_deslizamientos
-52435,MALLAMA,NARIÑO,amenaza_deslizamientos
 52378,LA CRUZ,NARIÑO,amenaza_deslizamientos
 52381,LA FLORIDA,NARIÑO,amenaza_deslizamientos
 52260,EL TAMBO,NARIÑO,amenaza_deslizamientos
@@ -1386,15 +1378,11 @@
 52227,CUMBAL,NARIÑO,amenaza_deslizamientos
 52233,CUMBITARA,NARIÑO,amenaza_deslizamientos
 52256,EL ROSARIO,NARIÑO,amenaza_deslizamientos
-52385,LA LLANADA,NARIÑO,amenaza_deslizamientos
 52418,LOS ANDES,NARIÑO,amenaza_deslizamientos
 52540,POLICARPA,NARIÑO,amenaza_deslizamientos
-52250,EL CHARCO,NARIÑO,amenaza_deslizamientos
 52390,LA TOLA,NARIÑO,amenaza_deslizamientos
 52473,MOSQUERA,NARIÑO,amenaza_deslizamientos
 52490,OLAYA HERRERA,NARIÑO,amenaza_deslizamientos
-52520,FRANCISCO PIZARRO,NARIÑO,amenaza_deslizamientos
-52621,ROBERTO PAYÁN,NARIÑO,amenaza_deslizamientos
 94001,INÍRIDA,GUAINÍA,amenaza_deslizamientos
 94343,BARRANCOMINAS,GUAINÍA,amenaza_deslizamientos
 94663,MAPIRIPANA,GUAINÍA,amenaza_deslizamientos
@@ -1483,6 +1471,7 @@
 66400,LA VIRGINIA,RISARALDA,amenaza_deslizamientos
 66440,MARSELLA,RISARALDA,amenaza_deslizamientos
 66456,MISTRATÓ,RISARALDA,amenaza_deslizamientos
+66572,PUEBLO RICO,RISARALDA,amenaza_deslizamientos
 66594,QUINCHÍA,RISARALDA,amenaza_deslizamientos
 66682,SANTA ROSA DE CABAL,RISARALDA,amenaza_deslizamientos
 66687,SANTUARIO,RISARALDA,amenaza_deslizamientos
@@ -1499,7 +1488,6 @@
 05051,ARBOLETES,ANTIOQUIA,amenaza_deslizamientos
 05044,ANZÁ,ANTIOQUIA,amenaza_deslizamientos
 05042,SANTA FÉ DE ANTIOQUIA,ANTIOQUIA,amenaza_deslizamientos
-05040,ANORÍ,ANTIOQUIA,amenaza_deslizamientos
 05038,ANGOSTURA,ANTIOQUIA,amenaza_deslizamientos
 05036,ANGELÓPOLIS,ANTIOQUIA,amenaza_deslizamientos
 05034,ANDES,ANTIOQUIA,amenaza_deslizamientos
@@ -1508,7 +1496,6 @@
 05021,ALEJANDRÍA,ANTIOQUIA,amenaza_deslizamientos
 05004,ABRIAQUÍ,ANTIOQUIA,amenaza_deslizamientos
 05002,ABEJORRAL,ANTIOQUIA,amenaza_deslizamientos
-05895,ZARAGOZA,ANTIOQUIA,amenaza_deslizamientos
 05893,YONDÓ,ANTIOQUIA,amenaza_deslizamientos
 05890,YOLOMBÓ,ANTIOQUIA,amenaza_deslizamientos
 05887,YARUMAL,ANTIOQUIA,amenaza_deslizamientos
@@ -1594,11 +1581,17 @@
 05313,GRANADA,ANTIOQUIA,amenaza_deslizamientos
 05310,GÓMEZ PLATA,ANTIOQUIA,amenaza_deslizamientos
 05308,GIRARDOTA,ANTIOQUIA,amenaza_deslizamientos
+05234,DABEIBA,ANTIOQUIA,amenaza_deslizamientos
 05284,FRONTINO,ANTIOQUIA,amenaza_deslizamientos
 05847,URRAO,ANTIOQUIA,amenaza_deslizamientos
+05475,MURINDÓ,ANTIOQUIA,amenaza_deslizamientos
 05873,VIGÍA DEL FUERTE,ANTIOQUIA,amenaza_deslizamientos
 27050,ATRATO,CHOCÓ,amenaza_deslizamientos
+27250,EL LITORAL DEL SAN JUAN,CHOCÓ,amenaza_deslizamientos
+27361,ISTMINA,CHOCÓ,amenaza_deslizamientos
 27450,MEDIO SAN JUAN,CHOCÓ,amenaza_deslizamientos
+27745,SIPÍ,CHOCÓ,amenaza_deslizamientos
+27800,UNGUÍA,CHOCÓ,amenaza_deslizamientos
 27810,UNIÓN PANAMERICANA,CHOCÓ,amenaza_deslizamientos
 23001,MONTERÍA,CÓRDOBA,amenaza_deslizamientos
 23068,AYAPEL,CÓRDOBA,amenaza_deslizamientos
@@ -1614,7 +1607,6 @@
 23419,LOS CÓRDOBAS,CÓRDOBA,amenaza_deslizamientos
 23464,MOMIL,CÓRDOBA,amenaza_deslizamientos
 23500,MOÑITOS,CÓRDOBA,amenaza_deslizamientos
-23555,PLANETA RICA,CÓRDOBA,amenaza_deslizamientos
 23570,PUEBLO NUEVO,CÓRDOBA,amenaza_deslizamientos
 23574,PUERTO ESCONDIDO,CÓRDOBA,amenaza_deslizamientos
 23586,PURÍSIMA DE LA CONCEPCIÓN,CÓRDOBA,amenaza_deslizamientos
@@ -1797,6 +1789,7 @@
 15001,TUNJA,BOYACÁ,amenaza_deslizamientos
 15051,ARCABUCO,BOYACÁ,amenaza_deslizamientos
 15087,BELÉN,BOYACÁ,amenaza_deslizamientos
+15090,BERBEO,BOYACÁ,amenaza_deslizamientos
 15092,BETÉITIVA,BOYACÁ,amenaza_deslizamientos
 15097,BOAVITA,BOYACÁ,amenaza_deslizamientos
 15104,BOYACÁ,BOYACÁ,amenaza_deslizamientos
@@ -1818,7 +1811,6 @@
 15403,LA UVITA,BOYACÁ,amenaza_deslizamientos
 15542,PESCA,BOYACÁ,amenaza_deslizamientos
 15572,PUERTO BOYACÁ,BOYACÁ,amenaza_deslizamientos
-15580,QUÍPAMA,BOYACÁ,amenaza_deslizamientos
 15757,SOCHA,BOYACÁ,amenaza_deslizamientos
 15759,SOGAMOSO,BOYACÁ,amenaza_deslizamientos
 15842,ÚMBITA,BOYACÁ,amenaza_deslizamientos
@@ -1856,11 +1848,13 @@
 15522,PANQUEBA,BOYACÁ,amenaza_deslizamientos
 15531,PAUNA,BOYACÁ,amenaza_deslizamientos
 15537,PAZ DE RÍO,BOYACÁ,amenaza_deslizamientos
+15599,RAMIRIQUÍ,BOYACÁ,amenaza_deslizamientos
 15600,RÁQUIRA,BOYACÁ,amenaza_deslizamientos
 15621,RONDÓN,BOYACÁ,amenaza_deslizamientos
 15632,SABOYÁ,BOYACÁ,amenaza_deslizamientos
 15638,SÁCHICA,BOYACÁ,amenaza_deslizamientos
 15646,SAMACÁ,BOYACÁ,amenaza_deslizamientos
+15660,SAN EDUARDO,BOYACÁ,amenaza_deslizamientos
 15664,SAN JOSÉ DE PARE,BOYACÁ,amenaza_deslizamientos
 15673,SAN MATEO,BOYACÁ,amenaza_deslizamientos
 15676,SAN MIGUEL DE SEMA,BOYACÁ,amenaza_deslizamientos
@@ -1892,7 +1886,6 @@
 15835,TURMEQUÉ,BOYACÁ,amenaza_deslizamientos
 15837,TUTA,BOYACÁ,amenaza_deslizamientos
 15839,TUTAZÁ,BOYACÁ,amenaza_deslizamientos
-15180,CHISCAS,BOYACÁ,amenaza_deslizamientos
 25019,ALBÁN,CUNDINAMARCA,amenaza_deslizamientos
 25035,ANAPOIMA,CUNDINAMARCA,amenaza_deslizamientos
 25040,ANOLAIMA,CUNDINAMARCA,amenaza_deslizamientos
@@ -1918,14 +1911,16 @@
 25286,FUNZA,CUNDINAMARCA,amenaza_deslizamientos
 25288,FÚQUENE,CUNDINAMARCA,amenaza_deslizamientos
 25295,GACHANCIPÁ,CUNDINAMARCA,amenaza_deslizamientos
+25297,GACHETÁ,CUNDINAMARCA,amenaza_deslizamientos
+25299,GAMA,CUNDINAMARCA,amenaza_deslizamientos
 25312,GRANADA,CUNDINAMARCA,amenaza_deslizamientos
 25317,GUACHETÁ,CUNDINAMARCA,amenaza_deslizamientos
 25320,GUADUAS,CUNDINAMARCA,amenaza_deslizamientos
-25322,GUASCA,CUNDINAMARCA,amenaza_deslizamientos
 25324,GUATAQUÍ,CUNDINAMARCA,amenaza_deslizamientos
 25326,GUATAVITA,CUNDINAMARCA,amenaza_deslizamientos
 25328,GUAYABAL DE SÍQUIMA,CUNDINAMARCA,amenaza_deslizamientos
 25368,JERUSALÉN,CUNDINAMARCA,amenaza_deslizamientos
+25372,JUNÍN,CUNDINAMARCA,amenaza_deslizamientos
 25377,LA CALERA,CUNDINAMARCA,amenaza_deslizamientos
 25386,LA MESA,CUNDINAMARCA,amenaza_deslizamientos
 25394,LA PALMA,CUNDINAMARCA,amenaza_deslizamientos
@@ -2027,6 +2022,7 @@
 54810,TIBÚ,NORTE DE SANTANDER,amenaza_deslizamientos
 54250,EL TARRA,NORTE DE SANTANDER,amenaza_deslizamientos
 11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",amenaza_deslizamientos
+50006,ACACÍAS,META,amenaza_deslizamientos
 50124,CABUYARO,META,amenaza_deslizamientos
 50150,CASTILLA LA NUEVA,META,amenaza_deslizamientos
 50287,FUENTE DE ORO,META,amenaza_deslizamientos
@@ -2044,7 +2040,6 @@
 41319,GUADALUPE,HUILA,amenaza_deslizamientos
 41349,HOBO,HUILA,amenaza_deslizamientos
 41357,ÍQUIRA,HUILA,amenaza_deslizamientos
-41359,ISNOS,HUILA,amenaza_deslizamientos
 41378,LA ARGENTINA,HUILA,amenaza_deslizamientos
 41396,LA PLATA,HUILA,amenaza_deslizamientos
 41483,NÁTAGA,HUILA,amenaza_deslizamientos
@@ -2072,7 +2067,7 @@
 41020,ALGECIRAS,HUILA,amenaza_deslizamientos
 41016,AIPE,HUILA,amenaza_deslizamientos
 41013,AGRADO,HUILA,amenaza_deslizamientos
-41006,ACEVEDO,HUILA,amenaza_deslizamientos
+68013,AGUADA,SANTANDER,amenaza_deslizamientos
 68020,ALBANIA,SANTANDER,amenaza_deslizamientos
 68051,ARATOCA,SANTANDER,amenaza_deslizamientos
 68077,BARBOSA,SANTANDER,amenaza_deslizamientos
@@ -2085,8 +2080,11 @@
 68152,CARCASÍ,SANTANDER,amenaza_deslizamientos
 68160,CEPITÁ,SANTANDER,amenaza_deslizamientos
 68162,CERRITO,SANTANDER,amenaza_deslizamientos
+68167,CHARALÁ,SANTANDER,amenaza_deslizamientos
 68169,CHARTA,SANTANDER,amenaza_deslizamientos
+68176,CHIMA,SANTANDER,amenaza_deslizamientos
 68179,CHIPATÁ,SANTANDER,amenaza_deslizamientos
+68190,CIMITARRA,SANTANDER,amenaza_deslizamientos
 68207,CONCEPCIÓN,SANTANDER,amenaza_deslizamientos
 68209,CONFINES,SANTANDER,amenaza_deslizamientos
 68615,RIONEGRO,SANTANDER,amenaza_deslizamientos
@@ -2099,17 +2097,22 @@
 68686,SAN MIGUEL,SANTANDER,amenaza_deslizamientos
 68689,SAN VICENTE DE CHUCURÍ,SANTANDER,amenaza_deslizamientos
 68705,SANTA BÁRBARA,SANTANDER,amenaza_deslizamientos
+68720,SANTA HELENA DEL OPÓN,SANTANDER,amenaza_deslizamientos
 68745,SIMACOTA,SANTANDER,amenaza_deslizamientos
 68755,SOCORRO,SANTANDER,amenaza_deslizamientos
+68770,SUAITA,SANTANDER,amenaza_deslizamientos
 68773,SUCRE,SANTANDER,amenaza_deslizamientos
 68780,SURATÁ,SANTANDER,amenaza_deslizamientos
 68820,TONA,SANTANDER,amenaza_deslizamientos
 68855,VALLE DE SAN JOSÉ,SANTANDER,amenaza_deslizamientos
+68861,VÉLEZ,SANTANDER,amenaza_deslizamientos
 68867,VETAS,SANTANDER,amenaza_deslizamientos
 68872,VILLANUEVA,SANTANDER,amenaza_deslizamientos
 68895,ZAPATOCA,SANTANDER,amenaza_deslizamientos
 68370,JORDÁN,SANTANDER,amenaza_deslizamientos
 68377,LA BELLEZA,SANTANDER,amenaza_deslizamientos
+68385,LANDÁZURI,SANTANDER,amenaza_deslizamientos
+68397,LA PAZ,SANTANDER,amenaza_deslizamientos
 68406,LEBRIJA,SANTANDER,amenaza_deslizamientos
 68418,LOS SANTOS,SANTANDER,amenaza_deslizamientos
 68425,MACARAVITA,SANTANDER,amenaza_deslizamientos
@@ -2118,6 +2121,7 @@
 68464,MOGOTES,SANTANDER,amenaza_deslizamientos
 68468,MOLAGAVITA,SANTANDER,amenaza_deslizamientos
 68498,OCAMONTE,SANTANDER,amenaza_deslizamientos
+68500,OIBA,SANTANDER,amenaza_deslizamientos
 68502,ONZAGA,SANTANDER,amenaza_deslizamientos
 68522,PALMAR,SANTANDER,amenaza_deslizamientos
 68524,PALMAS DEL SOCORRO,SANTANDER,amenaza_deslizamientos
@@ -2126,20 +2130,28 @@
 68572,PUENTE NACIONAL,SANTANDER,amenaza_deslizamientos
 68573,PUERTO PARRA,SANTANDER,amenaza_deslizamientos
 68575,PUERTO WILCHES,SANTANDER,amenaza_deslizamientos
+68211,CONTRATACIÓN,SANTANDER,amenaza_deslizamientos
 68217,COROMORO,SANTANDER,amenaza_deslizamientos
 68229,CURITÍ,SANTANDER,amenaza_deslizamientos
 68235,EL CARMEN DE CHUCURI,SANTANDER,amenaza_deslizamientos
+68245,EL GUACAMAYO,SANTANDER,amenaza_deslizamientos
 68255,EL PLAYÓN,SANTANDER,amenaza_deslizamientos
+68264,ENCINO,SANTANDER,amenaza_deslizamientos
 68266,ENCISO,SANTANDER,amenaza_deslizamientos
 68271,FLORIÁN,SANTANDER,amenaza_deslizamientos
 68296,GALÁN,SANTANDER,amenaza_deslizamientos
+68298,GÁMBITA,SANTANDER,amenaza_deslizamientos
 68318,GUACA,SANTANDER,amenaza_deslizamientos
+68320,GUADALUPE,SANTANDER,amenaza_deslizamientos
+68322,GUAPOTÁ,SANTANDER,amenaza_deslizamientos
 68324,GUAVATÁ,SANTANDER,amenaza_deslizamientos
 68327,GÜEPSA,SANTANDER,amenaza_deslizamientos
 68344,HATO,SANTANDER,amenaza_deslizamientos
 68368,JESÚS MARÍA,SANTANDER,amenaza_deslizamientos
 68307,GIRÓN,SANTANDER,amenaza_deslizamientos
 68276,FLORIDABLANCA,SANTANDER,amenaza_deslizamientos
+68101,BOLÍVAR,SANTANDER,amenaza_deslizamientos
+68250,EL PEÑÓN,SANTANDER,amenaza_deslizamientos
 68547,PIEDECUESTA,SANTANDER,amenaza_deslizamientos
 68001,BUCARAMANGA,SANTANDER,amenaza_deslizamientos
 73001,IBAGUÉ,TOLIMA,amenaza_deslizamientos
@@ -2218,47 +2230,76 @@
 18785,SOLITA,CAQUETÁ,amenaza_incendios
 18205,CURILLO,CAQUETÁ,amenaza_incendios
 18592,PUERTO RICO,CAQUETÁ,amenaza_incendios
+19001,POPAYÁN,CAUCA,amenaza_incendios
+19022,ALMAGUER,CAUCA,amenaza_incendios
+19050,ARGELIA,CAUCA,amenaza_incendios
+19075,BALBOA,CAUCA,amenaza_incendios
+19100,BOLÍVAR,CAUCA,amenaza_incendios
+19110,BUENOS AIRES,CAUCA,amenaza_incendios
+19130,CAJIBÍO,CAUCA,amenaza_incendios
+19137,CALDONO,CAUCA,amenaza_incendios
 19142,CALOTO,CAUCA,amenaza_incendios
+19212,CORINTO,CAUCA,amenaza_incendios
+19290,FLORENCIA,CAUCA,amenaza_incendios
+19300,GUACHENÉ,CAUCA,amenaza_incendios
 19355,INZÁ,CAUCA,amenaza_incendios
+19364,JAMBALÓ,CAUCA,amenaza_incendios
+19392,LA SIERRA,CAUCA,amenaza_incendios
+19397,LA VEGA,CAUCA,amenaza_incendios
+19450,MERCADERES,CAUCA,amenaza_incendios
+19455,MIRANDA,CAUCA,amenaza_incendios
+19473,MORALES,CAUCA,amenaza_incendios
 19513,PADILLA,CAUCA,amenaza_incendios
+19517,PÁEZ,CAUCA,amenaza_incendios
+19532,PATÍA,CAUCA,amenaza_incendios
 19533,PIAMONTE,CAUCA,amenaza_incendios
+19548,PIENDAMÓ - TUNÍA,CAUCA,amenaza_incendios
 19573,PUERTO TEJADA,CAUCA,amenaza_incendios
+19585,PURACÉ,CAUCA,amenaza_incendios
+19622,ROSAS,CAUCA,amenaza_incendios
+19693,SAN SEBASTIÁN,CAUCA,amenaza_incendios
+19698,SANTANDER DE QUILICHAO,CAUCA,amenaza_incendios
 19701,SANTA ROSA,CAUCA,amenaza_incendios
+19760,SOTARÁ - PAISPAMBA,CAUCA,amenaza_incendios
 19780,SUÁREZ,CAUCA,amenaza_incendios
+19785,SUCRE,CAUCA,amenaza_incendios
+19807,TIMBÍO,CAUCA,amenaza_incendios
+19821,TORIBÍO,CAUCA,amenaza_incendios
+19256,EL TAMBO,CAUCA,amenaza_incendios
 19318,GUAPI,CAUCA,amenaza_incendios
 19418,LÓPEZ DE MICAY,CAUCA,amenaza_incendios
 19809,TIMBIQUÍ,CAUCA,amenaza_incendios
 19845,VILLA RICA,CAUCA,amenaza_incendios
-76001,CALI,VALLE DEL CAUCA,amenaza_incendios
 76036,ANDALUCÍA,VALLE DEL CAUCA,amenaza_incendios
 76041,ANSERMANUEVO,VALLE DEL CAUCA,amenaza_incendios
 76054,ARGELIA,VALLE DEL CAUCA,amenaza_incendios
+76111,GUADALAJARA DE BUGA,VALLE DEL CAUCA,amenaza_incendios
+76122,CAICEDONIA,VALLE DEL CAUCA,amenaza_incendios
 76126,CALIMA,VALLE DEL CAUCA,amenaza_incendios
+76130,CANDELARIA,VALLE DEL CAUCA,amenaza_incendios
 76147,CARTAGO,VALLE DEL CAUCA,amenaza_incendios
 76243,EL ÁGUILA,VALLE DEL CAUCA,amenaza_incendios
 76246,EL CAIRO,VALLE DEL CAUCA,amenaza_incendios
 76248,EL CERRITO,VALLE DEL CAUCA,amenaza_incendios
 76250,EL DOVIO,VALLE DEL CAUCA,amenaza_incendios
+76275,FLORIDA,VALLE DEL CAUCA,amenaza_incendios
 76306,GINEBRA,VALLE DEL CAUCA,amenaza_incendios
 76318,GUACARÍ,VALLE DEL CAUCA,amenaza_incendios
 76020,ALCALÁ,VALLE DEL CAUCA,amenaza_incendios
 76497,OBANDO,VALLE DEL CAUCA,amenaza_incendios
+76520,PALMIRA,VALLE DEL CAUCA,amenaza_incendios
 76606,RESTREPO,VALLE DEL CAUCA,amenaza_incendios
 76616,RIOFRÍO,VALLE DEL CAUCA,amenaza_incendios
-76622,ROLDANILLO,VALLE DEL CAUCA,amenaza_incendios
 76670,SAN PEDRO,VALLE DEL CAUCA,amenaza_incendios
 76823,TORO,VALLE DEL CAUCA,amenaza_incendios
-76828,TRUJILLO,VALLE DEL CAUCA,amenaza_incendios
 76845,ULLOA,VALLE DEL CAUCA,amenaza_incendios
 76863,VERSALLES,VALLE DEL CAUCA,amenaza_incendios
+76869,VIJES,VALLE DEL CAUCA,amenaza_incendios
 76890,YOTOCO,VALLE DEL CAUCA,amenaza_incendios
-76892,YUMBO,VALLE DEL CAUCA,amenaza_incendios
-76895,ZARZAL,VALLE DEL CAUCA,amenaza_incendios
 76403,LA VICTORIA,VALLE DEL CAUCA,amenaza_incendios
 76400,LA UNIÓN,VALLE DEL CAUCA,amenaza_incendios
 76377,LA CUMBRE,VALLE DEL CAUCA,amenaza_incendios
 76364,JAMUNDÍ,VALLE DEL CAUCA,amenaza_incendios
-76100,BOLÍVAR,VALLE DEL CAUCA,amenaza_incendios
 76233,DAGUA,VALLE DEL CAUCA,amenaza_incendios
 76109,BUENAVENTURA,VALLE DEL CAUCA,amenaza_incendios
 86001,MOCOA,PUTUMAYO,amenaza_incendios
@@ -2275,28 +2316,41 @@
 86571,PUERTO GUZMÁN,PUTUMAYO,amenaza_incendios
 86573,PUERTO LEGUÍZAMO,PUTUMAYO,amenaza_incendios
 52685,SAN BERNARDO,NARIÑO,amenaza_incendios
+52687,SAN LORENZO,NARIÑO,amenaza_incendios
 52560,POTOSÍ,NARIÑO,amenaza_incendios
+52693,SAN PABLO,NARIÑO,amenaza_incendios
+52694,SAN PEDRO DE CARTAGO,NARIÑO,amenaza_incendios
 52573,PUERRES,NARIÑO,amenaza_incendios
+52699,SANTACRUZ,NARIÑO,amenaza_incendios
 52585,PUPIALES,NARIÑO,amenaza_incendios
-52207,CONSACÁ,NARIÑO,amenaza_incendios
-52210,CONTADERO,NARIÑO,amenaza_incendios
 52215,CÓRDOBA,NARIÑO,amenaza_incendios
-52001,PASTO,NARIÑO,amenaza_incendios
+52019,ALBÁN,NARIÑO,amenaza_incendios
 52022,ALDANA,NARIÑO,amenaza_incendios
 52224,CUASPUD CARLOSAMA,NARIÑO,amenaza_incendios
+52051,ARBOLEDA,NARIÑO,amenaza_incendios
+52083,BELÉN,NARIÑO,amenaza_incendios
+52110,BUESACO,NARIÑO,amenaza_incendios
+52203,COLÓN,NARIÑO,amenaza_incendios
 52480,NARIÑO,NARIÑO,amenaza_incendios
-52720,SAPUYES,NARIÑO,amenaza_incendios
+52786,TAMINANGO,NARIÑO,amenaza_incendios
 52788,TANGUA,NARIÑO,amenaza_incendios
+52240,CHACHAGÜÍ,NARIÑO,amenaza_incendios
+52254,EL PEÑOL,NARIÑO,amenaza_incendios
 52258,EL TABLÓN DE GÓMEZ,NARIÑO,amenaza_incendios
-52885,YACUANQUER,NARIÑO,amenaza_incendios
-52287,FUNES,NARIÑO,amenaza_incendios
+52435,MALLAMA,NARIÑO,amenaza_incendios
+52378,LA CRUZ,NARIÑO,amenaza_incendios
 52317,GUACHUCAL,NARIÑO,amenaza_incendios
+52399,LA UNIÓN,NARIÑO,amenaza_incendios
+52405,LEIVA,NARIÑO,amenaza_incendios
 52323,GUALMATÁN,NARIÑO,amenaza_incendios
 52356,IPIALES,NARIÑO,amenaza_incendios
 52227,CUMBAL,NARIÑO,amenaza_incendios
-52233,CUMBITARA,NARIÑO,amenaza_incendios
+52256,EL ROSARIO,NARIÑO,amenaza_incendios
+52385,LA LLANADA,NARIÑO,amenaza_incendios
+52540,POLICARPA,NARIÑO,amenaza_incendios
 52612,RICAURTE,NARIÑO,amenaza_incendios
 52079,BARBACOAS,NARIÑO,amenaza_incendios
+52250,EL CHARCO,NARIÑO,amenaza_incendios
 52390,LA TOLA,NARIÑO,amenaza_incendios
 52427,MAGÜÍ,NARIÑO,amenaza_incendios
 52473,MOSQUERA,NARIÑO,amenaza_incendios
@@ -2357,7 +2411,7 @@
 95015,CALAMAR,GUAVIARE,amenaza_incendios
 95025,EL RETORNO,GUAVIARE,amenaza_incendios
 95200,MIRAFLORES,GUAVIARE,amenaza_incendios
-17001,MANIZALES,CALDAS,amenaza_incendios
+17013,AGUADAS,CALDAS,amenaza_incendios
 17486,NEIRA,CALDAS,amenaza_incendios
 17442,MARMATO,CALDAS,amenaza_incendios
 17388,LA MERCED,CALDAS,amenaza_incendios
@@ -2367,21 +2421,24 @@
 17050,ARANZAZU,CALDAS,amenaza_incendios
 17042,ANSERMA,CALDAS,amenaza_incendios
 17877,VITERBO,CALDAS,amenaza_incendios
-17873,VILLAMARÍA,CALDAS,amenaza_incendios
 17777,SUPÍA,CALDAS,amenaza_incendios
 17665,SAN JOSÉ,CALDAS,amenaza_incendios
-17653,SALAMINA,CALDAS,amenaza_incendios
 17616,RISARALDA,CALDAS,amenaza_incendios
 17524,PALESTINA,CALDAS,amenaza_incendios
 17513,PÁCORA,CALDAS,amenaza_incendios
 17614,RIOSUCIO,CALDAS,amenaza_incendios
 63001,ARMENIA,QUINDIO,amenaza_incendios
 63111,BUENAVISTA,QUINDIO,amenaza_incendios
+63130,CALARCÁ,QUINDIO,amenaza_incendios
 63190,CIRCASIA,QUINDIO,amenaza_incendios
+63212,CÓRDOBA,QUINDIO,amenaza_incendios
 63272,FILANDIA,QUINDIO,amenaza_incendios
 63401,LA TEBAIDA,QUINDIO,amenaza_incendios
 63470,MONTENEGRO,QUINDIO,amenaza_incendios
+63548,PIJAO,QUINDIO,amenaza_incendios
 63594,QUIMBAYA,QUINDIO,amenaza_incendios
+63690,SALENTO,QUINDIO,amenaza_incendios
+66001,PEREIRA,RISARALDA,amenaza_incendios
 66045,APÍA,RISARALDA,amenaza_incendios
 66075,BALBOA,RISARALDA,amenaza_incendios
 66088,BELÉN DE UMBRÍA,RISARALDA,amenaza_incendios
@@ -2393,20 +2450,25 @@
 66456,MISTRATÓ,RISARALDA,amenaza_incendios
 66572,PUEBLO RICO,RISARALDA,amenaza_incendios
 66594,QUINCHÍA,RISARALDA,amenaza_incendios
+66682,SANTA ROSA DE CABAL,RISARALDA,amenaza_incendios
 66687,SANTUARIO,RISARALDA,amenaza_incendios
+05001,MEDELLÍN,ANTIOQUIA,amenaza_incendios
 05101,CIUDAD BOLÍVAR,ANTIOQUIA,amenaza_incendios
 05107,BRICEÑO,ANTIOQUIA,amenaza_incendios
 05113,BURITICÁ,ANTIOQUIA,amenaza_incendios
 05120,CÁCERES,ANTIOQUIA,amenaza_incendios
 05091,BETANIA,ANTIOQUIA,amenaza_incendios
 05086,BELMIRA,ANTIOQUIA,amenaza_incendios
+05079,BARBOSA,ANTIOQUIA,amenaza_incendios
+05055,ARGELIA,ANTIOQUIA,amenaza_incendios
 05051,ARBOLETES,ANTIOQUIA,amenaza_incendios
-05042,SANTA FÉ DE ANTIOQUIA,ANTIOQUIA,amenaza_incendios
 05040,ANORÍ,ANTIOQUIA,amenaza_incendios
 05038,ANGOSTURA,ANTIOQUIA,amenaza_incendios
+05036,ANGELÓPOLIS,ANTIOQUIA,amenaza_incendios
 05034,ANDES,ANTIOQUIA,amenaza_incendios
 05031,AMALFI,ANTIOQUIA,amenaza_incendios
 05030,AMAGÁ,ANTIOQUIA,amenaza_incendios
+05021,ALEJANDRÍA,ANTIOQUIA,amenaza_incendios
 05004,ABRIAQUÍ,ANTIOQUIA,amenaza_incendios
 05895,ZARAGOZA,ANTIOQUIA,amenaza_incendios
 05893,YONDÓ,ANTIOQUIA,amenaza_incendios
@@ -2420,51 +2482,77 @@
 05842,URAMITA,ANTIOQUIA,amenaza_incendios
 05837,TURBO,ANTIOQUIA,amenaza_incendios
 05819,TOLEDO,ANTIOQUIA,amenaza_incendios
+05809,TITIRIBÍ,ANTIOQUIA,amenaza_incendios
 05792,TARSO,ANTIOQUIA,amenaza_incendios
 05790,TARAZÁ,ANTIOQUIA,amenaza_incendios
 05789,TÁMESIS,ANTIOQUIA,amenaza_incendios
 05736,SEGOVIA,ANTIOQUIA,amenaza_incendios
+05697,EL SANTUARIO,ANTIOQUIA,amenaza_incendios
 05690,SANTO DOMINGO,ANTIOQUIA,amenaza_incendios
 05686,SANTA ROSA DE OSOS,ANTIOQUIA,amenaza_incendios
 05306,GIRALDO,ANTIOQUIA,amenaza_incendios
+05266,ENVIGADO,ANTIOQUIA,amenaza_incendios
 05264,ENTRERRÍOS,ANTIOQUIA,amenaza_incendios
 05250,EL BAGRE,ANTIOQUIA,amenaza_incendios
+05240,EBÉJICO,ANTIOQUIA,amenaza_incendios
+05237,DONMATÍAS,ANTIOQUIA,amenaza_incendios
+05212,COPACABANA,ANTIOQUIA,amenaza_incendios
+05206,CONCEPCIÓN,ANTIOQUIA,amenaza_incendios
+05197,COCORNÁ,ANTIOQUIA,amenaza_incendios
 05190,CISNEROS,ANTIOQUIA,amenaza_incendios
 05172,CHIGORODÓ,ANTIOQUIA,amenaza_incendios
 05154,CAUCASIA,ANTIOQUIA,amenaza_incendios
 05150,CAROLINA,ANTIOQUIA,amenaza_incendios
+05148,EL CARMEN DE VIBORAL,ANTIOQUIA,amenaza_incendios
 05147,CAREPA,ANTIOQUIA,amenaza_incendios
 05145,CARAMANTA,ANTIOQUIA,amenaza_incendios
 05142,CARACOLÍ,ANTIOQUIA,amenaza_incendios
 05138,CAÑASGORDAS,ANTIOQUIA,amenaza_incendios
 05134,CAMPAMENTO,ANTIOQUIA,amenaza_incendios
-05125,CAICEDO,ANTIOQUIA,amenaza_incendios
+05129,CALDAS,ANTIOQUIA,amenaza_incendios
+05674,SAN VICENTE FERRER,ANTIOQUIA,amenaza_incendios
 05670,SAN ROQUE,ANTIOQUIA,amenaza_incendios
+05667,SAN RAFAEL,ANTIOQUIA,amenaza_incendios
 05665,SAN PEDRO DE URABÁ,ANTIOQUIA,amenaza_incendios
+05660,SAN LUIS,ANTIOQUIA,amenaza_incendios
 05659,SAN JUAN DE URABÁ,ANTIOQUIA,amenaza_incendios
 05658,SAN JOSÉ DE LA MONTAÑA,ANTIOQUIA,amenaza_incendios
+05652,SAN FRANCISCO,ANTIOQUIA,amenaza_incendios
+05649,SAN CARLOS,ANTIOQUIA,amenaza_incendios
 05647,SAN ANDRÉS DE CUERQUÍA,ANTIOQUIA,amenaza_incendios
 05642,SALGAR,ANTIOQUIA,amenaza_incendios
 05628,SABANALARGA,ANTIOQUIA,amenaza_incendios
+05615,RIONEGRO,ANTIOQUIA,amenaza_incendios
+05607,RETIRO,ANTIOQUIA,amenaza_incendios
 05604,REMEDIOS,ANTIOQUIA,amenaza_incendios
+05591,PUERTO TRIUNFO,ANTIOQUIA,amenaza_incendios
+05585,PUERTO NARE,ANTIOQUIA,amenaza_incendios
 05579,PUERTO BERRÍO,ANTIOQUIA,amenaza_incendios
 05576,PUEBLORRICO,ANTIOQUIA,amenaza_incendios
 05543,PEQUE,ANTIOQUIA,amenaza_incendios
-05501,OLAYA,ANTIOQUIA,amenaza_incendios
+05541,PEÑOL,ANTIOQUIA,amenaza_incendios
 05495,NECHÍ,ANTIOQUIA,amenaza_incendios
 05490,NECOCLÍ,ANTIOQUIA,amenaza_incendios
+05483,NARIÑO,ANTIOQUIA,amenaza_incendios
 05480,MUTATÁ,ANTIOQUIA,amenaza_incendios
+05440,MARINILLA,ANTIOQUIA,amenaza_incendios
 05425,MACEO,ANTIOQUIA,amenaza_incendios
-05411,LIBORINA,ANTIOQUIA,amenaza_incendios
+05400,LA UNIÓN,ANTIOQUIA,amenaza_incendios
+05376,LA CEJA,ANTIOQUIA,amenaza_incendios
 05368,JERICÓ,ANTIOQUIA,amenaza_incendios
 05364,JARDÍN,ANTIOQUIA,amenaza_incendios
+05360,ITAGÜÍ,ANTIOQUIA,amenaza_incendios
 05353,HISPANIA,ANTIOQUIA,amenaza_incendios
+05347,HELICONIA,ANTIOQUIA,amenaza_incendios
+05321,GUATAPÉ,ANTIOQUIA,amenaza_incendios
+05318,GUARNE,ANTIOQUIA,amenaza_incendios
 05315,GUADALUPE,ANTIOQUIA,amenaza_incendios
+05313,GRANADA,ANTIOQUIA,amenaza_incendios
 05310,GÓMEZ PLATA,ANTIOQUIA,amenaza_incendios
+05308,GIRARDOTA,ANTIOQUIA,amenaza_incendios
 05234,DABEIBA,ANTIOQUIA,amenaza_incendios
 05284,FRONTINO,ANTIOQUIA,amenaza_incendios
 05361,ITUANGO,ANTIOQUIA,amenaza_incendios
-05847,URRAO,ANTIOQUIA,amenaza_incendios
 05475,MURINDÓ,ANTIOQUIA,amenaza_incendios
 05873,VIGÍA DEL FUERTE,ANTIOQUIA,amenaza_incendios
 05045,APARTADÓ,ANTIOQUIA,amenaza_incendios
@@ -2499,17 +2587,21 @@
 27800,UNGUÍA,CHOCÓ,amenaza_incendios
 27810,UNIÓN PANAMERICANA,CHOCÓ,amenaza_incendios
 52835,SAN ANDRÉS DE TUMACO,NARIÑO,amenaza_incendios
+23001,MONTERÍA,CÓRDOBA,amenaza_incendios
 23068,AYAPEL,CÓRDOBA,amenaza_incendios
 23079,BUENAVISTA,CÓRDOBA,amenaza_incendios
 23090,CANALETE,CÓRDOBA,amenaza_incendios
 23162,CERETÉ,CÓRDOBA,amenaza_incendios
+23168,CHIMÁ,CÓRDOBA,amenaza_incendios
 23182,CHINÚ,CÓRDOBA,amenaza_incendios
+23189,CIÉNAGA DE ORO,CÓRDOBA,amenaza_incendios
 23300,COTORRA,CÓRDOBA,amenaza_incendios
 23350,LA APARTADA,CÓRDOBA,amenaza_incendios
 23417,LORICA,CÓRDOBA,amenaza_incendios
 23419,LOS CÓRDOBAS,CÓRDOBA,amenaza_incendios
 23464,MOMIL,CÓRDOBA,amenaza_incendios
 23500,MOÑITOS,CÓRDOBA,amenaza_incendios
+23555,PLANETA RICA,CÓRDOBA,amenaza_incendios
 23570,PUEBLO NUEVO,CÓRDOBA,amenaza_incendios
 23574,PUERTO ESCONDIDO,CÓRDOBA,amenaza_incendios
 23586,PURÍSIMA DE LA CONCEPCIÓN,CÓRDOBA,amenaza_incendios
@@ -2525,35 +2617,48 @@
 23466,MONTELÍBANO,CÓRDOBA,amenaza_incendios
 23580,PUERTO LIBERTADOR,CÓRDOBA,amenaza_incendios
 23807,TIERRALTA,CÓRDOBA,amenaza_incendios
-08436,MANATÍ,ATLÁNTICO,amenaza_incendios
+08137,CAMPO DE LA CRUZ,ATLÁNTICO,amenaza_incendios
 08675,SANTA LUCÍA,ATLÁNTICO,amenaza_incendios
 08770,SUAN,ATLÁNTICO,amenaza_incendios
 13006,ACHÍ,BOLÍVAR,amenaza_incendios
 13030,ALTOS DEL ROSARIO,BOLÍVAR,amenaza_incendios
 13042,ARENAL,BOLÍVAR,amenaza_incendios
+13052,ARJONA,BOLÍVAR,amenaza_incendios
+13062,ARROYOHONDO,BOLÍVAR,amenaza_incendios
 13074,BARRANCO DE LOBA,BOLÍVAR,amenaza_incendios
 13160,CANTAGALLO,BOLÍVAR,amenaza_incendios
 13188,CICUCO,BOLÍVAR,amenaza_incendios
 13212,CÓRDOBA,BOLÍVAR,amenaza_incendios
+13222,CLEMENCIA,BOLÍVAR,amenaza_incendios
 13244,EL CARMEN DE BOLÍVAR,BOLÍVAR,amenaza_incendios
 13248,EL GUAMO,BOLÍVAR,amenaza_incendios
 13268,EL PEÑÓN,BOLÍVAR,amenaza_incendios
+13433,MAHATES,BOLÍVAR,amenaza_incendios
 13440,MARGARITA,BOLÍVAR,amenaza_incendios
 13442,MARÍA LA BAJA,BOLÍVAR,amenaza_incendios
 13458,MONTECRISTO,BOLÍVAR,amenaza_incendios
 13468,MOMPÓS,BOLÍVAR,amenaza_incendios
+13473,MORALES,BOLÍVAR,amenaza_incendios
 13490,NOROSÍ,BOLÍVAR,amenaza_incendios
 13549,PINILLOS,BOLÍVAR,amenaza_incendios
 13580,REGIDOR,BOLÍVAR,amenaza_incendios
+13600,RÍO VIEJO,BOLÍVAR,amenaza_incendios
+13620,SAN CRISTÓBAL,BOLÍVAR,amenaza_incendios
+13647,SAN ESTANISLAO,BOLÍVAR,amenaza_incendios
 13654,SAN JACINTO,BOLÍVAR,amenaza_incendios
 13655,SAN JACINTO DEL CAUCA,BOLÍVAR,amenaza_incendios
 13657,SAN JUAN NEPOMUCENO,BOLÍVAR,amenaza_incendios
 13667,SAN MARTÍN DE LOBA,BOLÍVAR,amenaza_incendios
 13670,SAN PABLO,BOLÍVAR,amenaza_incendios
+13683,SANTA ROSA,BOLÍVAR,amenaza_incendios
 13688,SANTA ROSA DEL SUR,BOLÍVAR,amenaza_incendios
 13744,SIMITÍ,BOLÍVAR,amenaza_incendios
+13760,SOPLAVIENTO,BOLÍVAR,amenaza_incendios
 13780,TALAIGUA NUEVO,BOLÍVAR,amenaza_incendios
 13810,TIQUISIO,BOLÍVAR,amenaza_incendios
+13836,TURBACO,BOLÍVAR,amenaza_incendios
+13838,TURBANÁ,BOLÍVAR,amenaza_incendios
+13873,VILLANUEVA,BOLÍVAR,amenaza_incendios
 13894,ZAMBRANO,BOLÍVAR,amenaza_incendios
 20032,ASTREA,CESAR,amenaza_incendios
 20060,BOSCONIA,CESAR,amenaza_incendios
@@ -2562,32 +2667,37 @@
 20228,CURUMANÍ,CESAR,amenaza_incendios
 20238,EL COPEY,CESAR,amenaza_incendios
 20250,EL PASO,CESAR,amenaza_incendios
+20295,GAMARRA,CESAR,amenaza_incendios
 20310,GONZÁLEZ,CESAR,amenaza_incendios
+20383,LA GLORIA,CESAR,amenaza_incendios
 20400,LA JAGUA DE IBIRICO,CESAR,amenaza_incendios
 20517,PAILITAS,CESAR,amenaza_incendios
+20550,PELAYA,CESAR,amenaza_incendios
+20614,RÍO DE ORO,CESAR,amenaza_incendios
 20710,SAN ALBERTO,CESAR,amenaza_incendios
-20750,SAN DIEGO,CESAR,amenaza_incendios
 20787,TAMALAMEQUE,CESAR,amenaza_incendios
 20013,AGUSTÍN CODAZZI,CESAR,amenaza_incendios
 20045,BECERRIL,CESAR,amenaza_incendios
-20621,LA PAZ,CESAR,amenaza_incendios
 20570,PUEBLO BELLO,CESAR,amenaza_incendios
 20770,SAN MARTÍN,CESAR,amenaza_incendios
-44078,BARRANCAS,LA GUAJIRA,amenaza_incendios
-44378,HATONUEVO,LA GUAJIRA,amenaza_incendios
-44035,ALBANIA,LA GUAJIRA,amenaza_incendios
-44090,DIBULLA,LA GUAJIRA,amenaza_incendios
-44847,URIBIA,LA GUAJIRA,amenaza_incendios
+20011,AGUACHICA,CESAR,amenaza_incendios
+44110,EL MOLINO,LA GUAJIRA,amenaza_incendios
 47541,PEDRAZA,MAGDALENA,amenaza_incendios
 47030,ALGARROBO,MAGDALENA,amenaza_incendios
 47058,ARIGUANÍ,MAGDALENA,amenaza_incendios
+47161,CERRO DE SAN ANTONIO,MAGDALENA,amenaza_incendios
 47170,CHIVOLO,MAGDALENA,amenaza_incendios
 47205,CONCORDIA,MAGDALENA,amenaza_incendios
+47258,EL PIÑÓN,MAGDALENA,amenaza_incendios
+47268,EL RETÉN,MAGDALENA,amenaza_incendios
 47318,GUAMAL,MAGDALENA,amenaza_incendios
 47460,NUEVA GRANADA,MAGDALENA,amenaza_incendios
 47545,PIJIÑO DEL CARMEN,MAGDALENA,amenaza_incendios
+47551,PIVIJAY,MAGDALENA,amenaza_incendios
 47555,PLATO,MAGDALENA,amenaza_incendios
+47570,PUEBLOVIEJO,MAGDALENA,amenaza_incendios
 47660,SABANAS DE SAN ÁNGEL,MAGDALENA,amenaza_incendios
+47675,SALAMINA,MAGDALENA,amenaza_incendios
 47703,SAN ZENÓN,MAGDALENA,amenaza_incendios
 47707,SANTA ANA,MAGDALENA,amenaza_incendios
 47720,SANTA BÁRBARA DE PINTO,MAGDALENA,amenaza_incendios
@@ -2597,12 +2707,12 @@
 47053,ARACATACA,MAGDALENA,amenaza_incendios
 47189,CIÉNAGA,MAGDALENA,amenaza_incendios
 47288,FUNDACIÓN,MAGDALENA,amenaza_incendios
-47001,SANTA MARTA,MAGDALENA,amenaza_incendios
 47245,EL BANCO,MAGDALENA,amenaza_incendios
 70001,SINCELEJO,SUCRE,amenaza_incendios
 70110,BUENAVISTA,SUCRE,amenaza_incendios
 70124,CAIMITO,SUCRE,amenaza_incendios
 70204,COLOSÓ,SUCRE,amenaza_incendios
+70215,COROZAL,SUCRE,amenaza_incendios
 70221,COVEÑAS,SUCRE,amenaza_incendios
 70230,CHALÁN,SUCRE,amenaza_incendios
 70233,EL ROBLE,SUCRE,amenaza_incendios
@@ -2649,6 +2759,7 @@
 15135,CAMPOHERMOSO,BOYACÁ,amenaza_incendios
 15162,CERINZA,BOYACÁ,amenaza_incendios
 15172,CHINAVITA,BOYACÁ,amenaza_incendios
+15176,CHIQUINQUIRÁ,BOYACÁ,amenaza_incendios
 15183,CHITA,BOYACÁ,amenaza_incendios
 15185,CHITARAQUE,BOYACÁ,amenaza_incendios
 15187,CHIVATÁ,BOYACÁ,amenaza_incendios
@@ -2698,6 +2809,7 @@
 15466,MONGUÍ,BOYACÁ,amenaza_incendios
 15469,MONIQUIRÁ,BOYACÁ,amenaza_incendios
 15476,MOTAVITA,BOYACÁ,amenaza_incendios
+15480,MUZO,BOYACÁ,amenaza_incendios
 15491,NOBSA,BOYACÁ,amenaza_incendios
 15494,NUEVO COLÓN,BOYACÁ,amenaza_incendios
 15500,OICATÁ,BOYACÁ,amenaza_incendios
@@ -2713,16 +2825,19 @@
 15599,RAMIRIQUÍ,BOYACÁ,amenaza_incendios
 15600,RÁQUIRA,BOYACÁ,amenaza_incendios
 15621,RONDÓN,BOYACÁ,amenaza_incendios
+15632,SABOYÁ,BOYACÁ,amenaza_incendios
 15638,SÁCHICA,BOYACÁ,amenaza_incendios
 15646,SAMACÁ,BOYACÁ,amenaza_incendios
 15660,SAN EDUARDO,BOYACÁ,amenaza_incendios
 15664,SAN JOSÉ DE PARE,BOYACÁ,amenaza_incendios
 15667,SAN LUIS DE GACENO,BOYACÁ,amenaza_incendios
 15673,SAN MATEO,BOYACÁ,amenaza_incendios
+15676,SAN MIGUEL DE SEMA,BOYACÁ,amenaza_incendios
 15681,SAN PABLO DE BORBUR,BOYACÁ,amenaza_incendios
 15686,SANTANA,BOYACÁ,amenaza_incendios
 15690,SANTA MARÍA,BOYACÁ,amenaza_incendios
 15693,SANTA ROSA DE VITERBO,BOYACÁ,amenaza_incendios
+15696,SANTA SOFÍA,BOYACÁ,amenaza_incendios
 15720,SATIVANORTE,BOYACÁ,amenaza_incendios
 15723,SATIVASUR,BOYACÁ,amenaza_incendios
 15740,SIACHOQUE,BOYACÁ,amenaza_incendios
@@ -2731,6 +2846,7 @@
 15763,SOTAQUIRÁ,BOYACÁ,amenaza_incendios
 15764,SORACÁ,BOYACÁ,amenaza_incendios
 15774,SUSACÓN,BOYACÁ,amenaza_incendios
+15776,SUTAMARCHÁN,BOYACÁ,amenaza_incendios
 15778,SUTATENZA,BOYACÁ,amenaza_incendios
 15790,TASCO,BOYACÁ,amenaza_incendios
 15798,TENZA,BOYACÁ,amenaza_incendios
@@ -2749,9 +2865,6 @@
 15180,CHISCAS,BOYACÁ,amenaza_incendios
 15223,CUBARÁ,BOYACÁ,amenaza_incendios
 15332,GÜICÁN DE LA SIERRA,BOYACÁ,amenaza_incendios
-25053,ARBELÁEZ,CUNDINAMARCA,amenaza_incendios
-25099,BOJACÁ,CUNDINAMARCA,amenaza_incendios
-25120,CABRERA,CUNDINAMARCA,amenaza_incendios
 25126,CAJICÁ,CUNDINAMARCA,amenaza_incendios
 25151,CÁQUEZA,CUNDINAMARCA,amenaza_incendios
 25154,CARMEN DE CARUPA,CUNDINAMARCA,amenaza_incendios
@@ -2761,7 +2874,8 @@
 25200,COGUA,CUNDINAMARCA,amenaza_incendios
 25214,COTA,CUNDINAMARCA,amenaza_incendios
 25224,CUCUNUBÁ,CUNDINAMARCA,amenaza_incendios
-25245,EL COLEGIO,CUNDINAMARCA,amenaza_incendios
+25258,EL PEÑÓN,CUNDINAMARCA,amenaza_incendios
+25269,FACATATIVÁ,CUNDINAMARCA,amenaza_incendios
 25279,FÓMEQUE,CUNDINAMARCA,amenaza_incendios
 25281,FOSCA,CUNDINAMARCA,amenaza_incendios
 25286,FUNZA,CUNDINAMARCA,amenaza_incendios
@@ -2770,67 +2884,85 @@
 25295,GACHANCIPÁ,CUNDINAMARCA,amenaza_incendios
 25297,GACHETÁ,CUNDINAMARCA,amenaza_incendios
 25299,GAMA,CUNDINAMARCA,amenaza_incendios
-25312,GRANADA,CUNDINAMARCA,amenaza_incendios
 25317,GUACHETÁ,CUNDINAMARCA,amenaza_incendios
 25322,GUASCA,CUNDINAMARCA,amenaza_incendios
+25324,GUATAQUÍ,CUNDINAMARCA,amenaza_incendios
 25326,GUATAVITA,CUNDINAMARCA,amenaza_incendios
 25335,GUAYABETAL,CUNDINAMARCA,amenaza_incendios
 25339,GUTIÉRREZ,CUNDINAMARCA,amenaza_incendios
 25372,JUNÍN,CUNDINAMARCA,amenaza_incendios
 25377,LA CALERA,CUNDINAMARCA,amenaza_incendios
+25402,LA VEGA,CUNDINAMARCA,amenaza_incendios
 25407,LENGUAZAQUE,CUNDINAMARCA,amenaza_incendios
 25426,MACHETÁ,CUNDINAMARCA,amenaza_incendios
 25430,MADRID,CUNDINAMARCA,amenaza_incendios
 25436,MANTA,CUNDINAMARCA,amenaza_incendios
 25438,MEDINA,CUNDINAMARCA,amenaza_incendios
+25483,NARIÑO,CUNDINAMARCA,amenaza_incendios
 25486,NEMOCÓN,CUNDINAMARCA,amenaza_incendios
-25488,NILO,CUNDINAMARCA,amenaza_incendios
-25506,VENECIA,CUNDINAMARCA,amenaza_incendios
-25524,PANDI,CUNDINAMARCA,amenaza_incendios
+25518,PAIME,CUNDINAMARCA,amenaza_incendios
 25530,PARATEBUENO,CUNDINAMARCA,amenaza_incendios
-25535,PASCA,CUNDINAMARCA,amenaza_incendios
 25594,QUETAME,CUNDINAMARCA,amenaza_incendios
-25645,SAN ANTONIO DEL TEQUENDAMA,CUNDINAMARCA,amenaza_incendios
-25649,SAN BERNARDO,CUNDINAMARCA,amenaza_incendios
+25653,SAN CAYETANO,CUNDINAMARCA,amenaza_incendios
+25658,SAN FRANCISCO,CUNDINAMARCA,amenaza_incendios
 25736,SESQUILÉ,CUNDINAMARCA,amenaza_incendios
 25745,SIMIJACA,CUNDINAMARCA,amenaza_incendios
 25758,SOPÓ,CUNDINAMARCA,amenaza_incendios
+25769,SUBACHOQUE,CUNDINAMARCA,amenaza_incendios
 25772,SUESCA,CUNDINAMARCA,amenaza_incendios
+25777,SUPATÁ,CUNDINAMARCA,amenaza_incendios
 25779,SUSA,CUNDINAMARCA,amenaza_incendios
 25781,SUTATAUSA,CUNDINAMARCA,amenaza_incendios
 25785,TABIO,CUNDINAMARCA,amenaza_incendios
 25793,TAUSA,CUNDINAMARCA,amenaza_incendios
-25797,TENA,CUNDINAMARCA,amenaza_incendios
 25799,TENJO,CUNDINAMARCA,amenaza_incendios
 25807,TIBIRITA,CUNDINAMARCA,amenaza_incendios
 25817,TOCANCIPÁ,CUNDINAMARCA,amenaza_incendios
+25823,TOPAIPÍ,CUNDINAMARCA,amenaza_incendios
 25839,UBALÁ,CUNDINAMARCA,amenaza_incendios
 25841,UBAQUE,CUNDINAMARCA,amenaza_incendios
 25843,VILLA DE SAN DIEGO DE UBATÉ,CUNDINAMARCA,amenaza_incendios
 25845,UNE,CUNDINAMARCA,amenaza_incendios
+25862,VERGARA,CUNDINAMARCA,amenaza_incendios
+25871,VILLAGÓMEZ,CUNDINAMARCA,amenaza_incendios
 25873,VILLAPINZÓN,CUNDINAMARCA,amenaza_incendios
+25885,YACOPÍ,CUNDINAMARCA,amenaza_incendios
 25899,ZIPAQUIRÁ,CUNDINAMARCA,amenaza_incendios
+54003,ÁBREGO,NORTE DE SANTANDER,amenaza_incendios
+54051,ARBOLEDAS,NORTE DE SANTANDER,amenaza_incendios
+54109,BUCARASICA,NORTE DE SANTANDER,amenaza_incendios
 54125,CÁCOTA,NORTE DE SANTANDER,amenaza_incendios
 54128,CÁCHIRA,NORTE DE SANTANDER,amenaza_incendios
 54172,CHINÁCOTA,NORTE DE SANTANDER,amenaza_incendios
+54223,CUCUTILLA,NORTE DE SANTANDER,amenaza_incendios
+54313,GRAMALOTE,NORTE DE SANTANDER,amenaza_incendios
+54344,HACARÍ,NORTE DE SANTANDER,amenaza_incendios
 54347,HERRÁN,NORTE DE SANTANDER,amenaza_incendios
 54377,LABATECA,NORTE DE SANTANDER,amenaza_incendios
 54385,LA ESPERANZA,NORTE DE SANTANDER,amenaza_incendios
 54398,LA PLAYA,NORTE DE SANTANDER,amenaza_incendios
+54418,LOURDES,NORTE DE SANTANDER,amenaza_incendios
 54480,MUTISCUA,NORTE DE SANTANDER,amenaza_incendios
+54498,OCAÑA,NORTE DE SANTANDER,amenaza_incendios
 54518,PAMPLONA,NORTE DE SANTANDER,amenaza_incendios
 54520,PAMPLONITA,NORTE DE SANTANDER,amenaza_incendios
 54553,PUERTO SANTANDER,NORTE DE SANTANDER,amenaza_incendios
 54599,RAGONVALIA,NORTE DE SANTANDER,amenaza_incendios
+54660,SALAZAR,NORTE DE SANTANDER,amenaza_incendios
 54670,SAN CALIXTO,NORTE DE SANTANDER,amenaza_incendios
+54680,SANTIAGO,NORTE DE SANTANDER,amenaza_incendios
+54720,SARDINATA,NORTE DE SANTANDER,amenaza_incendios
 54743,SILOS,NORTE DE SANTANDER,amenaza_incendios
+54871,VILLA CARO,NORTE DE SANTANDER,amenaza_incendios
 54174,CHITAGÁ,NORTE DE SANTANDER,amenaza_incendios
+54206,CONVENCIÓN,NORTE DE SANTANDER,amenaza_incendios
+54245,EL CARMEN,NORTE DE SANTANDER,amenaza_incendios
 54800,TEORAMA,NORTE DE SANTANDER,amenaza_incendios
 54810,TIBÚ,NORTE DE SANTANDER,amenaza_incendios
 54820,TOLEDO,NORTE DE SANTANDER,amenaza_incendios
 54250,EL TARRA,NORTE DE SANTANDER,amenaza_incendios
+11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",amenaza_incendios
 50001,VILLAVICENCIO,META,amenaza_incendios
-50006,ACACÍAS,META,amenaza_incendios
 50110,BARRANCA DE UPÍA,META,amenaza_incendios
 50124,CABUYARO,META,amenaza_incendios
 50150,CASTILLA LA NUEVA,META,amenaza_incendios
@@ -2858,7 +2990,6 @@
 50350,LA MACARENA,META,amenaza_incendios
 50325,MAPIRIPÁN,META,amenaza_incendios
 50568,PUERTO GAITÁN,META,amenaza_incendios
-41306,GIGANTE,HUILA,amenaza_incendios
 41319,GUADALUPE,HUILA,amenaza_incendios
 41349,HOBO,HUILA,amenaza_incendios
 41357,ÍQUIRA,HUILA,amenaza_incendios
@@ -2877,21 +3008,24 @@
 41676,SANTA MARÍA,HUILA,amenaza_incendios
 41770,SUAZA,HUILA,amenaza_incendios
 41791,TARQUI,HUILA,amenaza_incendios
+41797,TESALIA,HUILA,amenaza_incendios
 41799,TELLO,HUILA,amenaza_incendios
 41807,TIMANÁ,HUILA,amenaza_incendios
-41885,YAGUARÁ,HUILA,amenaza_incendios
 41298,GARZÓN,HUILA,amenaza_incendios
 41244,ELÍAS,HUILA,amenaza_incendios
 41206,COLOMBIA,HUILA,amenaza_incendios
+41132,CAMPOALEGRE,HUILA,amenaza_incendios
 41078,BARAYA,HUILA,amenaza_incendios
 41026,ALTAMIRA,HUILA,amenaza_incendios
 41020,ALGECIRAS,HUILA,amenaza_incendios
 41013,AGRADO,HUILA,amenaza_incendios
 41006,ACEVEDO,HUILA,amenaza_incendios
 68013,AGUADA,SANTANDER,amenaza_incendios
+68020,ALBANIA,SANTANDER,amenaza_incendios
 68051,ARATOCA,SANTANDER,amenaza_incendios
 68077,BARBOSA,SANTANDER,amenaza_incendios
 68079,BARICHARA,SANTANDER,amenaza_incendios
+68081,BARRANCABERMEJA,SANTANDER,amenaza_incendios
 68092,BETULIA,SANTANDER,amenaza_incendios
 68121,CABRERA,SANTANDER,amenaza_incendios
 68132,CALIFORNIA,SANTANDER,amenaza_incendios
@@ -2907,6 +3041,7 @@
 68207,CONCEPCIÓN,SANTANDER,amenaza_incendios
 68209,CONFINES,SANTANDER,amenaza_incendios
 68615,RIONEGRO,SANTANDER,amenaza_incendios
+68655,SABANA DE TORRES,SANTANDER,amenaza_incendios
 68669,SAN ANDRÉS,SANTANDER,amenaza_incendios
 68673,SAN BENITO,SANTANDER,amenaza_incendios
 68679,SAN GIL,SANTANDER,amenaza_incendios
@@ -2920,9 +3055,11 @@
 68755,SOCORRO,SANTANDER,amenaza_incendios
 68770,SUAITA,SANTANDER,amenaza_incendios
 68773,SUCRE,SANTANDER,amenaza_incendios
+68780,SURATÁ,SANTANDER,amenaza_incendios
 68820,TONA,SANTANDER,amenaza_incendios
 68855,VALLE DE SAN JOSÉ,SANTANDER,amenaza_incendios
 68861,VÉLEZ,SANTANDER,amenaza_incendios
+68867,VETAS,SANTANDER,amenaza_incendios
 68872,VILLANUEVA,SANTANDER,amenaza_incendios
 68895,ZAPATOCA,SANTANDER,amenaza_incendios
 68370,JORDÁN,SANTANDER,amenaza_incendios
@@ -2939,7 +3076,6 @@
 68498,OCAMONTE,SANTANDER,amenaza_incendios
 68500,OIBA,SANTANDER,amenaza_incendios
 68502,ONZAGA,SANTANDER,amenaza_incendios
-68522,PALMAR,SANTANDER,amenaza_incendios
 68524,PALMAS DEL SOCORRO,SANTANDER,amenaza_incendios
 68533,PÁRAMO,SANTANDER,amenaza_incendios
 68549,PINCHOTE,SANTANDER,amenaza_incendios
@@ -2964,17 +3100,18 @@
 68327,GÜEPSA,SANTANDER,amenaza_incendios
 68344,HATO,SANTANDER,amenaza_incendios
 68368,JESÚS MARÍA,SANTANDER,amenaza_incendios
+68307,GIRÓN,SANTANDER,amenaza_incendios
 68276,FLORIDABLANCA,SANTANDER,amenaza_incendios
 68101,BOLÍVAR,SANTANDER,amenaza_incendios
 68250,EL PEÑÓN,SANTANDER,amenaza_incendios
 68547,PIEDECUESTA,SANTANDER,amenaza_incendios
 68001,BUCARAMANGA,SANTANDER,amenaza_incendios
-73449,MELGAR,TOLIMA,amenaza_incendios
-73873,VILLARRICA,TOLIMA,amenaza_incendios
+73124,CAJAMARCA,TOLIMA,amenaza_incendios
+73555,PLANADAS,TOLIMA,amenaza_incendios
 13300,HATILLO DE LOBA,BOLÍVAR,amenaza_incendios
+13650,SAN FERNANDO,BOLÍVAR,amenaza_incendios
 13430,MAGANGUÉ,BOLÍVAR,amenaza_incendios
 25175,CHÍA,CUNDINAMARCA,amenaza_incendios
 25260,EL ROSAL,CUNDINAMARCA,amenaza_incendios
-25473,MOSQUERA,CUNDINAMARCA,amenaza_incendios
-25740,SIBATÉ,CUNDINAMARCA,amenaza_incendios
-25290,FUSAGASUGÁ,CUNDINAMARCA,amenaza_incendios
+05631,SABANETA,ANTIOQUIA,amenaza_incendios
+05380,LA ESTRELLA,ANTIOQUIA,amenaza_incendios

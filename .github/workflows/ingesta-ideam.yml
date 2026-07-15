@@ -34,7 +34,7 @@ jobs:
           cache: pip
 
       - name: Instalar dependencias
-        run: pip install pandas pyarrow requests openpyxl pyshp oss2
+        run: pip install pandas pyarrow requests openpyxl pyshp shapely oss2
 
       - name: Seleccionar fuentes según la hora
         id: plan

@@ -245,6 +245,91 @@ def arcgis_layer_info(service: str, layer_id: int) -> dict:
     return r.json()
 
 
+MIN_PAGE_SIZE = 25  # piso de reintento adaptativo (ver _query_page)
+
+
+def _query_page(dataset: str, base: str, offset: int, page: int) -> tuple[list[dict], int]:
+    """Pide una página de features; devuelve (features, tamaño_que_funcionó).
+
+    `maxRecordCount` no siempre es fiable: se ha visto en vivo que IDEAM
+    reporta 2000 para una capa de polígonos pero revienta con 500 ("Error
+    performing query operation") al pedir apenas 200 con geometría completa
+    -- probablemente un límite de tiempo/memoria del lado del servidor, no
+    documentado. En vez de rendirse (dejando el dataset sin snapshot de
+    forma indefinida, como pasó con alertas_idd/alertas_icv/municipios),
+    reintenta la MISMA página con la mitad de tamaño hasta un piso."""
+    intento = page
+    ultimo_error: Exception = RuntimeError("página vacía")
+    while intento >= MIN_PAGE_SIZE:
+        params = {
+            "where": "1=1",
+            "outFields": "*",
+            "outSR": 4326,
+            "returnGeometry": "true",
+            "f": "geojson",
+            "resultOffset": offset,
+            "resultRecordCount": intento,
+        }
+        try:
+            r = SESSION.get(f"{base}/query", params=params, timeout=TIMEOUT)
+            r.raise_for_status()
+            return r.json().get("features", []), intento
+        except requests.RequestException as e:
+            ultimo_error = e
+            if intento <= MIN_PAGE_SIZE:
+                break
+            nuevo = max(MIN_PAGE_SIZE, intento // 2)
+            log.warning("· %-24s offset=%d falló con página=%d, reintentando con página=%d",
+                        dataset, offset, intento, nuevo)
+            intento = nuevo
+    raise ultimo_error
+
+
+# Algunas capas de polígono de IDEAM (municipios, alertas_idd, alertas_icv)
+# vienen a resolución catastral: 1.121 features -> ~230MB de GeoJSON, muy
+# por encima del límite de GitHub (100MB/archivo). Se detectó recorriendo
+# el árbol real (no una estimación): el mismo criterio que ya se usaba a
+# mano para la capa de referencia de índices de riesgo
+# (scripts/simplificar_indices_riesgo.py) se aplica aquí automáticamente,
+# dentro del extractor, para que no pueda volver a pasar en una corrida
+# futura del cron con datos que cambien de tamaño.
+SIMPLIFICAR_UMBRAL_MB = 40.0
+SIMPLIFICAR_TOLERANCIA = 0.001   # grados (~111m en el ecuador)
+SIMPLIFICAR_DECIMALES = 5
+
+
+def _simplificar_si_hace_falta(fc: dict, dataset: str) -> dict:
+    """Simplifica geometría (Douglas-Peucker, topología preservada) sólo si
+    el GeoJSON crudo supera SIMPLIFICAR_UMBRAL_MB. No toca ninguna propiedad/
+    atributo, sólo la geometría -- los valores de los datos no cambian."""
+    raw_size = len(json.dumps(fc, ensure_ascii=False).encode("utf-8"))
+    if raw_size <= SIMPLIFICAR_UMBRAL_MB * 1_000_000:
+        return fc
+
+    from shapely.geometry import mapping, shape  # import perezoso: sólo si hace falta
+
+    log.warning("· %-24s geometría de %.1fMB supera el umbral (%.0fMB) -> simplificando",
+                dataset, raw_size / 1e6, SIMPLIFICAR_UMBRAL_MB)
+
+    def _round_coords(coords):
+        if isinstance(coords[0], (list, tuple)):
+            return [_round_coords(c) for c in coords]
+        return [round(c, SIMPLIFICAR_DECIMALES) for c in coords]
+
+    out_feats = []
+    for f in fc["features"]:
+        geom = shape(f["geometry"])
+        simplificada = geom.simplify(SIMPLIFICAR_TOLERANCIA, preserve_topology=True)
+        gj = mapping(simplificada)
+        gj["coordinates"] = _round_coords(gj["coordinates"])
+        out_feats.append({"type": "Feature", "properties": f["properties"], "geometry": gj})
+
+    out = {"type": "FeatureCollection", "features": out_feats}
+    nuevo_size = len(json.dumps(out, ensure_ascii=False).encode("utf-8"))
+    log.info("· %-24s simplificado: %.1fMB -> %.1fMB", dataset, raw_size / 1e6, nuevo_size / 1e6)
+    return out
+
+
 def fetch_vector(dataset: str, service: str, layer_id: int, descripcion: str = "") -> bool:
     """Descarga una capa vectorial completa como GeoJSON (paginado, WGS84).
 
@@ -258,28 +343,19 @@ def fetch_vector(dataset: str, service: str, layer_id: int, descripcion: str = "
     features: list[dict] = []
     offset = 0
     while True:
-        params = {
-            "where": "1=1",
-            "outFields": "*",
-            "outSR": 4326,
-            "returnGeometry": "true",
-            "f": "geojson",
-            "resultOffset": offset,
-            "resultRecordCount": page,
-        }
-        r = SESSION.get(f"{base}/query", params=params, timeout=TIMEOUT)
-        r.raise_for_status()
-        chunk = r.json()
-        batch = chunk.get("features", [])
+        batch, page_usada = _query_page(dataset, base, offset, page)
         features.extend(batch)
-        if len(batch) < page:
+        if len(batch) < page_usada:
             break
-        offset += page
+        offset += page_usada
+        page = page_usada  # si tocó achicar, seguir con el tamaño que sí funcionó
         if offset > 500_000:  # cinturón de seguridad
             log.warning("%s: corte de paginación por exceso de registros", dataset)
             break
 
     fc = {"type": "FeatureCollection", "features": features}
+    fc = _simplificar_si_hace_falta(fc, dataset)
+    features = fc["features"]
     raw = json.dumps(fc, ensure_ascii=False).encode("utf-8")
     content_hash = _sha256(raw)
 

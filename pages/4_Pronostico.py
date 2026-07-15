@@ -112,9 +112,13 @@ with tab_grillas:
                 ui.sin_datos(ds, "Puede que la corrida más reciente aún no publique esta grilla.")
                 continue
             files = meta.get("files", {})
-            p = Path(files.get("data", ""))
+            ruta_data = files.get("data")
+            # Path("").exists() da True (se resuelve como '.'): sin el chequeo
+            # de cadena vacía, un manifiesto sin la clave "data" intentaría
+            # leer el directorio actual como si fuera un archivo.
+            p = Path(ruta_data) if ruta_data else None
             ui.meta_caption(meta)
-            if p.exists():
+            if p is not None and p.exists():
                 boton_generico(
                     p.read_bytes(), p.name, "application/octet-stream",
                     f"⬇️ Descargar {p.name} ({meta.get('size_bytes', 0) / 1e6:.1f} MB)",
