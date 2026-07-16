@@ -1,3 +1,6 @@
 Caldas: Villamaria
-Nariño: Cumbal
-Tolima: Murillo, Santa Isabel
+Cauca: Corinto, Páez, Toribío
+Cundinamarca: Arbeláez, Bogotá, D.C., Gutiérrez, Pasca, San Bernardo
+Huila: Teruel
+Meta: Cubarral
+Tolima: Murillo, Planadas, Santa Isabel
