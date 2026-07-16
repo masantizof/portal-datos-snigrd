@@ -1,0 +1,13 @@
+Arauca: Fortul
+Boyacá: Belén, Cerinza, Chiscas, Chita, Duitama, Guacamayas, Gámeza, Mongua, Panqueba, San Mateo, Santa Rosa De Viterbo, Tasco, Tutazá
+Caldas: Villamaria
+Cauca: Corinto, Inzá, Puracé, Páez, Silvia, Toribío, Totoró
+Cundinamarca: Bogotá, D.C., Cabrera, Gutiérrez, San Bernardo
+Huila: Isnos, Saladoblanco, Teruel
+Meta: Cubarral, Guamal, Uribe
+N/A: Area En Litigio Cauca - Huila
+Nariño: Cumbal, Guachucal, Mallama, Sapuyes
+Norte de Santander: Chitagá, Mutiscua, Silos
+Quindío: Génova
+Santander: Carcasí, Cerrito, Concepción, Coromoro, Encino, Guaca, Onzaga, San Andrés, Santa Bárbara, Tona, Vetas
+Tolima: Anzoátegui, Casabianca, Herveo, Ibagué, Murillo, Planadas, Roncesvalles, Santa Isabel, Villahermosa
