@@ -1,0 +1,1123 @@
+COD_MUN,DEPARTAMENTO,MUNICIPIO,TMAX_TOP3_PROMEDIO_C,N_PIXELES_DOWNSCALING
+91263,Amazonas,El Encanto,31.4,11774585
+91405,Amazonas,La Chorrera,31.4,14165931
+91407,Amazonas,La Pedrera,32.1,15175784
+91430,Amazonas,La Victoria,31.7,1598379
+91001,Amazonas,Leticia,32.3,6727268
+91460,Amazonas,Miriti-Parana,31.8,18820064
+91530,Amazonas,Puerto Alegria,30.8,9291534
+91536,Amazonas,Puerto Arica,31.7,15153174
+91540,Amazonas,Puerto Narino,32.1,1587068
+91669,Amazonas,Santander,31.9,16457477
+91798,Amazonas,Tarapaca,32.4,10077628
+05002,Antioquia,Abejorral,33.7,569818
+05004,Antioquia,Abriaqui,25.0,333936
+05021,Antioquia,Alejandria,27.0,145063
+05030,Antioquia,Amaga,32.4,94539
+05031,Antioquia,Amalfi,35.5,1362016
+05034,Antioquia,Andes,28.6,451890
+05036,Antioquia,Angelopolis,31.1,92005
+05038,Antioquia,Angostura,28.0,381134
+05040,Antioquia,Anori,35.8,1593171
+05044,Antioquia,Anza,34.5,287675
+05045,Antioquia,Apartado,32.1,603077
+05051,Antioquia,Arboletes,33.4,851162
+05055,Antioquia,Argelia,34.3,275658
+05059,Antioquia,Armenia,33.8,124098
+05079,Antioquia,Barbosa,28.0,231400
+05088,Antioquia,Bello,27.0,166318
+05086,Antioquia,Belmira,20.9,333209
+05091,Antioquia,Betania,28.9,202703
+05093,Antioquia,Betulia,33.8,294857
+05107,Antioquia,Briceno,33.0,423900
+05113,Antioquia,Buritica,32.6,399678
+05125,Antioquia,Caicedo,30.2,225000
+05129,Antioquia,Caldas,28.0,149249
+05134,Antioquia,Campamento,33.3,261516
+05142,Antioquia,Caracoli,34.8,295686
+05145,Antioquia,Caramanta,32.4,103393
+05147,Antioquia,Carepa,32.7,436264
+05148,Antioquia,Carmen De Viboral,29.2,476206
+05150,Antioquia,Carolina,28.2,168392
+05154,Antioquia,Caucasia,35.9,1612931
+05138,Antioquia,Canasgordas,27.6,410500
+05172,Antioquia,Chigorodo,32.7,812701
+05190,Antioquia,Cisneros,28.6,52830
+05101,Antioquia,Ciudad Bolivar,32.2,296221
+05197,Antioquia,Cocorna,31.8,271796
+05206,Antioquia,Concepcion,24.9,227278
+05209,Antioquia,Concordia,33.9,278528
+05212,Antioquia,Copacabana,26.8,76412
+05120,Antioquia,Caceres,35.4,2113418
+05234,Antioquia,Dabeiba,31.2,2201979
+05237,Antioquia,Donmatias,28.2,228757
+05240,Antioquia,Ebejico,34.5,267317
+05250,Antioquia,El Bagre,36.3,1760318
+05607,Antioquia,El Retiro,25.4,272023
+05264,Antioquia,Entrerrios,20.7,240971
+05266,Antioquia,Envigado,26.4,89961
+05282,Antioquia,Fredonia,33.5,289963
+05284,Antioquia,Frontino,32.3,1556209
+05306,Antioquia,Giraldo,30.1,105158
+05308,Antioquia,Girardota,27.0,93182
+05313,Antioquia,Granada,29.6,213883
+05315,Antioquia,Guadalupe,31.5,133112
+05318,Antioquia,Guarne,21.8,171165
+05321,Antioquia,Guatape,23.4,93722
+05310,Antioquia,Gomez Plata,31.0,373943
+05347,Antioquia,Heliconia,33.0,129116
+05353,Antioquia,Hispania,31.5,60851
+05360,Antioquia,Itagui,26.8,21942
+05361,Antioquia,Ituango,33.1,3200283
+05364,Antioquia,Jardin,24.8,225853
+05368,Antioquia,Jerico,33.6,230278
+05376,Antioquia,La Ceja,27.9,149154
+05380,Antioquia,La Estrella,26.8,41419
+05390,Antioquia,La Pintada,33.2,61022
+05400,Antioquia,La Union,22.1,188508
+05411,Antioquia,Liborina,32.9,243496
+05425,Antioquia,Maceo,33.4,435772
+05440,Antioquia,Marinilla,22.1,129182
+05001,Antioquia,Medellin,30.4,419962
+05467,Antioquia,Montebello,30.8,85420
+05475,Antioquia,Murindo,33.4,1423307
+05480,Antioquia,Mutata,32.3,1209994
+05483,Antioquia,Narino,31.3,355855
+05495,Antioquia,Nechi,35.6,1058350
+05490,Antioquia,Necocli,32.8,1413373
+05501,Antioquia,Olaya,33.5,97860
+05543,Antioquia,Peque,31.5,488675
+05541,Antioquia,Penol,22.9,133072
+05576,Antioquia,Pueblorrico,33.2,84712
+05579,Antioquia,Puerto Berrio,34.9,1373268
+05585,Antioquia,Puerto Nare,35.4,752766
+05591,Antioquia,Puerto Triunfo,35.7,416003
+05604,Antioquia,Remedios,34.4,2225054
+05615,Antioquia,Rionegro,21.6,220278
+05628,Antioquia,Sabanalarga,31.7,299127
+05631,Antioquia,Sabaneta,26.8,17685
+05642,Antioquia,Salgar,33.5,323789
+05647,Antioquia,San Andres de Cuerquia,30.6,232856
+05649,Antioquia,San Carlos,34.3,807373
+05652,Antioquia,San Francisco,33.6,400557
+05656,Antioquia,San Jeronimo,33.1,181379
+05658,Antioquia,San Jose De La Montana,20.8,141913
+05659,Antioquia,San Juan De Uraba,31.5,283742
+05660,Antioquia,San Luis,33.9,478477
+05664,Antioquia,San Pedro De Los Milagros,21.3,248643
+05665,Antioquia,San Pedro De Uraba,33.5,680012
+05667,Antioquia,San Rafael,31.0,409416
+05670,Antioquia,San Roque,31.3,478016
+05674,Antioquia,San Vicente,23.2,259228
+05679,Antioquia,Santa Barbara,33.7,220405
+05042,Antioquia,Santa Fe De Antioquia,34.5,591089
+05686,Antioquia,Santa Rosa De Osos,28.2,973298
+05690,Antioquia,Santo Domingo,28.6,299206
+05697,Antioquia,Santuario,23.5,93832
+05736,Antioquia,Segovia,35.5,1269072
+05756,Antioquia,Sonson,35.5,1513077
+05761,Antioquia,Sopetran,34.4,246389
+05790,Antioquia,Taraza,34.4,1295523
+05792,Antioquia,Tarso,33.5,135324
+05809,Antioquia,Titiribi,34.0,157727
+05819,Antioquia,Toledo,32.6,151358
+05837,Antioquia,Turbo,34.0,3280628
+05789,Antioquia,Tamesis,33.5,283262
+05842,Antioquia,Uramita,28.9,299198
+05847,Antioquia,Urrao,33.1,2880450
+05854,Antioquia,Valdivia,34.4,639646
+05856,Antioquia,Valparaiso,32.9,141722
+05858,Antioquia,Vegachi,32.4,609013
+05861,Antioquia,Venecia,33.7,156919
+05873,Antioquia,Vigia Del Fuerte,33.7,1866734
+05885,Antioquia,Yali,32.5,496447
+05887,Antioquia,Yarumal,33.3,802404
+05890,Antioquia,Yolombo,33.9,1139895
+05893,Antioquia,Yondo,35.0,2135142
+05895,Antioquia,Zaragoza,36.3,1316724
+81001,Arauca,Arauca,32.3,6480390
+81065,Arauca,Arauquita,32.2,3398314
+81220,Arauca,Cravo Norte,32.3,5830110
+81300,Arauca,Fortul,31.4,1302674
+81591,Arauca,Puerto Rondon,32.3,2560110
+81736,Arauca,Saravena,32.2,1040968
+81794,Arauca,Tame,32.4,6088514
+08078,Atlantico,Baranoa,35.5,138078
+08001,Atlantico,Barranquilla,32.0,165737
+08137,Atlantico,Campo De La Cruz,38.4,113666
+08141,Atlantico,Candelaria,38.3,154373
+08296,Atlantico,Galapa,32.9,111089
+08372,Atlantico,Juan De Acosta,36.1,191150
+08421,Atlantico,Luruaco,37.0,255101
+08433,Atlantico,Malambo,33.9,111834
+08436,Atlantico,Manati,38.2,243551
+08520,Atlantico,Palmar De Varela,36.1,104963
+08549,Atlantico,Piojo,39.9,287737
+08558,Atlantico,Polonuevo,35.5,84030
+08560,Atlantico,Ponedera,37.9,235059
+08573,Atlantico,Puerto Colombia,31.9,80058
+08606,Atlantico,Repelon,37.8,407612
+08634,Atlantico,Sabanagrande,34.6,49057
+08638,Atlantico,Sabanalarga,37.0,450221
+08675,Atlantico,Santa Lucia,38.5,65156
+08685,Atlantico,Santo Tomas,35.7,74048
+08758,Atlantico,Soledad,33.1,67368
+08770,Atlantico,Suan,38.8,48341
+08832,Atlantico,Tubara,33.9,203989
+08849,Atlantico,Usiacuri,36.2,115345
+13006,Bolivar,Achi,36.1,1076327
+13030,Bolivar,Altos Del Rosario,36.9,343678
+13042,Bolivar,Arenal,36.1,522075
+13052,Bolivar,Arjona,38.4,666987
+13062,Bolivar,Arroyohondo,38.8,186053
+13074,Bolivar,Barranco De Loba,37.0,487437
+13140,Bolivar,Calamar,39.0,290411
+13160,Bolivar,Cantagallo,35.0,992881
+13001,Bolivar,Cartagena De Indias,38.7,641599
+13188,Bolivar,Cicuco,36.2,149678
+13222,Bolivar,Clemencia,37.5,97062
+13212,Bolivar,Cordoba,39.1,677130
+13244,Bolivar,El Carmen De Bolivar,38.7,1073061
+13248,Bolivar,El Guamo,40.2,435079
+13268,Bolivar,El Penon,37.5,361034
+13300,Bolivar,Hatillo De Loba,37.4,219910
+13430,Bolivar,Magangue,38.0,1280772
+13433,Bolivar,Mahates,38.6,490963
+13440,Bolivar,Margarita,37.2,331744
+13442,Bolivar,Maria La Baja,37.9,636887
+13468,Bolivar,Mompos,36.7,738623
+13458,Bolivar,Montecristo,35.5,2363379
+13473,Bolivar,Morales,36.9,1522699
+13490,Bolivar,Norosi,35.6,470792
+13549,Bolivar,Pinillos,36.7,877847
+13580,Bolivar,Regidor,37.3,207578
+13600,Bolivar,Rioviejo,36.9,955818
+13620,Bolivar,San Cristobal,38.6,48057
+13647,Bolivar,San Estanislao,38.2,240440
+13650,Bolivar,San Fernando,36.6,360236
+13654,Bolivar,San Jacinto,39.1,502471
+13655,Bolivar,San Jacinto Del Cauca,35.4,643931
+13657,Bolivar,San Juan Nepomuceno,40.2,716411
+13667,Bolivar,San Martin De Loba,37.3,509391
+13670,Bolivar,San Pablo,35.6,2279235
+13673,Bolivar,Santa Catalina,38.0,195742
+13683,Bolivar,Santa Rosa,36.8,175803
+13688,Bolivar,Santa Rosa Del Sur,34.5,2689542
+13744,Bolivar,Simiti,36.4,1529192
+13760,Bolivar,Soplaviento,38.0,105206
+13780,Bolivar,Talaigua Nuevo,37.7,282518
+13810,Bolivar,Tiquisio,36.4,862474
+13836,Bolivar,Turbaco,39.1,230243
+13838,Bolivar,Turbana,38.6,216239
+13873,Bolivar,Villanueva,37.7,155836
+13894,Bolivar,Zambrano,39.8,351120
+15022,Boyaca,Almeida,22.2,64742
+15047,Boyaca,Aquitania,23.5,1058211
+15051,Boyaca,Arcabuco,23.7,154978
+15087,Boyaca,Belen,18.6,183366
+15090,Boyaca,Berbeo,23.8,65145
+15092,Boyaca,Beteitiva,19.8,114526
+15097,Boyaca,Boavita,31.4,163388
+15104,Boyaca,Boyaca,16.9,53946
+15106,Boyaca,Briceno,27.0,72614
+15109,Boyaca,Buenavista,30.2,123767
+15114,Boyaca,Busbanza,18.6,28487
+15131,Boyaca,Caldas,20.4,88750
+15135,Boyaca,Campohermoso,27.6,335327
+15162,Boyaca,Cerinza,17.8,71470
+15172,Boyaca,Chinavita,20.3,153141
+15176,Boyaca,Chiquinquira,22.5,185435
+15180,Boyaca,Chiscas,25.4,741218
+15183,Boyaca,Chita,24.5,761279
+15185,Boyaca,Chitaraque,26.7,178245
+15187,Boyaca,Chivata,18.4,55652
+15236,Boyaca,Chivor,25.4,121971
+15232,Boyaca,Chiquiza,20.8,130944
+15189,Boyaca,Cienega,16.7,60653
+15212,Boyaca,Coper,30.8,168389
+15215,Boyaca,Corrales,19.5,68384
+15218,Boyaca,Covarachia,31.8,115095
+15223,Boyaca,Cubara,29.7,1307040
+15224,Boyaca,Cucaita,17.3,47345
+15226,Boyaca,Cuitiva,17.0,49566
+15204,Boyaca,Combita,19.1,163236
+15238,Boyaca,Duitama,20.0,263024
+15244,Boyaca,El Cocuy,19.6,267964
+15248,Boyaca,El Espino,26.3,78072
+15272,Boyaca,Firavitoba,18.9,122844
+15276,Boyaca,Floresta,18.9,99040
+15293,Boyaca,Gachantiva,25.4,99085
+15299,Boyaca,Garagoa,22.3,217267
+15317,Boyaca,Guacamayas,26.8,64841
+15322,Boyaca,Guateque,22.1,40555
+15325,Boyaca,Guayata,21.8,112217
+15296,Boyaca,Gameza,17.6,138946
+15332,Boyaca,Guican De La Sierra,22.4,1070903
+15362,Boyaca,Iza,18.2,38473
+15367,Boyaca,Jenesano,18.0,66331
+15368,Boyaca,Jerico,26.1,148093
+15380,Boyaca,La Capilla,20.4,63929
+15403,Boyaca,La Uvita,26.5,181646
+15401,Boyaca,La Victoria,30.5,31473
+15377,Boyaca,Labranzagrande,27.7,652774
+15425,Boyaca,Macanal,23.7,224465
+15442,Boyaca,Maripi,32.2,180579
+15455,Boyaca,Miraflores,23.8,290460
+15464,Boyaca,Mongua,21.9,405311
+15466,Boyaca,Mongui,16.1,77369
+15469,Boyaca,Moniquira,27.8,245372
+15476,Boyaca,Motavita,16.2,67457
+15480,Boyaca,Muzo,32.2,154909
+15491,Boyaca,Nobsa,19.5,62374
+15494,Boyaca,Nuevo Colon,17.2,57731
+15500,Boyaca,Oicata,18.6,67761
+15507,Boyaca,Otanche,33.8,533974
+15511,Boyaca,Pachavita,21.5,74881
+15516,Boyaca,Paipa,23.3,342952
+15518,Boyaca,Pajarito,26.5,352183
+15522,Boyaca,Panqueba,23.5,44663
+15531,Boyaca,Pauna,32.7,283931
+15533,Boyaca,Paya,30.4,498334
+15537,Boyaca,Paz De Rio,20.7,137921
+15542,Boyaca,Pesca,18.5,295543
+15550,Boyaca,Pisba,26.2,522244
+15572,Boyaca,Puerto Boyaca,35.9,1701535
+15514,Boyaca,Paez,27.9,380612
+15580,Boyaca,Quipama,31.9,188012
+15599,Boyaca,Ramiriqui,18.0,141107
+15621,Boyaca,Rondon,19.1,231777
+15600,Boyaca,Raquira,21.4,247937
+15632,Boyaca,Saboya,21.2,279484
+15646,Boyaca,Samaca,18.3,188280
+15660,Boyaca,San Eduardo,22.3,122906
+15664,Boyaca,San Jose De Pare,27.8,83670
+15667,Boyaca,San Luis De Gaceno,30.7,527240
+15673,Boyaca,San Mateo,29.9,139347
+15676,Boyaca,San Miguel De Sema,19.7,105631
+15681,Boyaca,San Pablo De Borbur,32.6,220216
+15690,Boyaca,Santa Maria,29.8,347503
+15693,Boyaca,Santa Rosa De Viterbo,19.5,131186
+15696,Boyaca,Santa Sofia,25.2,87207
+15686,Boyaca,Santana,27.2,76441
+15720,Boyaca,Sativanorte,25.7,181350
+15723,Boyaca,Sativasur,22.5,61700
+15740,Boyaca,Siachoque,16.5,133916
+15753,Boyaca,Soata,30.0,138419
+15757,Boyaca,Socha,21.6,168764
+15755,Boyaca,Socota,24.0,678247
+15759,Boyaca,Sogamoso,18.7,233349
+15761,Boyaca,Somondoco,22.3,66002
+15762,Boyaca,Sora,18.3,53754
+15764,Boyaca,Soraca,16.3,62643
+15763,Boyaca,Sotaquira,22.5,320398
+15774,Boyaca,Susacon,27.9,205449
+15776,Boyaca,Sutamarchan,22.9,116304
+15778,Boyaca,Sutatenza,22.4,46176
+15638,Boyaca,Sachica,22.1,71835
+15790,Boyaca,Tasco,19.8,235644
+15798,Boyaca,Tenza,22.0,51489
+15804,Boyaca,Tibana,18.2,136825
+15806,Boyaca,Tibasosa,19.4,105337
+15808,Boyaca,Tinjaca,21.8,89623
+15810,Boyaca,Tipacoque,31.7,80921
+15814,Boyaca,Toca,18.1,189032
+15816,Boyaca,Togui,27.2,114085
+15822,Boyaca,Tota,16.6,220195
+15001,Boyaca,Tunja,17.0,134508
+15832,Boyaca,Tunungua,28.9,32844
+15835,Boyaca,Turmeque,16.7,89512
+15837,Boyaca,Tuta,19.6,186007
+15839,Boyaca,Tutaza,18.4,137160
+15820,Boyaca,Topaga,17.7,37790
+15861,Boyaca,Ventaquemada,16.2,179736
+15407,Boyaca,Villa De Leiva,23.3,142254
+15879,Boyaca,Viracacha,16.5,70304
+15897,Boyaca,Zetaquira,21.2,282434
+15842,Boyaca,Umbita,18.7,164061
+17013,Caldas,Aguadas,33.3,534268
+17042,Caldas,Anserma,30.9,234757
+17050,Caldas,Aranzazu,27.6,167918
+17088,Caldas,Belalcazar,31.1,127127
+17174,Caldas,Chinchina,30.9,122659
+17272,Caldas,Filadelfia,31.0,216214
+17380,Caldas,La Dorada,35.8,617440
+17388,Caldas,La Merced,31.1,99457
+17001,Caldas,Manizales,30.6,494940
+17433,Caldas,Manzanares,28.2,222224
+17442,Caldas,Marmato,31.6,41414
+17444,Caldas,Marquetalia,32.2,101432
+17446,Caldas,Marulanda,24.2,423160
+17486,Caldas,Neira,30.9,414517
+17495,Caldas,Norcasia,35.2,255702
+17524,Caldas,Palestina,30.7,125923
+17541,Caldas,Pensilvania,28.6,559892
+17513,Caldas,Pacora,31.9,288940
+17614,Caldas,Riosucio,31.1,431230
+17616,Caldas,Risaralda,30.9,100893
+17653,Caldas,Salamina,29.6,435722
+17662,Caldas,Samana,34.2,851762
+17665,Caldas,San Jose,29.7,68409
+17777,Caldas,Supia,31.0,136369
+17867,Caldas,Victoria,35.7,627863
+17873,Caldas,Villamaria,26.2,510552
+17877,Caldas,Viterbo,30.3,126646
+18029,Caqueta,Albania,29.5,461430
+18094,Caqueta,Belen De Los Andaquies,29.5,1332070
+18150,Caqueta,Cartagena Del Chaira,30.5,14302792
+18205,Caqueta,Curillo,29.3,446258
+18247,Caqueta,El Doncello,28.9,1237359
+18256,Caqueta,El Paujil,28.8,1381144
+18001,Caqueta,Florencia,29.4,2849167
+18460,Caqueta,Milan,29.7,1364834
+18410,Caqueta,Montanita,29.2,1902539
+18479,Caqueta,Morelia,29.4,517065
+18592,Caqueta,Puerto Rico,28.9,4639620
+18610,Caqueta,San Jose Del Fragua,29.2,1463987
+18753,Caqueta,San Vicente Del Caguan,30.3,22596052
+18756,Caqueta,Solano,32.2,47306537
+18785,Caqueta,Solita,29.4,533143
+18860,Caqueta,Valparaiso,29.5,1487164
+85010,Casanare,Aguazul,32.3,1618707
+85015,Casanare,Chameza,27.2,347769
+85125,Casanare,Hato Corozal,32.7,6180559
+85136,Casanare,La Salina,23.9,224697
+85139,Casanare,Mani,33.0,4208984
+85162,Casanare,Monterrey,31.9,874205
+85225,Casanare,Nunchia,32.3,1236741
+85230,Casanare,Orocue,33.2,5326366
+85250,Casanare,Paz De Ariporo,33.1,13575765
+85263,Casanare,Pore,32.4,877112
+85279,Casanare,Recetor,27.7,203471
+85300,Casanare,Sabanalarga,31.4,449883
+85325,Casanare,San Luis De Palenque,33.0,3351294
+85315,Casanare,Sacama,28.4,350779
+85410,Casanare,Tauramena,32.9,2675418
+85430,Casanare,Trinidad,33.1,3327161
+85400,Casanare,Tamara,30.8,1225520
+85440,Casanare,Villanueva,32.1,935168
+85001,Casanare,Yopal,32.8,2785982
+19022,Cauca,Almaguer,32.2,264315
+19050,Cauca,Argelia,26.2,865804
+19075,Cauca,Balboa,34.6,461121
+19100,Cauca,Bolivar,35.7,890591
+19110,Cauca,Buenos Aires,30.7,486294
+19130,Cauca,Cajibio,29.1,617204
+19137,Cauca,Caldono,29.4,396572
+19142,Cauca,Caloto,30.9,296298
+19212,Cauca,Corinto,29.7,364582
+19256,Cauca,El Tambo,34.2,3059416
+19290,Cauca,Florencia,31.3,63227
+19300,Cauca,Guachene,30.8,112533
+19318,Cauca,Guapi,32.7,2857484
+19355,Cauca,Inza,26.0,968701
+19364,Cauca,Jambalo,27.1,262182
+19392,Cauca,La Sierra,33.7,232716
+19397,Cauca,La Vega,31.8,576336
+19418,Cauca,Lopez,32.6,3756072
+19450,Cauca,Mercaderes,35.7,778830
+19455,Cauca,Miranda,30.2,212228
+19473,Cauca,Morales,29.4,571576
+19513,Cauca,Padilla,30.2,77935
+19532,Cauca,Patia,35.5,843152
+19533,Cauca,Piamonte,29.2,1234071
+19548,Cauca,Piendamo Tunia,29.1,202515
+19001,Cauca,Popayan,28.8,536566
+19573,Cauca,Puerto Tejada,31.1,121797
+19585,Cauca,Purace,24.4,565742
+19517,Cauca,Paez,28.3,2005762
+19622,Cauca,Rosas,32.5,188862
+19693,Cauca,San Sebastian,27.3,467981
+19701,Cauca,Santa Rosa,28.6,4042499
+19698,Cauca,Santander De Quilichao,31.1,579367
+19743,Cauca,Silvia,26.9,761358
+19760,Cauca,Sotara,28.9,576431
+19785,Cauca,Sucre,34.1,151709
+19780,Cauca,Suarez,29.4,438527
+19809,Cauca,Timbiqui,32.0,2292058
+19807,Cauca,Timbio,30.6,224908
+19821,Cauca,Toribio,27.7,550482
+19824,Cauca,Totoro,27.7,452123
+19845,Cauca,Villa Rica,31.1,91403
+20011,Cesar,Aguachica,37.0,991689
+20013,Cesar,Agustin Codazzi,39.3,1990912
+20032,Cesar,Astrea,39.6,723196
+20045,Cesar,Becerrill,39.4,1387431
+20060,Cesar,Bosconia,39.9,665912
+20175,Cesar,Chimichagua,39.4,1559273
+20178,Cesar,Chiriguana,40.0,1263107
+20228,Cesar,Curumani,39.2,1036651
+20238,Cesar,El Copey,39.6,1086584
+20250,Cesar,El Paso,39.9,922813
+20295,Cesar,Gamarra,36.9,369472
+20310,Cesar,Gonzalez,27.5,82395
+20383,Cesar,La Gloria,37.2,907988
+20400,Cesar,La Jagua De Ibirico,40.0,851142
+20621,Cesar,La Paz,39.2,1218532
+20443,Cesar,Manaure Balcon Del Cesar,34.1,155273
+20517,Cesar,Pailitas,37.8,601870
+20550,Cesar,Pelaya,37.1,479005
+20570,Cesar,Pueblo Bello,34.0,845650
+20614,Cesar,Rio De Oro,36.9,620799
+20710,Cesar,San Alberto,36.6,621029
+20750,Cesar,San Diego,38.9,733602
+20770,Cesar,San Martin,37.0,1121506
+20787,Cesar,Tamalameque,38.3,580879
+20001,Cesar,Valledupar,39.7,4760939
+27006,Choco,Acandi,31.4,884274
+27025,Choco,Alto Baudo,33.5,2298095
+27050,Choco,Atrato (Yuto),33.4,472826
+27073,Choco,Bagado,33.2,906062
+27075,Choco,Bahia Solano,29.5,1000977
+27077,Choco,Bajo Baudo,33.3,3859475
+27099,Choco,Bojaya,33.6,4075194
+27150,Choco,Carmen Del Darien,34.1,3575003
+27205,Choco,Condoto,33.3,524237
+27160,Choco,Certegui,33.1,474761
+27135,Choco,El Canton Del San Pablo,33.4,426516
+27245,Choco,El Carmen,31.5,932014
+27250,Choco,El Litoral Del San Juan,33.4,4614422
+27361,Choco,Istmina,33.6,2104956
+27372,Choco,Jurado,31.2,1418262
+27413,Choco,Lloro,33.3,945710
+27425,Choco,Medio Atrato,33.6,2034733
+27430,Choco,Medio Baudo,33.5,1536707
+27450,Choco,Medio San Juan,33.5,742975
+27495,Choco,Nuqui,30.4,786818
+27491,Choco,Novita,33.3,1058998
+27001,Choco,Quibdo,33.8,3935568
+27580,Choco,Rio Iro,33.3,364474
+27600,Choco,Rio Quito,33.4,783712
+27615,Choco,Riosucio,34.1,8510316
+27660,Choco,San Jose Del Palmar,33.5,1773675
+27745,Choco,Sipi,33.3,1766121
+27787,Choco,Tado,33.2,801666
+27800,Choco,Unguia,33.5,1329271
+27810,Choco,Union Panamericana,33.2,199271
+25001,Cundinamarca,Agua De Dios,34.9,96414
+25019,Cundinamarca,Alban,26.4,57033
+25035,Cundinamarca,Anapoima,32.3,139077
+25040,Cundinamarca,Anolaima,27.1,135734
+25599,Cundinamarca,Apulo,33.6,136847
+25053,Cundinamarca,Arbelaez,31.1,159776
+25086,Cundinamarca,Beltran,35.5,198459
+25095,Cundinamarca,Bituima,27.4,68554
+11001,Cundinamarca,"Bogota, D.C.",29.1,1817617
+25099,Cundinamarca,Bojaca,20.8,114816
+25120,Cundinamarca,Cabrera,34.7,472918
+25123,Cundinamarca,Cachipay,29.0,60001
+25126,Cundinamarca,Cajica,18.6,57613
+25148,Cundinamarca,Caparrapi,34.7,691626
+25154,Cundinamarca,Carmen De Carupa,23.1,335390
+25168,Cundinamarca,Chaguani,35.6,193130
+25178,Cundinamarca,Chipaque,19.1,168889
+25181,Cundinamarca,Choachi,20.0,238380
+25183,Cundinamarca,Choconta,15.5,337005
+25175,Cundinamarca,Chia,18.8,89725
+25200,Cundinamarca,Cogua,17.2,149171
+25214,Cundinamarca,Cota,19.0,60325
+25224,Cundinamarca,Cucunuba,17.0,123368
+25151,Cundinamarca,Caqueza,21.8,125134
+25245,Cundinamarca,El Colegio,30.3,132712
+25258,Cundinamarca,El Penon,30.4,150616
+25260,Cundinamarca,El Rosal,21.7,97906
+25269,Cundinamarca,Facatativa,19.3,177403
+25281,Cundinamarca,Fosca,21.3,124718
+25286,Cundinamarca,Funza,19.0,78637
+25290,Cundinamarca,Fusagasuga,31.5,217267
+25279,Cundinamarca,Fomeque,21.2,516292
+25288,Cundinamarca,Fuquene,18.4,87018
+25293,Cundinamarca,Gachala,26.5,432028
+25295,Cundinamarca,Gachancipa,17.8,48214
+25297,Cundinamarca,Gacheta,19.9,290620
+25299,Cundinamarca,Gama,20.4,120848
+25307,Cundinamarca,Girardot,36.9,146209
+25312,Cundinamarca,Granada,19.7,68085
+25317,Cundinamarca,Guacheta,18.2,191172
+25320,Cundinamarca,Guaduas,35.8,857360
+25322,Cundinamarca,Guasca,18.0,404736
+25324,Cundinamarca,Guataqui,36.3,102032
+25326,Cundinamarca,Guatavita,16.8,283317
+25328,Cundinamarca,Guayabal De Siquima,26.7,69482
+25335,Cundinamarca,Guayabetal,26.0,249907
+25339,Cundinamarca,Gutierrez,23.1,508242
+25368,Cundinamarca,Jerusalen,34.8,248906
+25372,Cundinamarca,Junin,19.1,385773
+25377,Cundinamarca,La Calera,18.0,366653
+25386,Cundinamarca,La Mesa,30.9,166358
+25394,Cundinamarca,La Palma,32.4,214295
+25398,Cundinamarca,La Pena,31.8,144262
+25402,Cundinamarca,La Vega,30.7,174494
+25407,Cundinamarca,Lenguazaque,17.0,174805
+25426,Cundinamarca,Macheta,19.3,257318
+25430,Cundinamarca,Madrid,18.6,134211
+25436,Cundinamarca,Manta,21.1,121152
+25438,Cundinamarca,Medina,30.4,1342710
+25473,Cundinamarca,Mosquera,18.6,119106
+25483,Cundinamarca,Narino,36.7,61841
+25486,Cundinamarca,Nemocon,17.1,110451
+25488,Cundinamarca,Nilo,35.2,251976
+25489,Cundinamarca,Nimaima,31.5,66834
+25491,Cundinamarca,Nocaima,30.8,77414
+25513,Cundinamarca,Pacho,28.8,452189
+25518,Cundinamarca,Paime,31.6,195071
+25524,Cundinamarca,Pandi,30.4,80416
+25530,Cundinamarca,Paratebueno,31.0,993230
+25535,Cundinamarca,Pasca,20.3,304745
+25572,Cundinamarca,Puerto Salgar,35.8,579543
+25580,Cundinamarca,Puli,33.6,221839
+25592,Cundinamarca,Quebradanegra,31.7,89648
+25594,Cundinamarca,Quetame,23.3,154583
+25596,Cundinamarca,Quipile,29.5,143326
+25612,Cundinamarca,Ricaurte,35.9,143587
+25645,Cundinamarca,San Antonio Del Tequendama,26.9,99377
+25649,Cundinamarca,San Bernardo,27.3,277004
+25653,Cundinamarca,San Cayetano,27.9,323291
+25658,Cundinamarca,San Francisco,29.3,133330
+25662,Cundinamarca,San Juan De Rioseco,35.8,352518
+25718,Cundinamarca,Sasaima,29.3,125300
+25736,Cundinamarca,Sesquile,16.9,158508
+25740,Cundinamarca,Sibate,17.9,136899
+25743,Cundinamarca,Silvania,25.8,182822
+25745,Cundinamarca,Simijaca,18.9,108659
+25754,Cundinamarca,Soacha,19.8,210300
+25758,Cundinamarca,Sopo,18.5,124622
+25769,Cundinamarca,Subachoque,18.6,234886
+25772,Cundinamarca,Suesca,17.0,194571
+25777,Cundinamarca,Supata,29.0,146398
+25779,Cundinamarca,Susa,18.2,117005
+25781,Cundinamarca,Sutatausa,16.9,72876
+25785,Cundinamarca,Tabio,18.4,84450
+25793,Cundinamarca,Tausa,18.0,226735
+25797,Cundinamarca,Tena,28.9,57745
+25799,Cundinamarca,Tenjo,18.9,128114
+25805,Cundinamarca,Tibacuy,31.7,95022
+25807,Cundinamarca,Tibirita,20.7,63509
+25815,Cundinamarca,Tocaima,35.1,275723
+25817,Cundinamarca,Tocancipa,18.0,82227
+25823,Cundinamarca,Topaipi,30.1,161438
+25839,Cundinamarca,Ubala,29.6,586319
+25841,Cundinamarca,Ubaque,20.9,120152
+25843,Cundinamarca,Ubate,17.2,114852
+25845,Cundinamarca,Une,19.1,234592
+25506,Cundinamarca,Venecia,26.5,137010
+25862,Cundinamarca,Vergara,30.9,162441
+25867,Cundinamarca,Viani,27.4,75322
+25871,Cundinamarca,Villagomez,27.3,70735
+25873,Cundinamarca,Villapinzon,15.2,253974
+25875,Cundinamarca,Villeta,31.5,158218
+25878,Cundinamarca,Viota,32.4,225846
+25885,Cundinamarca,Yacopi,35.1,1075227
+25898,Cundinamarca,Zipacon,23.5,60831
+25899,Cundinamarca,Zipaquira,18.0,218782
+25851,Cundinamarca,Utica,32.7,103433
+23068,Cordoba,Ayapel,35.1,2219804
+23079,Cordoba,Buenavista,35.2,942804
+23090,Cordoba,Canalete,33.9,474534
+23162,Cordoba,Cerete,35.5,328454
+23168,Cordoba,Chima,36.4,366795
+23182,Cordoba,Chinu,35.8,708733
+23189,Cordoba,Cienaga De Oro,35.8,725185
+23300,Cordoba,Cotorra,35.9,99280
+23350,Cordoba,La Apartada,35.2,324041
+23417,Cordoba,Lorica,36.4,1076440
+23419,Cordoba,Los Cordobas,34.0,413294
+23464,Cordoba,Momil,36.4,179661
+23466,Cordoba,Montelibano,35.2,1749674
+23001,Cordoba,Monteria,35.3,3544548
+23500,Cordoba,Monitos,32.8,228788
+23555,Cordoba,Planeta Rica,34.4,1287805
+23570,Cordoba,Pueblo Nuevo,34.6,959712
+23574,Cordoba,Puerto Escondido,34.1,463310
+23580,Cordoba,Puerto Libertador,34.9,1857680
+23586,Cordoba,Purisima,36.2,133021
+23660,Cordoba,Sahagun,35.6,1091084
+23670,Cordoba,San Andres De Sotavento,35.9,234072
+23672,Cordoba,San Antero,35.2,234601
+23675,Cordoba,San Bernardo Del Viento,33.6,355210
+23678,Cordoba,San Carlos,35.3,504745
+23682,Cordoba,San Jose De Ure,34.8,592829
+23686,Cordoba,San Pelayo,35.8,503974
+23807,Cordoba,Tierralta,34.5,5566577
+23815,Cordoba,Tuchin,36.2,120639
+23855,Cordoba,Valencia,34.2,1037082
+94343,Guainia,Barrancominas,32.1,16038459
+94886,Guainia,Cacahual,32.9,2570084
+94001,Guainia,Inirida,32.4,17706318
+94885,Guainia,La Guadalupe,31.9,1186157
+94888,Guainia,Morichal,31.0,9517652
+94887,Guainia,Pana-Pana,30.8,11320496
+94884,Guainia,Puerto Colombia,31.8,17284557
+94883,Guainia,San Felipe,31.7,3212354
+95015,Guaviare,Calamar,30.8,15142382
+95025,Guaviare,El Retorno,31.0,13896971
+95200,Guaviare,Miraflores,31.1,14312213
+95001,Guaviare,San Jose Del Guaviare,31.2,18731168
+41006,Huila,Acevedo,23.1,583286
+41013,Huila,Agrado,30.2,306175
+41016,Huila,Aipe,35.2,890937
+41020,Huila,Algeciras,28.9,659922
+41026,Huila,Altamira,28.7,202423
+41078,Huila,Baraya,34.5,880306
+41132,Huila,Campoalegre,34.3,517842
+41206,Huila,Colombia,33.4,1775881
+41244,Huila,Elias,26.5,89929
+41298,Huila,Garzon,29.8,678517
+41306,Huila,Gigante,31.9,563520
+41319,Huila,Guadalupe,27.5,279121
+41349,Huila,Hobo,33.1,217468
+41359,Huila,Isnos,24.4,414257
+41378,Huila,La Argentina,23.3,398447
+41396,Huila,La Plata,27.3,910969
+41001,Huila,Neiva,34.9,1421612
+41483,Huila,Nataga,28.6,147576
+41503,Huila,Oporapa,25.3,174194
+41518,Huila,Paicol,31.0,311296
+41524,Huila,Palermo,34.7,989849
+41530,Huila,Palestina,22.7,220095
+41548,Huila,Pital,28.4,216588
+41551,Huila,Pitalito,24.5,704878
+41615,Huila,Rivera,33.9,281226
+41660,Huila,Saladoblanco,24.4,521584
+41668,Huila,San Agustin,23.6,1553630
+41676,Huila,Santa Maria,30.5,379834
+41770,Huila,Suaza,25.9,480441
+41791,Huila,Tarqui,28.4,405712
+41799,Huila,Tello,34.9,593970
+41801,Huila,Teruel,33.6,527869
+41797,Huila,Tesalia,31.6,410647
+41807,Huila,Timana,26.5,207666
+41872,Huila,Villavieja,35.2,609214
+41885,Huila,Yaguara,34.2,372530
+41357,Huila,Iquira,31.2,398962
+44035,La Guajira,Albania,34.5,620570
+44078,La Guajira,Barrancas,35.3,910750
+44090,La Guajira,Dibulla,35.4,1992143
+44098,La Guajira,Distraccion,35.6,263737
+44110,La Guajira,El Molino,35.8,274881
+44279,La Guajira,Fonseca,35.7,538463
+44378,La Guajira,Hatonuevo,35.3,245462
+44420,La Guajira,La Jagua Del Pilar,35.8,203987
+44430,La Guajira,Maicao,34.9,2014626
+44560,La Guajira,Manaure,36.5,1846447
+44001,La Guajira,Riohacha,36.2,3518455
+44650,La Guajira,San Juan Del Cesar,35.8,1491225
+44847,La Guajira,Uribia,36.0,8974649
+44855,La Guajira,Urumita,35.8,279619
+44874,La Guajira,Villanueva,35.7,295707
+47030,Magdalena,Algarrobo,39.4,461840
+47053,Magdalena,Aracataca,35.1,1980460
+47058,Magdalena,Ariguani,39.9,1284341
+47161,Magdalena,Cerro De San Antonio,39.2,201155
+47170,Magdalena,Chivolo,39.7,609416
+47189,Magdalena,Cienaga,35.1,1508350
+47205,Magdalena,Concordia,39.3,124363
+47245,Magdalena,El Banco,38.3,923128
+47258,Magdalena,El Pinon,39.3,633188
+47268,Magdalena,El Reten,35.2,298289
+47288,Magdalena,Fundacion,36.5,1105030
+47318,Magdalena,Guamal,38.6,639524
+47460,Magdalena,Nueva Granada,39.6,955247
+47541,Magdalena,Pedraza,39.7,347188
+47545,Magdalena,Pijino Del Carmen,39.7,750118
+47551,Magdalena,Pivijay,38.8,1864852
+47555,Magdalena,Plato,39.9,1652936
+47570,Magdalena,Puebloviejo,34.8,768785
+47605,Magdalena,Remolino,37.1,676828
+47660,Magdalena,Sabanas De San Angel,39.7,1407093
+47675,Magdalena,Salamina,38.1,193655
+47692,Magdalena,San Sebastian De Buenavista,38.8,495928
+47703,Magdalena,San Zenon,38.7,304629
+47707,Magdalena,Santa Ana,39.8,1270306
+47720,Magdalena,Santa Barbara De Pinto,39.1,560833
+47001,Magdalena,Santa Marta,33.3,2672070
+47745,Magdalena,Sitionuevo,34.9,1104032
+47798,Magdalena,Tenerife,40.2,558634
+47960,Magdalena,Zapayan,40.0,423559
+47980,Magdalena,Zona Bananera,35.1,508171
+50006,Meta,Acacias,30.2,1259776
+50110,Meta,Barranca De Upia,31.4,452884
+50124,Meta,Cabuyaro,31.7,1024436
+50150,Meta,Castilla La Nueva,30.2,576960
+50223,Meta,Cubarral,29.6,1297978
+50226,Meta,Cumaral,31.1,700767
+50245,Meta,El Calvario,26.9,303187
+50251,Meta,El Castillo,29.6,636799
+50270,Meta,El Dorado,29.1,131551
+50287,Meta,Fuente De Oro,29.9,639736
+50313,Meta,Granada,29.7,390339
+50318,Meta,Guamal,29.1,667886
+50350,Meta,La Macarena,30.9,9088022
+50400,Meta,Lejanias,29.7,913904
+50325,Meta,Mapiripan,31.4,13365653
+50330,Meta,Mesetas,30.1,2554947
+50450,Meta,Puerto Concordia,31.1,1391061
+50568,Meta,Puerto Gaitan,33.1,19306917
+50577,Meta,Puerto Lleras,30.7,2840203
+50573,Meta,Puerto Lopez,32.9,7746755
+50590,Meta,Puerto Rico,31.1,3838013
+50606,Meta,Restrepo,31.0,409418
+50680,Meta,San Carlos De Guaroa,30.9,905614
+50683,Meta,San Juan De Arama,30.1,1309785
+50686,Meta,San Juanito,23.8,274746
+50689,Meta,San Martin,31.8,6647052
+50370,Meta,Uribe,31.0,7236952
+50001,Meta,Villavicencio,30.8,1441792
+50711,Meta,Vistahermosa,31.1,5396760
+00000,N/A,Area En Litigio Cauca - Huila,19.6,382352
+52019,Narino,Alban,27.0,43090
+52022,Narino,Aldana,14.2,53047
+52036,Narino,Ancuya,30.1,76811
+52051,Narino,Arboleda,29.2,67159
+52079,Narino,Barbacoas,32.3,3027688
+52083,Narino,Belen,25.7,46679
+52110,Narino,Buesaco,30.5,709540
+52240,Narino,Chachagui,32.9,163153
+52203,Narino,Colon,29.2,68924
+52207,Narino,Consaca,29.4,133076
+52210,Narino,Contadero,17.5,48160
+52224,Narino,Cuaspud,16.2,63262
+52227,Narino,Cumbal,25.7,1018665
+52233,Narino,Cumbitara,31.9,395967
+52215,Narino,Cordoba,24.5,339662
+52250,Narino,El Charco,32.6,2761313
+52254,Narino,El Penol,32.4,135060
+52256,Narino,El Rosario,31.9,580270
+52258,Narino,El Tablon,26.9,342511
+52260,Narino,El Tambo,33.1,274699
+52520,Narino,Francisco Pizarro,30.9,577768
+52287,Narino,Funes,23.1,440218
+52317,Narino,Guachucal,13.9,173448
+52320,Narino,Guaitarilla,28.0,130132
+52323,Narino,Gualmatan,15.7,33386
+52352,Narino,Iles,21.4,89798
+52354,Narino,Imues,25.3,91083
+52356,Narino,Ipiales,30.8,1594879
+52378,Narino,La Cruz,23.8,266614
+52381,Narino,La Florida,30.7,152005
+52385,Narino,La Llanada,31.5,273063
+52390,Narino,La Tola,32.6,439342
+52399,Narino,La Union,32.5,158632
+52405,Narino,Leiva,33.7,346317
+52411,Narino,Linares,30.9,151209
+52418,Narino,Los Andes,32.1,1066465
+52427,Narino,Magui,32.7,2013910
+52435,Narino,Mallama,26.3,633941
+52473,Narino,Mosquera,31.7,831454
+52480,Narino,Narino,23.2,28229
+52490,Narino,Olaya Herrera,32.5,1096319
+52506,Narino,Ospina,21.0,72272
+52001,Narino,Pasto,26.0,1226326
+52540,Narino,Policarpa,32.1,484189
+52560,Narino,Potosi,22.8,432911
+52565,Narino,Providencia,26.4,44535
+52573,Narino,Puerres,24.6,390451
+52585,Narino,Pupiales,15.7,144522
+52612,Narino,Ricaurte,29.4,1172827
+52621,Narino,Roberto Payan,32.1,1622189
+52678,Narino,Samaniego,30.9,674294
+52685,Narino,San Bernardo,24.4,72722
+52687,Narino,San Lorenzo,32.8,277943
+52693,Narino,San Pablo,28.6,124865
+52694,Narino,San Pedro De Cartago,27.6,62084
+52683,Narino,Sandona,30.8,113303
+52696,Narino,Santa Barbara,32.8,1363554
+52699,Narino,Santa Cruz,28.3,602388
+52720,Narino,Sapuyes,17.5,128782
+52786,Narino,Taminango,33.0,261664
+52788,Narino,Tangua,22.9,243052
+52835,Narino,Tumaco,31.4,3977330
+52838,Narino,Tuquerres,26.1,241028
+52885,Narino,Yacuanquer,26.5,114537
+54051,Norte de Santander,Arboledas,30.4,514417
+54099,Norte de Santander,Bochalema,29.8,192083
+54109,Norte de Santander,Bucarasica,31.6,305733
+54172,Norte de Santander,Chinacota,29.0,187458
+54174,Norte de Santander,Chitaga,25.0,1334618
+54206,Norte de Santander,Convencion,33.9,1051495
+54223,Norte de Santander,Cucutilla,27.7,422681
+54128,Norte de Santander,Cachira,34.2,694695
+54125,Norte de Santander,Cacota,18.8,156515
+54001,Norte de Santander,Cucuta,37.5,1277938
+54239,Norte de Santander,Durania,33.6,197354
+54245,Norte de Santander,El Carmen,34.9,1946238
+54250,Norte de Santander,El Tarra,34.6,796216
+54261,Norte de Santander,El Zulia,37.4,570439
+54313,Norte de Santander,Gramalote,30.1,168157
+54344,Norte de Santander,Hacari,32.8,473454
+54347,Norte de Santander,Herran,21.9,120843
+54385,Norte de Santander,La Esperanza,35.9,755867
+54398,Norte de Santander,La Playa,29.0,273629
+54377,Norte de Santander,Labateca,21.6,288462
+54405,Norte de Santander,Los Patios,32.5,142569
+54418,Norte de Santander,Lourdes,29.8,97720
+54480,Norte de Santander,Mutiscua,18.2,179030
+54498,Norte de Santander,Ocana,32.6,590541
+54518,Norte de Santander,Pamplona,22.0,336162
+54520,Norte de Santander,Pamplonita,25.7,192658
+54553,Norte de Santander,Puerto Santander,37.4,50279
+54599,Norte de Santander,Ragonvalia,25.0,109992
+54660,Norte de Santander,Salazar,31.6,557238
+54670,Norte de Santander,San Calixto,33.2,449879
+54673,Norte de Santander,San Cayetano,35.0,157149
+54680,Norte de Santander,Santiago,33.6,194679
+54720,Norte de Santander,Sardinata,37.1,1657725
+54743,Norte de Santander,Silos,17.1,356925
+54800,Norte de Santander,Teorama,34.1,1047975
+54810,Norte de Santander,Tibu,36.8,3009126
+54820,Norte de Santander,Toledo,29.3,1665399
+54871,Norte de Santander,Villa Caro,28.3,452689
+54874,Norte de Santander,Villa Del Rosario,32.2,102929
+54003,Norte de Santander,Abrego,31.7,1560903
+86219,Putumayo,Colon,16.5,71765
+86573,Putumayo,Leguizamo,30.9,11914601
+86001,Putumayo,Mocoa,29.2,1456603
+86320,Putumayo,Orito,29.9,2164062
+86568,Putumayo,Puerto Asis,29.7,3119491
+86569,Putumayo,Puerto Caicedo,29.7,1034685
+86571,Putumayo,Puerto Guzman,30.0,5114658
+86755,Putumayo,San Francisco,25.7,454706
+86757,Putumayo,San Miguel,30.6,411424
+86760,Putumayo,Santiago,21.5,381507
+86749,Putumayo,Sibundoy,16.2,109070
+86865,Putumayo,Valle Del Guamuez,30.3,902756
+86885,Putumayo,Villagarzon,29.5,1559413
+63001,Quindio,Armenia,28.9,136089
+63111,Quindio,Buenavista,28.5,43098
+63130,Quindio,Calarca,29.2,247322
+63190,Quindio,Circasia,28.2,101274
+63212,Quindio,Cordoba,28.1,104248
+63272,Quindio,Filandia,27.7,119543
+63302,Quindio,Genova,28.5,330486
+63401,Quindio,La Tebaida,30.3,100258
+63470,Quindio,Montenegro,30.6,167234
+63548,Quindio,Pijao,28.3,278626
+63594,Quindio,Quimbaya,30.8,149674
+63690,Quindio,Salento,25.7,389697
+66045,Risaralda,Apia,28.1,168246
+66075,Risaralda,Balboa,30.7,133977
+66088,Risaralda,Belen De Umbria,29.2,202636
+66170,Risaralda,Dosquebradas,27.6,78486
+66318,Risaralda,Guatica,28.6,113155
+66383,Risaralda,La Celia,29.1,103691
+66400,Risaralda,La Virginia,30.8,36788
+66440,Risaralda,Marsella,31.0,167496
+66456,Risaralda,Mistrato,28.7,633801
+66001,Risaralda,Pereira,31.3,682233
+66572,Risaralda,Pueblo Rico,30.5,688582
+66594,Risaralda,Quinchia,31.0,157319
+66682,Risaralda,Santa Rosa De Cabal,28.3,609654
+66687,Risaralda,Santuario,30.5,214075
+88564,San Andres y Providencia,Providencia y Santa Catalina,32.9,24155
+88001,San Andres y Providencia,San Andres,32.9,30340
+68013,Santander,Aguada,26.7,84623
+68020,Santander,Albania,27.3,186831
+68051,Santander,Aratoca,31.1,191141
+68077,Santander,Barbosa,27.8,52488
+68079,Santander,Barichara,30.9,154525
+68081,Santander,Barrancabermeja,34.4,1494910
+68092,Santander,Betulia,33.7,485845
+68101,Santander,Bolivar,35.2,1136091
+68001,Santander,Bucaramanga,29.1,172989
+68121,Santander,Cabrera,30.4,73824
+68132,Santander,California,21.6,50725
+68147,Santander,Capitanejo,31.8,96108
+68152,Santander,Carcasi,27.5,291414
+68160,Santander,Cepita,30.0,121567
+68162,Santander,Cerrito,20.4,474073
+68167,Santander,Charala,27.8,471522
+68169,Santander,Charta,26.5,142785
+68176,Santander,Chima,28.7,194897
+68179,Santander,Chipata,26.7,106830
+68190,Santander,Cimitarra,35.1,3572483
+68207,Santander,Concepcion,24.0,379430
+68209,Santander,Confines,27.6,80357
+68211,Santander,Contratacion,27.3,154359
+68217,Santander,Coromoro,27.2,649475
+68229,Santander,Curiti,30.1,274874
+68235,Santander,El Carmen,33.5,1040371
+68245,Santander,El Guacamayo,28.0,104574
+68250,Santander,El Penon,33.5,447909
+68255,Santander,El Playon,33.5,513113
+68264,Santander,Encino,26.3,450237
+68266,Santander,Enciso,30.0,84188
+68276,Santander,Floridablanca,28.2,112815
+68271,Santander,Florian,32.2,198526
+68296,Santander,Galan,30.3,227127
+68307,Santander,Giron,33.8,554805
+68318,Santander,Guaca,26.5,340560
+68320,Santander,Guadalupe,27.9,164617
+68322,Santander,Guapota,28.5,75725
+68324,Santander,Guavata,25.3,94226
+68298,Santander,Gambita,26.7,683796
+68327,Santander,Guepsa,27.1,33905
+68344,Santander,Hato,28.8,190255
+68368,Santander,Jesus Maria,24.8,100760
+68370,Santander,Jordan,31.7,44915
+68377,Santander,La Belleza,34.0,376908
+68397,Santander,La Paz,30.5,319895
+68385,Santander,Landazuri,33.9,664107
+68406,Santander,Lebrija,34.2,620390
+68418,Santander,Los Santos,31.8,326716
+68425,Santander,Macaravita,30.9,115762
+68444,Santander,Matanza,26.4,265752
+68464,Santander,Mogotes,31.3,544586
+68468,Santander,Molagavita,31.7,203088
+68432,Santander,Malaga,25.9,64359
+68498,Santander,Ocamonte,27.9,84586
+68500,Santander,Oiba,27.5,323795
+68502,Santander,Onzaga,31.7,550278
+68522,Santander,Palmar,30.1,22166
+68524,Santander,Palmas Del Socorro,28.9,65872
+68547,Santander,Piedecuesta,30.4,545956
+68549,Santander,Pinchote,30.1,62529
+68572,Santander,Puente Nacional,26.9,282952
+68573,Santander,Puerto Parra,34.4,858458
+68575,Santander,Puerto Wilches,37.0,1702089
+68533,Santander,Paramo,27.9,82118
+68615,Santander,Rionegro,35.6,1317777
+68655,Santander,Sabana De Torres,35.6,1581945
+68669,Santander,San Andres,29.0,316957
+68673,Santander,San Benito,27.0,66488
+68679,Santander,San Gil,29.6,165266
+68682,Santander,San Joaquin,31.5,161033
+68684,Santander,San Jose De Miranda,31.1,84727
+68686,Santander,San Miguel,28.8,80116
+68689,Santander,San Vicente De Chucuri,33.9,1257579
+68705,Santander,Santa Barbara,26.8,249118
+68720,Santander,Santa Helena Del Opon,31.4,420714
+68745,Santander,Simacota,34.0,1018623
+68755,Santander,Socorro,30.4,143820
+68770,Santander,Suaita,27.2,318735
+68773,Santander,Sucre,33.9,587625
+68780,Santander,Surata,25.6,409311
+68820,Santander,Tona,26.0,372655
+68855,Santander,Valle De San Jose,27.9,91276
+68867,Santander,Vetas,19.6,104168
+68872,Santander,Villanueva,31.9,109866
+68861,Santander,Velez,32.8,503645
+68895,Santander,Zapatoca,31.5,410396
+70110,Sucre,Buenavista,37.4,165967
+70124,Sucre,Caimito,35.3,466504
+70230,Sucre,Chalan,37.0,94859
+70204,Sucre,Coloso,37.8,148632
+70215,Sucre,Corozal,35.6,323431
+70221,Sucre,Covenas,34.8,63167
+70233,Sucre,El Roble,35.4,224661
+70235,Sucre,Galeras,35.9,364444
+70265,Sucre,Guaranda,35.1,408820
+70400,Sucre,La Union,35.3,262755
+70418,Sucre,Los Palmitos,36.2,225329
+70429,Sucre,Majagual,35.1,955761
+70473,Sucre,Morroa,36.1,192860
+70508,Sucre,Ovejas,37.3,521508
+70523,Sucre,Palmito,36.3,197785
+70670,Sucre,Sampues,35.7,242399
+70678,Sucre,San Benito Abad,35.4,1690562
+70702,Sucre,San Juan De Betulia,35.9,190430
+70708,Sucre,San Marcos,35.3,1096998
+70713,Sucre,San Onofre,38.1,1171034
+70717,Sucre,San Pedro,37.1,241279
+70001,Sucre,Sincelejo,36.6,317037
+70742,Sucre,Since,36.3,474549
+70771,Sucre,Sucre,35.1,1279983
+70823,Sucre,Toluviejo,37.7,322705
+70820,Sucre,Tolu,36.3,342752
+73024,Tolima,Alpujarra,34.6,561816
+73026,Tolima,Alvarado,35.9,386287
+73030,Tolima,Ambalema,36.2,267157
+73043,Tolima,Anzoategui,31.7,526884
+73055,Tolima,Armero,36.6,494658
+73067,Tolima,Ataco,35.7,1139635
+73124,Tolima,Cajamarca,24.1,570079
+73148,Tolima,Carmen De Apicala,35.4,213990
+73152,Tolima,Casabianca,29.0,196337
+73168,Tolima,Chaparral,36.1,2354562
+73200,Tolima,Coello,37.1,385364
+73217,Tolima,Coyaima,37.0,749697
+73226,Tolima,Cunday,34.3,568906
+73236,Tolima,Dolores,34.5,730573
+73268,Tolima,Espinal,37.0,242734
+73270,Tolima,Falan,34.7,203547
+73275,Tolima,Flandes,36.8,108583
+73283,Tolima,Fresno,31.1,246667
+73319,Tolima,Guamo,36.9,566867
+73347,Tolima,Herveo,25.6,362197
+73349,Tolima,Honda,36.2,342385
+73001,Tolima,Ibague,35.5,1544466
+73352,Tolima,Icononzo,32.5,241283
+73408,Tolima,Lerida,35.9,305205
+73411,Tolima,Libano,31.7,316901
+73443,Tolima,Mariquita,35.1,329376
+73449,Tolima,Melgar,35.4,226709
+73461,Tolima,Murillo,25.8,475640
+73483,Tolima,Natagaima,36.1,963273
+73504,Tolima,Ortega,37.1,1068798
+73520,Tolima,Palocabildo,30.1,72991
+73547,Tolima,Piedras,36.1,397543
+73555,Tolima,Planadas,30.4,1963114
+73563,Tolima,Prado,36.5,474087
+73585,Tolima,Purificacion,36.6,450861
+73616,Tolima,Rioblanco,31.8,2290796
+73622,Tolima,Roncesvalles,27.6,869386
+73624,Tolima,Rovira,33.6,829001
+73671,Tolima,Saldana,37.0,216592
+73675,Tolima,San Antonio,28.9,429707
+73678,Tolima,San Luis,37.1,462135
+73686,Tolima,Santa Isabel,29.9,303126
+73770,Tolima,Suarez,36.1,213192
+73854,Tolima,Valle De San Juan,34.7,221810
+73861,Tolima,Venadillo,36.1,375469
+73870,Tolima,Villahermosa,29.6,313351
+73873,Tolima,Villarrica,31.4,482546
+76020,Valle del Cauca,Alcala,30.9,69898
+76036,Valle del Cauca,Andalucia,30.5,123649
+76041,Valle del Cauca,Ansermanuevo,31.0,342440
+76054,Valle del Cauca,Argelia,27.8,101777
+76100,Valle del Cauca,Bolivar,30.7,832814
+76109,Valle del Cauca,Buenaventura,32.9,6990935
+76111,Valle del Cauca,Buga,29.6,924599
+76113,Valle del Cauca,Bugalagrande,30.6,444453
+76122,Valle del Cauca,Caicedonia,30.0,187128
+76001,Valle del Cauca,Cali,31.2,630689
+76126,Valle del Cauca,Calima,32.6,887911
+76130,Valle del Cauca,Candelaria,31.1,330782
+76147,Valle del Cauca,Cartago,31.3,278244
+76233,Valle del Cauca,Dagua,30.5,1025182
+76246,Valle del Cauca,El Cairo,27.2,240085
+76248,Valle del Cauca,El Cerrito,29.9,494651
+76250,Valle del Cauca,El Dovio,27.3,264386
+76243,Valle del Cauca,El Aguila,29.7,210605
+76275,Valle del Cauca,Florida,30.2,449303
+76306,Valle del Cauca,Ginebra,29.7,300833
+76318,Valle del Cauca,Guacari,29.7,181856
+76364,Valle del Cauca,Jamundi,31.1,703170
+76377,Valle del Cauca,La Cumbre,27.8,285776
+76400,Valle del Cauca,La Union,31.0,135444
+76403,Valle del Cauca,La Victoria,31.1,296688
+76497,Valle del Cauca,Obando,31.1,240640
+76520,Valle del Cauca,Palmira,30.8,1124559
+76563,Valle del Cauca,Pradera,30.2,399199
+76606,Valle del Cauca,Restrepo,27.2,153487
+76616,Valle del Cauca,Riofrio,29.9,344886
+76622,Valle del Cauca,Roldanillo,31.0,263446
+76670,Valle del Cauca,San Pedro,30.1,226395
+76736,Valle del Cauca,Sevilla,30.6,601883
+76823,Valle del Cauca,Toro,31.0,196960
+76828,Valle del Cauca,Trujillo,30.0,344589
+76834,Valle del Cauca,Tulua,30.4,1018546
+76845,Valle del Cauca,Ulloa,30.9,46974
+76863,Valle del Cauca,Versalles,27.8,224789
+76869,Valle del Cauca,Vijes,29.6,126386
+76890,Valle del Cauca,Yotoco,29.7,366757
+76892,Valle del Cauca,Yumbo,29.8,258128
+76895,Valle del Cauca,Zarzal,31.1,412233
+97161,Vaupes,Caruru,30.9,7108536
+97001,Vaupes,Mitu,30.9,18064548
+97511,Vaupes,Pacoa,31.8,15604973
+97777,Vaupes,Papunaua,30.9,6190337
+97666,Vaupes,Taraira,31.9,7244984
+97889,Vaupes,Yavarate,30.6,5118134
+99773,Vichada,Cumaribo,33.5,72944342
+99524,Vichada,La Primavera,32.5,20583991
+99001,Vichada,Puerto Carreno,34.0,13250752
+99624,Vichada,Santa Rosalia,32.3,4128984
