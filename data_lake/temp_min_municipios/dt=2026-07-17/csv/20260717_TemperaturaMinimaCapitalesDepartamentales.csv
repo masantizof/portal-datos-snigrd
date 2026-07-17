@@ -1,0 +1,33 @@
+COD_MUN,DEPARTAMENTO,MUNICIPIO,TMIN_TOP3_PROMEDIO_C,N_PIXELES_DOWNSCALING
+91001,Amazonas,Leticia,19.8,6727268
+05001,Antioquia,Medellin,6.2,419962
+81001,Arauca,Arauca,20.0,6480390
+08001,Atlantico,Barranquilla,24.4,165737
+13001,Bolivar,Cartagena De Indias,21.7,641599
+15001,Boyaca,Tunja,3.4,134508
+17001,Caldas,Manizales,1.7,494940
+18001,Caqueta,Florencia,3.4,2849167
+85001,Casanare,Yopal,10.7,2785982
+19001,Cauca,Popayan,1.6,536566
+20001,Cesar,Valledupar,-1.7,4760939
+27001,Choco,Quibdo,4.1,3935568
+11001,Cundinamarca,"Bogota, D.C.",-1.8,1817617
+23001,Cordoba,Monteria,22.6,3544548
+94001,Guainia,Inirida,17.3,17706318
+95001,Guaviare,San Jose Del Guaviare,18.2,18731168
+41001,Huila,Neiva,5.0,1421612
+44001,La Guajira,Riohacha,2.1,3518455
+47001,Magdalena,Santa Marta,-2.0,2672070
+50001,Meta,Villavicencio,1.3,1441792
+52001,Narino,Pasto,2.2,1226326
+54001,Norte de Santander,Cucuta,17.1,1277938
+86001,Putumayo,Mocoa,3.6,1456603
+63001,Quindio,Armenia,13.4,136089
+66001,Risaralda,Pereira,-3.6,682233
+88001,San Andres y Providencia,San Andres,31.2,30340
+68001,Santander,Bucaramanga,11.3,172989
+70001,Sucre,Sincelejo,21.7,317037
+73001,Tolima,Ibague,-6.4,1544466
+76001,Valle del Cauca,Cali,3.3,630689
+97001,Vaupes,Mitu,17.9,18064548
+99001,Vichada,Puerto Carreno,20.8,13250752

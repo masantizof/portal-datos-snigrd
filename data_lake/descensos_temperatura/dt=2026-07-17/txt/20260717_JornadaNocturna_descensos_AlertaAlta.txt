@@ -1,6 +1,9 @@
-Caldas: Villamaria
+Caldas: Manizales, Villamaria
 Cauca: Corinto, Páez, Toribío
-Cundinamarca: Arbeláez, Bogotá, D.C., Gutiérrez, Pasca, San Bernardo
+Cundinamarca: Bogotá, D.C.
 Huila: Teruel
 Meta: Cubarral
-Tolima: Murillo, Planadas, Santa Isabel
+Nariño: Cumbal
+Risaralda: Santa Rosa De Cabal
+Tolima: Anzoátegui, Casabianca, Chaparral, Herveo, Ibagué, Murillo, Planadas, Rioblanco, Santa Isabel, Villahermosa
+Valle del Cauca: Buga

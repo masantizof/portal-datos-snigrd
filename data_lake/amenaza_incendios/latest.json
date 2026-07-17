@@ -1,7 +1,7 @@
 {
   "dataset": "amenaza_incendios",
   "kind": "amenaza_modelo",
-  "updated_at": "2026-07-17T00:23:02+00:00",
+  "updated_at": "2026-07-17T18:33:21+00:00",
   "files": {
     "2026_amenaza_icv_vidhag.csv": "data_lake/amenaza_incendios/dt=2026-07-17/2026_amenaza_icv_vidhag.csv",
     "amenaza_icv.csv": "data_lake/amenaza_incendios/dt=2026-07-17/amenaza_icv.csv"

@@ -1,1 +1,1 @@
-shape/20260713_JornadaDiurna_Granizo_raster.nc|2026-07-12T12:47:00
+shape/20260719_JornadaDiurna_Granizo_raster.nc|2026-07-17T12:47:00
