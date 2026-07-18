@@ -1,14 +1,23 @@
 {
   "dataset": "granizo",
   "kind": "alerta_diaria",
-  "updated_at": "2026-07-17T18:31:25+00:00",
+  "updated_at": "2026-07-18T18:22:25+00:00",
   "files": {
-    "shape/20260719_JornadaDiurna_Granizo_raster.nc": "data_lake/granizo/dt=2026-07-17/shape/20260719_JornadaDiurna_Granizo_raster.nc"
+    "excel/PronosticoMunicipal_Granizo_72h.xlsx": "data_lake/granizo/dt=2026-07-18/excel/PronosticoMunicipal_Granizo_72h.xlsx",
+    "mapas/20260720_JornadaDiurna_MapaNacional_Granizo.png": "data_lake/granizo/dt=2026-07-18/mapas/20260720_JornadaDiurna_MapaNacional_Granizo.png",
+    "shape/20260720_JornadaDiurna_Granizo_raster.nc": "data_lake/granizo/dt=2026-07-18/shape/20260720_JornadaDiurna_Granizo_raster.nc",
+    "shape/20260720_JornadaDiurna_Resumen.cpg": "data_lake/granizo/dt=2026-07-18/shape/20260720_JornadaDiurna_Resumen.cpg",
+    "shape/20260720_JornadaDiurna_Resumen.dbf": "data_lake/granizo/dt=2026-07-18/shape/20260720_JornadaDiurna_Resumen.dbf",
+    "shape/20260720_JornadaDiurna_Resumen.prj": "data_lake/granizo/dt=2026-07-18/shape/20260720_JornadaDiurna_Resumen.prj",
+    "shape/20260720_JornadaDiurna_Resumen.shp": "data_lake/granizo/dt=2026-07-18/shape/20260720_JornadaDiurna_Resumen.shp",
+    "shape/20260720_JornadaDiurna_Resumen.shx": "data_lake/granizo/dt=2026-07-18/shape/20260720_JornadaDiurna_Resumen.shx",
+    "txt/20260720_JornadaDiurna_granizo_AlertaBaja.txt": "data_lake/granizo/dt=2026-07-18/txt/20260720_JornadaDiurna_granizo_AlertaBaja.txt",
+    "txt/20260720_JornadaDiurna_granizo_AlertaMedia.txt": "data_lake/granizo/dt=2026-07-18/txt/20260720_JornadaDiurna_granizo_AlertaMedia.txt"
   },
-  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/Granizo/20260717/",
+  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/Granizo/20260718/",
   "categoria": "Granizo",
-  "fecha": "20260717",
-  "n_archivos": 1,
+  "fecha": "20260718",
+  "n_archivos": 10,
   "omitidos": [],
   "note": "Última fecha con datos publicados en Granizo/ (BART/IDEAM). El histórico completo no se replica, sólo se consulta la fecha vigente."
 }

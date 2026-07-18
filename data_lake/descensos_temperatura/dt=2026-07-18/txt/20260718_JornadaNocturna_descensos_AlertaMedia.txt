@@ -1,0 +1,10 @@
+Arauca: Tame
+Boyacá: El Cocuy, Guacamayas, Gámeza, Mongua, Panqueba, San Mateo, Tasco
+Cauca: La Vega, San Sebastián, Sotará
+Cundinamarca: Bogotá, D.C., Gutiérrez, Une
+Huila: San Agustín, Teruel
+Meta: Cubarral, Lejanías, Uribe
+Nariño: Aldana, Cuaspud, Guachucal, Mallama, Pasto, Pupiales, Sapuyes, Túquerres
+Norte de Santander: Chitagá, Silos
+Santander: Carcasí, Cerrito, Concepción, Guaca, San Andrés, Santa Bárbara
+Tolima: Planadas, Rioblanco
