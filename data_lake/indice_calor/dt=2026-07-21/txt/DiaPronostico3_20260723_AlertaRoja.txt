@@ -1,0 +1,7 @@
+Amazonas: Tarapacá (61.1 degC), Puerto Nariño (59.1 degC), Leticia (59.0 degC), La Pedrera (58.2 degC), Mirití-Paraná (56.3 degC), Puerto Arica (56.3 degC), El Encanto (55.5 degC), Santander (54.0 degC), La Chorrera (52.5 degC)
+Cesar: Becerrill (61.7 degC), El Paso (60.2 degC), Chiriguaná (59.2 degC), La Jagua De Ibirico (58.7 degC), Bosconia (58.1 degC), Agustín Codazzi (57.5 degC), Chimichagua (56.8 degC), La Paz (56.4 degC), San Diego (56.1 degC), Curumaní (55.4 degC), Valledupar (55.2 degC), Astrea (54.1 degC), El Copey (54.1 degC)
+Guainía: Cacahual (54.9 degC), Inírida (54.5 degC)
+La Guajira: Riohacha (53.3 degC), Uribia (52.4 degC), Manaure (52.2 degC)
+Magdalena: Ariguaní (57.6 degC), Santa Ana (57.6 degC), Pijiño Del Carmen (55.7 degC), Sabanas De San Ángel (55.5 degC)
+Norte de Santander: Cúcuta (56.2 degC), Tibú (54.3 degC), Sardinata (51.7 degC)
+Vaupés: Taraira (57.6 degC)

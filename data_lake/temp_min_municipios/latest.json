@@ -1,22 +1,22 @@
 {
   "dataset": "temp_min_municipios",
   "kind": "alerta_diaria",
-  "updated_at": "2026-07-19T18:26:46+00:00",
+  "updated_at": "2026-07-21T18:44:16+00:00",
   "files": {
-    "csv/20260719_TemperaturaMinimaCapitalesDepartamentales.csv": "data_lake/temp_min_municipios/dt=2026-07-19/csv/20260719_TemperaturaMinimaCapitalesDepartamentales.csv",
-    "csv/20260719_TemperaturaMinimaMunicipal.csv": "data_lake/temp_min_municipios/dt=2026-07-19/csv/20260719_TemperaturaMinimaMunicipal.csv",
-    "mapas/20260719_MapaTemperaturaMinimaNacional.png": "data_lake/temp_min_municipios/dt=2026-07-19/mapas/20260719_MapaTemperaturaMinimaNacional.png",
-    "mapas/20260719_MapaTemperaturaMinimaNacional_Continua.png": "data_lake/temp_min_municipios/dt=2026-07-19/mapas/20260719_MapaTemperaturaMinimaNacional_Continua.png",
-    "raster/20260719_TemperaturaMinimaNacional_10km.tif": "data_lake/temp_min_municipios/dt=2026-07-19/raster/20260719_TemperaturaMinimaNacional_10km.tif"
+    "csv/20260721_TemperaturaMinimaCapitalesDepartamentales.csv": "data_lake/temp_min_municipios/dt=2026-07-21/csv/20260721_TemperaturaMinimaCapitalesDepartamentales.csv",
+    "csv/20260721_TemperaturaMinimaMunicipal.csv": "data_lake/temp_min_municipios/dt=2026-07-21/csv/20260721_TemperaturaMinimaMunicipal.csv",
+    "mapas/20260721_MapaTemperaturaMinimaNacional.png": "data_lake/temp_min_municipios/dt=2026-07-21/mapas/20260721_MapaTemperaturaMinimaNacional.png",
+    "mapas/20260721_MapaTemperaturaMinimaNacional_Continua.png": "data_lake/temp_min_municipios/dt=2026-07-21/mapas/20260721_MapaTemperaturaMinimaNacional_Continua.png",
+    "raster/20260721_TemperaturaMinimaNacional_10km.tif": "data_lake/temp_min_municipios/dt=2026-07-21/raster/20260721_TemperaturaMinimaNacional_10km.tif"
   },
-  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMinimasMunicipios/20260719/",
+  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMinimasMunicipios/20260721/",
   "categoria": "TemperaturasMinimasMunicipios",
-  "fecha": "20260719",
+  "fecha": "20260721",
   "n_archivos": 5,
   "omitidos": [
     {
-      "archivo": "raster/20260719_TemperaturaMinimaNacional_Downscaling30m.tif",
-      "url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMinimasMunicipios/20260719/raster/20260719_TemperaturaMinimaNacional_Downscaling30m.tif"
+      "archivo": "raster/20260721_TemperaturaMinimaNacional_Downscaling30m.tif",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMinimasMunicipios/20260721/raster/20260721_TemperaturaMinimaNacional_Downscaling30m.tif"
     }
   ],
   "note": "Última fecha con datos publicados en TemperaturasMinimasMunicipios/ (BART/IDEAM). El histórico completo no se replica, sólo se consulta la fecha vigente. 1 archivo(s) omitido(s) por superar 60MB (ver 'omitidos')."

@@ -1,13 +1,13 @@
 {
   "dataset": "amenaza_hidrologia",
   "kind": "vector",
-  "updated_at": "2026-07-19T18:27:01+00:00",
+  "updated_at": "2026-07-21T18:44:35+00:00",
   "files": {
-    "Alertas_vigentes.dbf": "data_lake/amenaza_hidrologia/dt=2026-07-19/Alertas_vigentes.dbf",
-    "Alertas_vigentes.prj": "data_lake/amenaza_hidrologia/dt=2026-07-19/Alertas_vigentes.prj",
-    "Alertas_vigentes.shp": "data_lake/amenaza_hidrologia/dt=2026-07-19/Alertas_vigentes.shp",
-    "Alertas_vigentes.shx": "data_lake/amenaza_hidrologia/dt=2026-07-19/Alertas_vigentes.shx",
-    "geojson": "data_lake/amenaza_hidrologia/dt=2026-07-19/Alertas_vigentes.geojson"
+    "Alertas_vigentes.dbf": "data_lake/amenaza_hidrologia/dt=2026-07-21/Alertas_vigentes.dbf",
+    "Alertas_vigentes.prj": "data_lake/amenaza_hidrologia/dt=2026-07-21/Alertas_vigentes.prj",
+    "Alertas_vigentes.shp": "data_lake/amenaza_hidrologia/dt=2026-07-21/Alertas_vigentes.shp",
+    "Alertas_vigentes.shx": "data_lake/amenaza_hidrologia/dt=2026-07-21/Alertas_vigentes.shx",
+    "geojson": "data_lake/amenaza_hidrologia/dt=2026-07-21/Alertas_vigentes.geojson"
   },
   "source_url": "https://bart.ideam.gov.co/ospa/Alertas/modelos/hidrologia/",
   "n_archivos": 5,
