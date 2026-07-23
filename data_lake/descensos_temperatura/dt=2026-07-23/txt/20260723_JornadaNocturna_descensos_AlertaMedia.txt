@@ -1,3 +1,5 @@
-Cauca: Páez
-Huila: Teruel
-Tolima: Planadas
+Cauca: Miranda, Puracé, Páez, Toribío
+Cundinamarca: Bogotá, D.C., Cabrera
+Huila: Isnos, Saladoblanco, San Agustín, Teruel
+Tolima: Chaparral, Planadas, Rioblanco
+Valle del Cauca: Florida

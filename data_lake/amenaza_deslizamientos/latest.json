@@ -1,7 +1,7 @@
 {
   "dataset": "amenaza_deslizamientos",
   "kind": "amenaza_modelo",
-  "updated_at": "2026-07-23T00:29:08+00:00",
+  "updated_at": "2026-07-23T18:42:45+00:00",
   "files": {
     "2026_amenaza_idd_vidhag.csv": "data_lake/amenaza_deslizamientos/dt=2026-07-23/2026_amenaza_idd_vidhag.csv",
     "amenaza_idd.csv": "data_lake/amenaza_deslizamientos/dt=2026-07-23/amenaza_idd.csv"
