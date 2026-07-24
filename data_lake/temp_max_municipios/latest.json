@@ -1,22 +1,22 @@
 {
   "dataset": "temp_max_municipios",
   "kind": "alerta_diaria",
-  "updated_at": "2026-07-23T18:42:33+00:00",
+  "updated_at": "2026-07-24T18:49:06+00:00",
   "files": {
-    "csv/20260723_TemperaturaMaximaCapitalesDepartamentales.csv": "data_lake/temp_max_municipios/dt=2026-07-23/csv/20260723_TemperaturaMaximaCapitalesDepartamentales.csv",
-    "csv/20260723_TemperaturaMaximaMunicipal.csv": "data_lake/temp_max_municipios/dt=2026-07-23/csv/20260723_TemperaturaMaximaMunicipal.csv",
-    "mapas/20260723_MapaTemperaturaMaximaNacional.png": "data_lake/temp_max_municipios/dt=2026-07-23/mapas/20260723_MapaTemperaturaMaximaNacional.png",
-    "mapas/20260723_MapaTemperaturaMaximaNacional_Continua.png": "data_lake/temp_max_municipios/dt=2026-07-23/mapas/20260723_MapaTemperaturaMaximaNacional_Continua.png",
-    "raster/20260723_TemperaturaMaximaNacional_10km.tif": "data_lake/temp_max_municipios/dt=2026-07-23/raster/20260723_TemperaturaMaximaNacional_10km.tif"
+    "csv/20260724_TemperaturaMaximaCapitalesDepartamentales.csv": "data_lake/temp_max_municipios/dt=2026-07-24/csv/20260724_TemperaturaMaximaCapitalesDepartamentales.csv",
+    "csv/20260724_TemperaturaMaximaMunicipal.csv": "data_lake/temp_max_municipios/dt=2026-07-24/csv/20260724_TemperaturaMaximaMunicipal.csv",
+    "mapas/20260724_MapaTemperaturaMaximaNacional.png": "data_lake/temp_max_municipios/dt=2026-07-24/mapas/20260724_MapaTemperaturaMaximaNacional.png",
+    "mapas/20260724_MapaTemperaturaMaximaNacional_Continua.png": "data_lake/temp_max_municipios/dt=2026-07-24/mapas/20260724_MapaTemperaturaMaximaNacional_Continua.png",
+    "raster/20260724_TemperaturaMaximaNacional_10km.tif": "data_lake/temp_max_municipios/dt=2026-07-24/raster/20260724_TemperaturaMaximaNacional_10km.tif"
   },
-  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260723/",
+  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260724/",
   "categoria": "TemperaturasMaximasMunicipios",
-  "fecha": "20260723",
+  "fecha": "20260724",
   "n_archivos": 5,
   "omitidos": [
     {
-      "archivo": "raster/20260723_TemperaturaMaximaNacional_Downscaling30m.tif",
-      "url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260723/raster/20260723_TemperaturaMaximaNacional_Downscaling30m.tif"
+      "archivo": "raster/20260724_TemperaturaMaximaNacional_Downscaling30m.tif",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260724/raster/20260724_TemperaturaMaximaNacional_Downscaling30m.tif"
     }
   ],
   "note": "Última fecha con datos publicados en TemperaturasMaximasMunicipios/ (BART/IDEAM). El histórico completo no se replica, sólo se consulta la fecha vigente. 1 archivo(s) omitido(s) por superar 60MB (ver 'omitidos')."

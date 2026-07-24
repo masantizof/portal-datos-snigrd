@@ -1,77 +1,77 @@
 {
   "dataset": "indice_calor",
   "kind": "alerta_diaria",
-  "updated_at": "2026-07-23T18:42:29+00:00",
+  "updated_at": "2026-07-24T18:49:01+00:00",
   "files": {
-    "excel/PronosticoMunicipal_IC_Rothfusz_MaxDominio.xlsx": "data_lake/indice_calor/dt=2026-07-23/excel/PronosticoMunicipal_IC_Rothfusz_MaxDominio.xlsx",
-    "mapas/DiaPronostico1_20260723_MapaNacional.png": "data_lake/indice_calor/dt=2026-07-23/mapas/DiaPronostico1_20260723_MapaNacional.png",
-    "mapas/DiaPronostico2_20260724_MapaNacional.png": "data_lake/indice_calor/dt=2026-07-23/mapas/DiaPronostico2_20260724_MapaNacional.png",
-    "mapas/DiaPronostico3_20260725_MapaNacional.png": "data_lake/indice_calor/dt=2026-07-23/mapas/DiaPronostico3_20260725_MapaNacional.png",
-    "shape/DiaPronostico1_20260723_IC_raster.nc": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico1_20260723_IC_raster.nc",
-    "shape/DiaPronostico1_20260723_IndiceCalor.cpg": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico1_20260723_IndiceCalor.cpg",
-    "shape/DiaPronostico1_20260723_IndiceCalor.dbf": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico1_20260723_IndiceCalor.dbf",
-    "shape/DiaPronostico1_20260723_IndiceCalor.prj": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico1_20260723_IndiceCalor.prj",
-    "shape/DiaPronostico1_20260723_IndiceCalor.shx": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico1_20260723_IndiceCalor.shx",
-    "shape/DiaPronostico1_20260723_Resumen.cpg": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico1_20260723_Resumen.cpg",
-    "shape/DiaPronostico1_20260723_Resumen.dbf": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico1_20260723_Resumen.dbf",
-    "shape/DiaPronostico1_20260723_Resumen.prj": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico1_20260723_Resumen.prj",
-    "shape/DiaPronostico1_20260723_Resumen.shx": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico1_20260723_Resumen.shx",
-    "shape/DiaPronostico2_20260724_IC_raster.nc": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico2_20260724_IC_raster.nc",
-    "shape/DiaPronostico2_20260724_IndiceCalor.cpg": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico2_20260724_IndiceCalor.cpg",
-    "shape/DiaPronostico2_20260724_IndiceCalor.dbf": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico2_20260724_IndiceCalor.dbf",
-    "shape/DiaPronostico2_20260724_IndiceCalor.prj": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico2_20260724_IndiceCalor.prj",
-    "shape/DiaPronostico2_20260724_IndiceCalor.shx": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico2_20260724_IndiceCalor.shx",
-    "shape/DiaPronostico2_20260724_Resumen.cpg": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico2_20260724_Resumen.cpg",
-    "shape/DiaPronostico2_20260724_Resumen.dbf": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico2_20260724_Resumen.dbf",
-    "shape/DiaPronostico2_20260724_Resumen.prj": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico2_20260724_Resumen.prj",
-    "shape/DiaPronostico2_20260724_Resumen.shx": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico2_20260724_Resumen.shx",
-    "shape/DiaPronostico3_20260725_IC_raster.nc": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico3_20260725_IC_raster.nc",
-    "shape/DiaPronostico3_20260725_IndiceCalor.cpg": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico3_20260725_IndiceCalor.cpg",
-    "shape/DiaPronostico3_20260725_IndiceCalor.dbf": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico3_20260725_IndiceCalor.dbf",
-    "shape/DiaPronostico3_20260725_IndiceCalor.prj": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico3_20260725_IndiceCalor.prj",
-    "shape/DiaPronostico3_20260725_IndiceCalor.shx": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico3_20260725_IndiceCalor.shx",
-    "shape/DiaPronostico3_20260725_Resumen.cpg": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico3_20260725_Resumen.cpg",
-    "shape/DiaPronostico3_20260725_Resumen.dbf": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico3_20260725_Resumen.dbf",
-    "shape/DiaPronostico3_20260725_Resumen.prj": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico3_20260725_Resumen.prj",
-    "shape/DiaPronostico3_20260725_Resumen.shx": "data_lake/indice_calor/dt=2026-07-23/shape/DiaPronostico3_20260725_Resumen.shx",
-    "txt/DiaPronostico1_20260723_AlertaAmarilla.txt": "data_lake/indice_calor/dt=2026-07-23/txt/DiaPronostico1_20260723_AlertaAmarilla.txt",
-    "txt/DiaPronostico1_20260723_AlertaNaranja.txt": "data_lake/indice_calor/dt=2026-07-23/txt/DiaPronostico1_20260723_AlertaNaranja.txt",
-    "txt/DiaPronostico1_20260723_AlertaRoja.txt": "data_lake/indice_calor/dt=2026-07-23/txt/DiaPronostico1_20260723_AlertaRoja.txt",
-    "txt/DiaPronostico2_20260724_AlertaAmarilla.txt": "data_lake/indice_calor/dt=2026-07-23/txt/DiaPronostico2_20260724_AlertaAmarilla.txt",
-    "txt/DiaPronostico2_20260724_AlertaNaranja.txt": "data_lake/indice_calor/dt=2026-07-23/txt/DiaPronostico2_20260724_AlertaNaranja.txt",
-    "txt/DiaPronostico2_20260724_AlertaRoja.txt": "data_lake/indice_calor/dt=2026-07-23/txt/DiaPronostico2_20260724_AlertaRoja.txt",
-    "txt/DiaPronostico3_20260725_AlertaAmarilla.txt": "data_lake/indice_calor/dt=2026-07-23/txt/DiaPronostico3_20260725_AlertaAmarilla.txt",
-    "txt/DiaPronostico3_20260725_AlertaNaranja.txt": "data_lake/indice_calor/dt=2026-07-23/txt/DiaPronostico3_20260725_AlertaNaranja.txt",
-    "txt/DiaPronostico3_20260725_AlertaRoja.txt": "data_lake/indice_calor/dt=2026-07-23/txt/DiaPronostico3_20260725_AlertaRoja.txt"
+    "excel/PronosticoMunicipal_IC_Rothfusz_MaxDominio.xlsx": "data_lake/indice_calor/dt=2026-07-24/excel/PronosticoMunicipal_IC_Rothfusz_MaxDominio.xlsx",
+    "mapas/DiaPronostico1_20260724_MapaNacional.png": "data_lake/indice_calor/dt=2026-07-24/mapas/DiaPronostico1_20260724_MapaNacional.png",
+    "mapas/DiaPronostico2_20260725_MapaNacional.png": "data_lake/indice_calor/dt=2026-07-24/mapas/DiaPronostico2_20260725_MapaNacional.png",
+    "mapas/DiaPronostico3_20260726_MapaNacional.png": "data_lake/indice_calor/dt=2026-07-24/mapas/DiaPronostico3_20260726_MapaNacional.png",
+    "shape/DiaPronostico1_20260724_IC_raster.nc": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico1_20260724_IC_raster.nc",
+    "shape/DiaPronostico1_20260724_IndiceCalor.cpg": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico1_20260724_IndiceCalor.cpg",
+    "shape/DiaPronostico1_20260724_IndiceCalor.dbf": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico1_20260724_IndiceCalor.dbf",
+    "shape/DiaPronostico1_20260724_IndiceCalor.prj": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico1_20260724_IndiceCalor.prj",
+    "shape/DiaPronostico1_20260724_IndiceCalor.shx": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico1_20260724_IndiceCalor.shx",
+    "shape/DiaPronostico1_20260724_Resumen.cpg": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico1_20260724_Resumen.cpg",
+    "shape/DiaPronostico1_20260724_Resumen.dbf": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico1_20260724_Resumen.dbf",
+    "shape/DiaPronostico1_20260724_Resumen.prj": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico1_20260724_Resumen.prj",
+    "shape/DiaPronostico1_20260724_Resumen.shx": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico1_20260724_Resumen.shx",
+    "shape/DiaPronostico2_20260725_IC_raster.nc": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico2_20260725_IC_raster.nc",
+    "shape/DiaPronostico2_20260725_IndiceCalor.cpg": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico2_20260725_IndiceCalor.cpg",
+    "shape/DiaPronostico2_20260725_IndiceCalor.dbf": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico2_20260725_IndiceCalor.dbf",
+    "shape/DiaPronostico2_20260725_IndiceCalor.prj": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico2_20260725_IndiceCalor.prj",
+    "shape/DiaPronostico2_20260725_IndiceCalor.shx": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico2_20260725_IndiceCalor.shx",
+    "shape/DiaPronostico2_20260725_Resumen.cpg": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico2_20260725_Resumen.cpg",
+    "shape/DiaPronostico2_20260725_Resumen.dbf": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico2_20260725_Resumen.dbf",
+    "shape/DiaPronostico2_20260725_Resumen.prj": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico2_20260725_Resumen.prj",
+    "shape/DiaPronostico2_20260725_Resumen.shx": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico2_20260725_Resumen.shx",
+    "shape/DiaPronostico3_20260726_IC_raster.nc": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico3_20260726_IC_raster.nc",
+    "shape/DiaPronostico3_20260726_IndiceCalor.cpg": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico3_20260726_IndiceCalor.cpg",
+    "shape/DiaPronostico3_20260726_IndiceCalor.dbf": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico3_20260726_IndiceCalor.dbf",
+    "shape/DiaPronostico3_20260726_IndiceCalor.prj": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico3_20260726_IndiceCalor.prj",
+    "shape/DiaPronostico3_20260726_IndiceCalor.shx": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico3_20260726_IndiceCalor.shx",
+    "shape/DiaPronostico3_20260726_Resumen.cpg": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico3_20260726_Resumen.cpg",
+    "shape/DiaPronostico3_20260726_Resumen.dbf": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico3_20260726_Resumen.dbf",
+    "shape/DiaPronostico3_20260726_Resumen.prj": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico3_20260726_Resumen.prj",
+    "shape/DiaPronostico3_20260726_Resumen.shx": "data_lake/indice_calor/dt=2026-07-24/shape/DiaPronostico3_20260726_Resumen.shx",
+    "txt/DiaPronostico1_20260724_AlertaAmarilla.txt": "data_lake/indice_calor/dt=2026-07-24/txt/DiaPronostico1_20260724_AlertaAmarilla.txt",
+    "txt/DiaPronostico1_20260724_AlertaNaranja.txt": "data_lake/indice_calor/dt=2026-07-24/txt/DiaPronostico1_20260724_AlertaNaranja.txt",
+    "txt/DiaPronostico1_20260724_AlertaRoja.txt": "data_lake/indice_calor/dt=2026-07-24/txt/DiaPronostico1_20260724_AlertaRoja.txt",
+    "txt/DiaPronostico2_20260725_AlertaAmarilla.txt": "data_lake/indice_calor/dt=2026-07-24/txt/DiaPronostico2_20260725_AlertaAmarilla.txt",
+    "txt/DiaPronostico2_20260725_AlertaNaranja.txt": "data_lake/indice_calor/dt=2026-07-24/txt/DiaPronostico2_20260725_AlertaNaranja.txt",
+    "txt/DiaPronostico2_20260725_AlertaRoja.txt": "data_lake/indice_calor/dt=2026-07-24/txt/DiaPronostico2_20260725_AlertaRoja.txt",
+    "txt/DiaPronostico3_20260726_AlertaAmarilla.txt": "data_lake/indice_calor/dt=2026-07-24/txt/DiaPronostico3_20260726_AlertaAmarilla.txt",
+    "txt/DiaPronostico3_20260726_AlertaNaranja.txt": "data_lake/indice_calor/dt=2026-07-24/txt/DiaPronostico3_20260726_AlertaNaranja.txt",
+    "txt/DiaPronostico3_20260726_AlertaRoja.txt": "data_lake/indice_calor/dt=2026-07-24/txt/DiaPronostico3_20260726_AlertaRoja.txt"
   },
-  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260723/",
+  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260724/",
   "categoria": "IndiceCalor",
-  "fecha": "20260723",
+  "fecha": "20260724",
   "n_archivos": 40,
   "omitidos": [
     {
-      "archivo": "shape/DiaPronostico1_20260723_IndiceCalor.shp",
-      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260723/shape/DiaPronostico1_20260723_IndiceCalor.shp"
+      "archivo": "shape/DiaPronostico1_20260724_IndiceCalor.shp",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260724/shape/DiaPronostico1_20260724_IndiceCalor.shp"
     },
     {
-      "archivo": "shape/DiaPronostico1_20260723_Resumen.shp",
-      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260723/shape/DiaPronostico1_20260723_Resumen.shp"
+      "archivo": "shape/DiaPronostico1_20260724_Resumen.shp",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260724/shape/DiaPronostico1_20260724_Resumen.shp"
     },
     {
-      "archivo": "shape/DiaPronostico2_20260724_IndiceCalor.shp",
-      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260723/shape/DiaPronostico2_20260724_IndiceCalor.shp"
+      "archivo": "shape/DiaPronostico2_20260725_IndiceCalor.shp",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260724/shape/DiaPronostico2_20260725_IndiceCalor.shp"
     },
     {
-      "archivo": "shape/DiaPronostico2_20260724_Resumen.shp",
-      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260723/shape/DiaPronostico2_20260724_Resumen.shp"
+      "archivo": "shape/DiaPronostico2_20260725_Resumen.shp",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260724/shape/DiaPronostico2_20260725_Resumen.shp"
     },
     {
-      "archivo": "shape/DiaPronostico3_20260725_IndiceCalor.shp",
-      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260723/shape/DiaPronostico3_20260725_IndiceCalor.shp"
+      "archivo": "shape/DiaPronostico3_20260726_IndiceCalor.shp",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260724/shape/DiaPronostico3_20260726_IndiceCalor.shp"
     },
     {
-      "archivo": "shape/DiaPronostico3_20260725_Resumen.shp",
-      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260723/shape/DiaPronostico3_20260725_Resumen.shp"
+      "archivo": "shape/DiaPronostico3_20260726_Resumen.shp",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20260724/shape/DiaPronostico3_20260726_Resumen.shp"
     }
   ],
   "note": "Última fecha con datos publicados en IndiceCalor/ (BART/IDEAM). El histórico completo no se replica, sólo se consulta la fecha vigente. 6 archivo(s) omitido(s) por superar 60MB (ver 'omitidos')."

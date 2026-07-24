@@ -1,14 +1,16 @@
 Arauca: Fortul
-Boyacá: Aquitania, Belén, Cerinza, Corrales, Duitama, El Espino, Guacamayas, Gámeza, Mongua, Monguí, Panqueba, San Mateo, Santa Rosa De Viterbo, Socha, Socotá, Sogamoso, Tasco, Tota, Tutazá, Tópaga
-Caldas: Villamaria
-Cauca: Inzá, La Vega, Miranda, Puracé, San Sebastián, Santa Rosa, Silvia, Sotará, Totoró
-Cundinamarca: Cabrera, Chipaque, Cogua, Fómeque, Guasca, Guatavita, Junín, La Calera, Soacha, Tausa, Une, Zipaquirá
-Huila: Colombia, Isnos, La Argentina, Saladoblanco, San Agustín, Teruel
+Boyacá: Aquitania, Belén, Cerinza, Chita, Corrales, Cubará, Cuítiva, Duitama, El Espino, Guacamayas, Gámeza, Iza, Jericó, Mongua, Monguí, Panqueba, Pesca, Rondón, San Mateo, Santa Rosa De Viterbo, Siachoque, Socha, Socotá, Sogamoso, Tasco, Toca, Tota, Tutazá, Tópaga, Ventaquemada
+Caldas: Manizales
+Cauca: Bolívar, Inzá, Jambaló, La Vega, Puracé, San Sebastián, Santa Rosa, Silvia, Sotará, Totoró
+Cundinamarca: Carmen De Carupa, Choachí, Chocontá, Chía, Cogua, Fosca, Fusagasugá, Fómeque, Guachetá, Guasca, Guatavita, Junín, La Calera, Lenguazaque, Machetá, Pacho, San Cayetano, Sesquilé, Sibaté, Soacha, Sopó, Subachoque, Suesca, Tausa, Tocancipá, Villapinzón, Zipaquirá
+Huila: Colombia, Isnos, La Argentina, Saladoblanco, San Agustín
 Meta: Acacías, Lejanías, Uribe
 N/A: Area En Litigio Cauca - Huila
-Nariño: Cumbal, Guachucal, La Cruz, Mallama, Sapuyes
-Norte de Santander: Chitagá, Silos
-Quindío: Génova, Salento
-Santander: Coromoro, Encino, Guaca, Onzaga, Santa Bárbara
-Tolima: Anzoátegui, Ibagué, Murillo, Roncesvalles, Santa Isabel
-Valle del Cauca: El Cerrito, Florida, Palmira, Pradera, Sevilla, Tuluá
+Nariño: Aldana, Buesaco, Cuaspud, Córdoba, Funes, Guachucal, Ipiales, La Cruz, Mallama, Pasto, Potosí, Puerres, Pupiales, San Pablo, Sapuyes, Tangua
+Norte de Santander: Mutiscua, Silos
+Putumayo: Santiago
+Quindío: Génova, Pijao, Salento
+Risaralda: Pereira
+Santander: Carcasí, Charalá, Concepción, Coromoro, Encino, Onzaga, Santa Bárbara, Tona, Vetas
+Tolima: Anzoátegui, Cajamarca, Ibagué, Roncesvalles, Rovira
+Valle del Cauca: Pradera, Sevilla, Tuluá

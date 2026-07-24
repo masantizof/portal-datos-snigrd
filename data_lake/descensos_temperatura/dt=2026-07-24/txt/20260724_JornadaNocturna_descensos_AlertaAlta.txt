@@ -1,8 +1,14 @@
 Arauca: Tame
-Boyacá: Chiscas, Chita, El Cocuy, Güicán De La Sierra
+Boyacá: Chiscas, El Cocuy, Güicán De La Sierra
+Caldas: Villamaria
 Casanare: La Salina
-Cauca: Corinto, Páez, Toribío
-Cundinamarca: Arbeláez, Bogotá, D.C., Gutiérrez, Pasca, San Bernardo
+Cauca: Corinto, Miranda, Páez, Toribío
+Cundinamarca: Arbeláez, Bogotá, D.C., Cabrera, Chipaque, Gutiérrez, Pasca, San Bernardo, Une
+Huila: Teruel
 Meta: Cubarral, Guamal
-Tolima: Chaparral, Planadas, Rioblanco
-Valle del Cauca: Buga
+Nariño: Cumbal
+Norte de Santander: Chitagá
+Risaralda: Santa Rosa De Cabal
+Santander: Cerrito, Guaca, San Andrés
+Tolima: Casabianca, Chaparral, Herveo, Murillo, Planadas, Rioblanco, Santa Isabel, Villahermosa
+Valle del Cauca: Buga, Florida
