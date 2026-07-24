@@ -1,0 +1,8 @@
+Arauca: Tame
+Boyacá: Chiscas, Chita, El Cocuy, Güicán De La Sierra
+Casanare: La Salina
+Cauca: Corinto, Páez, Toribío
+Cundinamarca: Arbeláez, Bogotá, D.C., Gutiérrez, Pasca, San Bernardo
+Meta: Cubarral, Guamal
+Tolima: Chaparral, Planadas, Rioblanco
+Valle del Cauca: Buga
