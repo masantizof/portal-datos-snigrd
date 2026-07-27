@@ -1,0 +1,11 @@
+Arauca: Tame
+Boyacá: Aquitania, Chiscas, Chita, Corrales, El Cocuy, El Espino, Guacamayas, Gámeza, Güicán De La Sierra, Mongua, Monguí, Panqueba, San Mateo, Socha, Socotá, Sogamoso, Tasco, Tópaga
+Casanare: La Salina
+Cauca: Inzá, La Vega, Puracé, San Sebastián, Silvia, Sotará, Totoró
+Cesar: Valledupar
+Huila: Isnos, La Argentina, Saladoblanco, San Agustín, Teruel
+Magdalena: Aracataca, Santa Marta
+Meta: Cubarral, Guamal, Lejanías, Uribe
+N/A: Area En Litigio Cauca - Huila
+Nariño: Aldana, Córdoba, Funes, Guachucal, Ipiales, Mallama, Pasto, Potosí, Puerres, Pupiales, Sapuyes, Tangua, Túquerres
+Tolima: Chaparral, Planadas, Rioblanco
