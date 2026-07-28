@@ -1,7 +1,7 @@
-Boyacá: Chiscas
+Arauca: Tame
+Boyacá: Chiscas, El Espino, Güicán De La Sierra
 Caldas: Villamaria
-Cauca: Páez, Toribío
+Cauca: Corinto, Páez, Toribío
 Huila: Teruel
 Nariño: Cumbal
-Santander: Carcasí, Cerrito, Concepción
 Tolima: Murillo, Planadas, Santa Isabel

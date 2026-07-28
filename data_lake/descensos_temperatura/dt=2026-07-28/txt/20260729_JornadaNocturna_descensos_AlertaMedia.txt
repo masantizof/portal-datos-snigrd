@@ -1,1 +1,3 @@
-Nariño: Aldana, Cuaspud, Córdoba, Guachucal, Mallama, Pasto, Potosí, Puerres, Pupiales, Sapuyes, Túquerres
+Caldas: Villamaria
+Nariño: Cumbal, Guachucal, Mallama, Sapuyes
+Tolima: Murillo, Santa Isabel

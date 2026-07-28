@@ -1,7 +1,7 @@
 {
   "dataset": "acumulado_72h",
   "kind": "raster",
-  "updated_at": "2026-07-28T00:29:00+00:00",
+  "updated_at": "2026-07-28T18:43:01+00:00",
   "files": {
     "png": "data_lake/acumulado_72h/dt=2026-07-28/acumulado_72h.png",
     "legend": "data_lake/acumulado_72h/dt=2026-07-28/acumulado_72h_legend.json"
@@ -18,5 +18,5 @@
       -66.0
     ]
   ],
-  "content_hash": "66b0d3816cc395ef688fa7d9cc378e512484baf85e99b44f08e972608721fec6"
+  "content_hash": "e00f254e2928601de0389f3b3abf506ba13b129fdbefc3d6da14ba9ca3286047"
 }

@@ -1,0 +1,10 @@
+Arauca: Fortul
+Boyacá: Aquitania, Chita, El Espino, Gámeza, Mongua, Monguí, Socha, Socotá, Sogamoso, Tasco, Tópaga
+Cauca: Corinto, Inzá, La Vega, Puracé, Páez, San Sebastián, Santa Rosa, Silvia, Sotará, Toribío, Totoró
+Cundinamarca: Arbeláez, Cabrera, Chipaque, Guasca, Gutiérrez, La Calera, Pasca, San Bernardo, Une
+Huila: Colombia, Isnos, Saladoblanco, San Agustín, Teruel
+Meta: Guamal, Lejanías, Uribe
+N/A: Area En Litigio Cauca - Huila
+Nariño: Aldana, Guachucal, Mallama, Pupiales, Sapuyes, Túquerres
+Quindío: Génova
+Tolima: Chaparral, Planadas, Rioblanco, Roncesvalles
