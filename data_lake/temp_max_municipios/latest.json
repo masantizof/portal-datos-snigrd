@@ -1,22 +1,18 @@
 {
   "dataset": "temp_max_municipios",
   "kind": "alerta_diaria",
-  "updated_at": "2026-07-28T18:43:43+00:00",
+  "updated_at": "2026-07-29T18:34:24+00:00",
   "files": {
-    "csv/20260728_TemperaturaMaximaCapitalesDepartamentales.csv": "data_lake/temp_max_municipios/dt=2026-07-28/csv/20260728_TemperaturaMaximaCapitalesDepartamentales.csv",
-    "csv/20260728_TemperaturaMaximaMunicipal.csv": "data_lake/temp_max_municipios/dt=2026-07-28/csv/20260728_TemperaturaMaximaMunicipal.csv",
-    "mapas/20260728_MapaTemperaturaMaximaNacional.png": "data_lake/temp_max_municipios/dt=2026-07-28/mapas/20260728_MapaTemperaturaMaximaNacional.png",
-    "mapas/20260728_MapaTemperaturaMaximaNacional_Continua.png": "data_lake/temp_max_municipios/dt=2026-07-28/mapas/20260728_MapaTemperaturaMaximaNacional_Continua.png",
-    "raster/20260728_TemperaturaMaximaNacional_10km.tif": "data_lake/temp_max_municipios/dt=2026-07-28/raster/20260728_TemperaturaMaximaNacional_10km.tif"
+    "raster/20260729_TemperaturaMaximaNacional_10km.tif": "data_lake/temp_max_municipios/dt=2026-07-29/raster/20260729_TemperaturaMaximaNacional_10km.tif"
   },
-  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260728/",
+  "source_url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260729/",
   "categoria": "TemperaturasMaximasMunicipios",
-  "fecha": "20260728",
-  "n_archivos": 5,
+  "fecha": "20260729",
+  "n_archivos": 1,
   "omitidos": [
     {
-      "archivo": "raster/20260728_TemperaturaMaximaNacional_Downscaling30m.tif",
-      "url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260728/raster/20260728_TemperaturaMaximaNacional_Downscaling30m.tif"
+      "archivo": "raster/20260729_TemperaturaMaximaNacional_Downscaling30m.tif",
+      "url": "https://bart.ideam.gov.co/ospa/Alertas/TemperaturasMaximasMunicipios/20260729/raster/20260729_TemperaturaMaximaNacional_Downscaling30m.tif"
     }
   ],
   "note": "Última fecha con datos publicados en TemperaturasMaximasMunicipios/ (BART/IDEAM). El histórico completo no se replica, sólo se consulta la fecha vigente. 1 archivo(s) omitido(s) por superar 60MB (ver 'omitidos')."

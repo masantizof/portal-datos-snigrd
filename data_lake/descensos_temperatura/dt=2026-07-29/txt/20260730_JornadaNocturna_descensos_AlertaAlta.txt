@@ -1,6 +1,3 @@
 Arauca: Tame
 Boyacá: Chiscas, El Cocuy, Güicán De La Sierra
 Casanare: La Salina
-Cundinamarca: Bogotá, D.C.
-Meta: Cubarral
-Nariño: Cumbal

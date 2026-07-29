@@ -1,3 +1,6 @@
 Caldas: Villamaria
-Nariño: Cumbal, Guachucal, Mallama, Sapuyes
-Tolima: Murillo, Santa Isabel
+Meta: Cubarral, Uribe
+Nariño: Funes, Guachucal, Mallama, Pasto, Puerres, Sapuyes, Tangua
+Norte de Santander: Chitagá, Silos
+Santander: Guaca, Santa Bárbara
+Tolima: Murillo, Santa Isabel, Villahermosa

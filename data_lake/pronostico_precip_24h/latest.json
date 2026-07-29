@@ -1,10 +1,10 @@
 {
   "dataset": "pronostico_precip_24h",
   "kind": "raster",
-  "updated_at": "2026-07-28T18:42:59+00:00",
+  "updated_at": "2026-07-29T18:33:43+00:00",
   "files": {
-    "png": "data_lake/pronostico_precip_24h/dt=2026-07-28/pronostico_precip_24h.png",
-    "legend": "data_lake/pronostico_precip_24h/dt=2026-07-28/pronostico_precip_24h_legend.json"
+    "png": "data_lake/pronostico_precip_24h/dt=2026-07-29/pronostico_precip_24h.png",
+    "legend": "data_lake/pronostico_precip_24h/dt=2026-07-29/pronostico_precip_24h_legend.json"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Pronostico_24_horas/MapServer/export",
   "descripcion": "Pronóstico precipitación 24h",
@@ -18,5 +18,5 @@
       -66.0
     ]
   ],
-  "content_hash": "91b4cbd4eeeb78674cb7f41743f57d2cfc1fbb254a3fff93de41143b456ad441"
+  "content_hash": "29695ec6d9f510515d0a7016584b0b5ac3e7207993093343c6cdd0cc670d4714"
 }
