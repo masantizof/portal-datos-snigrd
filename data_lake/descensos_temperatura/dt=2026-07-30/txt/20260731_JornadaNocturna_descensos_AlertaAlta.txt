@@ -1,1 +1,5 @@
-Nariño: Cumbal
+Cauca: Páez, Toribío
+Cundinamarca: Bogotá, D.C.
+Huila: Teruel
+Meta: Cubarral
+Tolima: Planadas

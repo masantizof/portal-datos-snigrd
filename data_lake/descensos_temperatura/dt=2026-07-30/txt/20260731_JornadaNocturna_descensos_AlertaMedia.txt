@@ -1,11 +1,13 @@
 Arauca: Tame
-Boyacá: Chiscas, Güicán De La Sierra
-Cauca: Corinto, Inzá, Jambaló, La Vega, Puracé, Páez, San Sebastián, Santa Rosa, Silvia, Sotará, Toribío, Totoró
-Cundinamarca: Arbeláez, Bogotá, D.C., Cabrera, Chipaque, Gutiérrez, Pasca, San Bernardo, Une
-Huila: Colombia, Isnos, La Argentina, Saladoblanco, San Agustín, Teruel
-Meta: Cubarral, Guamal, Lejanías, Uribe
+Boyacá: Chiscas, El Cocuy, Gámeza, Güicán De La Sierra, Socha, Tasco
+Caldas: Villamaria
+Casanare: La Salina
+Cauca: Corinto, Inzá, Jambaló, La Vega, Puracé, San Sebastián, Santa Rosa, Silvia, Sotará, Totoró
+Cundinamarca: Cabrera, Chipaque, Gutiérrez, San Bernardo, Une
+Huila: Colombia, Isnos, La Argentina, Saladoblanco, San Agustín
+Meta: Guamal, Lejanías, Uribe
 N/A: Area En Litigio Cauca - Huila
-Nariño: Aldana, Cuaspud, Funes, Guachucal, La Cruz, Mallama, Pasto, Puerres, Sapuyes, Tangua
+Nariño: Aldana, Cuaspud, Cumbal, Córdoba, Funes, Guachucal, Ipiales, Mallama, Pasto, Potosí, Puerres, Pupiales, Sapuyes, Tangua, Túquerres
 Quindío: Génova
-Tolima: Anzoátegui, Chaparral, Ibagué, Murillo, Planadas, Rioblanco, Roncesvalles, Santa Isabel, Villahermosa
-Valle del Cauca: Buga, Sevilla, Tuluá
+Risaralda: Santa Rosa De Cabal
+Tolima: Anzoátegui, Chaparral, Ibagué, Rioblanco, Roncesvalles

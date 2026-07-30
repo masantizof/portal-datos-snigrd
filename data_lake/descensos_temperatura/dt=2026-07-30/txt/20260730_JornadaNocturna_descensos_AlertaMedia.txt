@@ -1,8 +1,13 @@
-Boyacá: Aquitania, Belén, Cerinza, Chita, Corrales, Duitama, El Espino, Gámeza, Mongua, Monguí, Santa Rosa De Viterbo, Socha, Socotá, Sogamoso, Tasco, Tutazá, Tópaga
-Cauca: Páez, Toribío
-Cundinamarca: Bogotá, D.C., Gutiérrez, Une
-Huila: Teruel
-Meta: Cubarral, Guamal, Uribe
-Nariño: Cumbal, Guachucal
-Santander: Coromoro, Encino, Onzaga
-Tolima: Planadas
+Arauca: Tame
+Boyacá: Belén, Cerinza, Chiscas, Chita, Duitama, El Cocuy, Gámeza, Güicán De La Sierra, Mongua, Monguí, Santa Rosa De Viterbo, Socha, Socotá, Sogamoso, Tasco, Tutazá, Tópaga
+Caldas: Villamaria
+Casanare: La Salina
+Cauca: Jambaló, Páez, Silvia, Toribío
+Cundinamarca: Bogotá, D.C., Cabrera, Chipaque, Gutiérrez, San Bernardo, Soacha, Une
+Huila: Colombia
+Meta: Acacías, Cubarral, Guamal, Lejanías, Uribe
+Nariño: Cumbal, Guachucal, Mallama, Sapuyes
+Quindío: Génova
+Santander: Encino
+Tolima: Chaparral, Murillo, Rioblanco, Roncesvalles, Santa Isabel, Villahermosa
+Valle del Cauca: Sevilla, Tuluá

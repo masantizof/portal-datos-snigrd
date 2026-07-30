@@ -1,1 +1,1 @@
-raster/20260729_TemperaturaMaximaNacional_10km.tif|2026-07-29T12:06:00
+csv/20260730_TemperaturaMaximaCapitalesDepartamentales.csv|2026-07-30T12:03:00|csv/20260730_TemperaturaMaximaMunicipal.csv|2026-07-30T12:03:00|mapas/20260730_MapaTemperaturaMaximaNacional.png|2026-07-30T12:04:00|mapas/20260730_MapaTemperaturaMaximaNacional_Continua.png|2026-07-30T12:04:00|raster/20260730_TemperaturaMaximaNacional_10km.tif|2026-07-30T12:01:00
