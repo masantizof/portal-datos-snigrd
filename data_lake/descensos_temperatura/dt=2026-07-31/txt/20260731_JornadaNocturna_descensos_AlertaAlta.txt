@@ -2,4 +2,5 @@ Cauca: Páez, Toribío
 Cundinamarca: Bogotá, D.C.
 Huila: Teruel
 Meta: Cubarral
+Nariño: Cumbal
 Tolima: Planadas

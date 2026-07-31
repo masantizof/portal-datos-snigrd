@@ -1,0 +1,6 @@
+Caldas: Villamaria
+Cauca: Corinto, Páez, Toribío
+Cundinamarca: Bogotá, D.C., San Bernardo
+Nariño: Cumbal
+Tolima: Casabianca, Chaparral, Herveo, Murillo, Planadas, Rioblanco, Santa Isabel, Villahermosa
+Valle del Cauca: Buga
