@@ -1,0 +1,15 @@
+Boyacá: Aquitania, Belén, Cerinza, Chita, Corrales, Cuítiva, Duitama, El Espino, Guacamayas, Gámeza, Iza, Jericó, Mongua, Monguí, Panqueba, San Mateo, Santa Rosa De Viterbo, Socha, Socotá, Sogamoso, Tasco, Tota, Tutazá, Tópaga, Ventaquemada
+Caldas: Villamaria
+Cauca: Corinto, Inzá, La Vega, Puracé, San Sebastián, Santa Rosa, Silvia, Sotará, Totoró
+Cesar: Valledupar
+Cundinamarca: Arbeláez, Cabrera, Chipaque, Cogua, Fómeque, Guachetá, Guasca, Junín, La Calera, Lenguazaque, Pasca, Soacha, Tausa, Une, Villapinzón, Zipaquirá
+Huila: Colombia, Isnos, La Argentina, Saladoblanco, San Agustín
+Magdalena: Aracataca, Santa Marta
+Meta: Acacías, Lejanías, Uribe
+N/A: Area En Litigio Cauca - Huila
+Nariño: Aldana, Cuaspud, Córdoba, Funes, Guachucal, Ipiales, La Cruz, Mallama, Pasto, Potosí, Puerres, Pupiales, Sapuyes, Tangua, Túquerres
+Quindío: Génova, Salento
+Risaralda: Pereira, Santa Rosa De Cabal
+Santander: Coromoro, Encino, Onzaga
+Tolima: Anzoátegui, Casabianca, Chaparral, Herveo, Ibagué, Murillo, Rioblanco, Roncesvalles, Santa Isabel, Villahermosa
+Valle del Cauca: Buga, Sevilla, Tuluá
