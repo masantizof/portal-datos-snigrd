@@ -1,0 +1,10 @@
+Arauca: Tame
+Boyacá: Chiscas, Güicán De La Sierra
+Caldas: Manizales, Villamaria
+Cauca: Corinto, Páez, Toribío
+Cundinamarca: Bogotá, D.C., Gutiérrez
+Huila: Teruel
+Meta: Cubarral, Guamal
+Nariño: Cumbal
+Tolima: Casabianca, Chaparral, Herveo, Murillo, Planadas, Rioblanco, Santa Isabel, Villahermosa
+Valle del Cauca: Buga

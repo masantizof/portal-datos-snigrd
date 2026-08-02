@@ -1,0 +1,11 @@
+Arauca: Tame
+Boyacá: Chiscas, El Cocuy, Güicán De La Sierra
+Caldas: Villamaria
+Casanare: La Salina
+Cauca: Inzá, Puracé, Páez, Silvia, Totoró
+Cundinamarca: Bogotá, D.C., Gutiérrez, San Bernardo
+Huila: Isnos, Saladoblanco, Teruel
+Meta: Cubarral, Guamal
+N/A: Area En Litigio Cauca - Huila
+Nariño: Cumbal
+Tolima: Murillo, Planadas, Santa Isabel

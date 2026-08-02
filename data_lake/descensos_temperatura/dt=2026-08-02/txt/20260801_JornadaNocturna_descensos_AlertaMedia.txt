@@ -1,0 +1,13 @@
+Arauca: Fortul
+Boyacá: Aquitania, Belén, Cerinza, Chita, Corrales, Cuítiva, Duitama, El Espino, Guacamayas, Gámeza, Iza, Jericó, Mongua, Monguí, Panqueba, Paz De Rio, Pesca, San Mateo, Santa Rosa De Viterbo, Socha, Socotá, Sogamoso, Tasco, Toca, Tota, Tutazá, Tópaga
+Caldas: Manizales
+Cauca: Corinto, Jambaló, La Vega, San Sebastián, Santa Rosa, Sotará, Toribío
+Cundinamarca: Arbeláez, Cabrera, Chipaque, Guasca, La Calera, Pasca, Soacha, Une
+Huila: Colombia, La Argentina, San Agustín
+Meta: Acacías, Lejanías, Uribe
+Nariño: Aldana, Cuaspud, Córdoba, Funes, Guachucal, Ipiales, La Cruz, Mallama, Pasto, Potosí, Puerres, Pupiales, Sapuyes, Tangua, Túquerres
+Quindío: Génova, Salento
+Risaralda: Pereira, Santa Rosa De Cabal
+Santander: Carcasí, Concepción, Coromoro, Encino, Onzaga
+Tolima: Anzoátegui, Casabianca, Chaparral, Herveo, Ibagué, Rioblanco, Roncesvalles, Villahermosa
+Valle del Cauca: Buga, Sevilla, Tuluá
