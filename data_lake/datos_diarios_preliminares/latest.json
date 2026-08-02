@@ -1,7 +1,7 @@
 {
   "dataset": "datos_diarios_preliminares",
   "kind": "alerta_diaria",
-  "updated_at": "2026-08-02T00:26:13+00:00",
+  "updated_at": "2026-08-02T18:31:28+00:00",
   "files": {
     "CORDOBA_AGO26.xlsx": "data_lake/datos_diarios_preliminares/dt=2026-08-02/CORDOBA_AGO26.xlsx",
     "CORDOBA_JUL26.xlsx": "data_lake/datos_diarios_preliminares/dt=2026-08-02/CORDOBA_JUL26.xlsx",

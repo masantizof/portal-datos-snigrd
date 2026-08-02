@@ -1,11 +1,13 @@
-Boyacá: Chiscas, Chita, El Cocuy
+Boyacá: Aquitania, Chiscas, Corrales, El Cocuy, Gámeza, Mongua, Monguí, Socha, Socotá, Sogamoso, Tasco, Tópaga
 Casanare: La Salina
-Cauca: Puracé
-Cundinamarca: Arbeláez, Bogotá, D.C., Pasca, San Bernardo
-Huila: Isnos, Saladoblanco
+Cauca: Inzá, Jambaló, La Vega, Puracé, Páez, San Sebastián, Santa Rosa, Silvia, Sotará, Totoró
+Cesar: Valledupar
+Cundinamarca: Bogotá, D.C., Cabrera
+Huila: Isnos, La Argentina, Saladoblanco, San Agustín
+Magdalena: Aracataca, Santa Marta
 Meta: Cubarral, Uribe
 N/A: Area En Litigio Cauca - Huila
-Nariño: Cumbal, Guachucal, Mallama, Pasto, Sapuyes
+Nariño: Aldana, Cuaspud, Funes, Guachucal, Ipiales, Mallama, Pasto, Potosí, Pupiales, Sapuyes, Tangua, Túquerres
 Norte de Santander: Chitagá, Silos
 Santander: Guaca, Santa Bárbara
-Tolima: Chaparral, Rioblanco
+Tolima: Chaparral, Planadas, Rioblanco

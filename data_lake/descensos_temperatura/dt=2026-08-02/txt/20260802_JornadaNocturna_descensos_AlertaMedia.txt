@@ -1,16 +1,17 @@
 Arauca: Fortul
-Boyacá: Aquitania, Belén, Cerinza, Chita, Duitama, El Cocuy, El Espino, Guacamayas, Gámeza, Mongua, Monguí, Panqueba, San Mateo, Santa Rosa De Viterbo, Socha, Socotá, Sogamoso, Tasco, Tota, Tutazá
+Boyacá: Aquitania, Belén, Cerinza, Chita, Corrales, Cubará, Cuítiva, Duitama, El Espino, Guacamayas, Gámeza, Iza, Jericó, Mongua, Monguí, Panqueba, San Mateo, Santa Rosa De Viterbo, Socha, Socotá, Sogamoso, Tasco, Tota, Tutazá, Tópaga, Ventaquemada
 Caldas: Marulanda, Neira
-Casanare: La Salina
-Cauca: Inzá, Jambaló, Miranda, Puracé, San Sebastián, Santa Rosa, Silvia, Totoró
-Cundinamarca: Arbeláez, Cabrera, Carmen De Carupa, Chipaque, Cogua, Fómeque, Guasca, Junín, La Calera, Pasca, San Bernardo, San Cayetano, Soacha, Tausa, Une, Zipaquirá
-Huila: Colombia, Isnos, La Argentina, Saladoblanco, San Agustín
-Meta: Lejanías, Uribe
-N/A: Area En Litigio Cauca - Huila
-Nariño: Aldana, Cuaspud, Funes, Guachucal, Ipiales, La Cruz, Mallama, Pasto, Potosí, Puerres, Pupiales, Sapuyes, Túquerres
-Norte de Santander: Chitagá, Mutiscua, Silos
-Quindío: Génova, Pijao, Salento
+Cauca: Inzá, La Vega, Puracé, San Sebastián, Santa Rosa, Silvia, Sotará, Totoró
+Cesar: Pueblo Bello, Valledupar
+Cundinamarca: Arbeláez, Choachí, Chocontá, Cogua, Fómeque, Guachetá, Guasca, Guatavita, Junín, La Calera, Lenguazaque, Machetá, Pasca, Sesquilé, Soacha, Suesca, Tausa, Villapinzón, Zipaquirá
+Huila: Colombia, San Agustín
+Magdalena: Aracataca, Santa Marta
+Meta: Acacías, Lejanías, Uribe
+Nariño: Aldana, Buesaco, Cuaspud, Córdoba, Funes, Guachucal, Ipiales, La Cruz, Mallama, Pasto, Potosí, Puerres, Pupiales, Santa Cruz, Sapuyes, Tangua, Túquerres
+Norte de Santander: Mutiscua, Silos
+Putumayo: Santiago
+Quindío: Génova, Salento
 Risaralda: Pereira, Santa Rosa De Cabal
-Santander: Carcasí, Concepción, Coromoro, Encino, Guaca, Onzaga, Santa Bárbara, Tona, Vetas
-Tolima: Anzoátegui, Cajamarca, Ibagué, Roncesvalles, Rovira
-Valle del Cauca: Florida, Sevilla, Tuluá
+Santander: Carcasí, Charalá, Concepción, Coromoro, Encino, Onzaga, Piedecuesta, Santa Bárbara, Tona, Vetas
+Tolima: Roncesvalles
+Valle del Cauca: Sevilla, Tuluá
