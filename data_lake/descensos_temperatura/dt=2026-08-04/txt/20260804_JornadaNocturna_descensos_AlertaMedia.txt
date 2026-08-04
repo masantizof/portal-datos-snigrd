@@ -1,0 +1,11 @@
+Boyacá: Aquitania, Belén, Cerinza, Chita, Corrales, Cuítiva, Duitama, El Cocuy, Gámeza, Iza, Jericó, Mongua, Monguí, Santa Rosa De Viterbo, Socha, Socotá, Sogamoso, Tasco, Tota, Tópaga
+Casanare: La Salina
+Cauca: Inzá, La Vega, Puracé, Páez, San Sebastián, Santa Rosa, Silvia, Sotará, Toribío, Totoró
+Cundinamarca: Bogotá, D.C., Gutiérrez
+Huila: Isnos, La Argentina, Saladoblanco, San Agustín, Teruel
+Magdalena: Aracataca, Santa Marta
+Meta: Cubarral, Guamal, Lejanías, Uribe
+N/A: Area En Litigio Cauca - Huila
+Nariño: Aldana, Cuaspud, Cumbal, Córdoba, Funes, Guachucal, Ipiales, La Cruz, Mallama, Pasto, Potosí, Puerres, Pupiales, Sapuyes, Tangua, Túquerres
+Santander: Encino
+Tolima: Chaparral, Planadas, Rioblanco
