@@ -1,0 +1,10 @@
+Boyacá: Chiscas, El Cocuy, Gámeza, Mongua, Monguí, Socha, Socotá, Sogamoso, Tasco, Tópaga
+Caldas: Villamaria
+Casanare: La Salina
+Cauca: Corinto, Inzá, Páez, Silvia, Toribío
+Cundinamarca: Bogotá, D.C., Cabrera, Chipaque, Gutiérrez, Une
+Huila: Colombia, Teruel
+Meta: Cubarral, Guamal, Lejanías, Uribe
+Quindío: Génova
+Tolima: Casabianca, Chaparral, Herveo, Murillo, Planadas, Rioblanco, Roncesvalles, Santa Isabel, Villahermosa
+Valle del Cauca: Buga
