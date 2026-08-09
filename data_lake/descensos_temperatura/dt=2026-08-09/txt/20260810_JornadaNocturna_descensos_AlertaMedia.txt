@@ -1,0 +1,12 @@
+Arauca: Fortul
+Boyacá: Aquitania, Chita, El Cocuy, Guacamayas, Gámeza, Mongua, Monguí, Panqueba, San Mateo, Socha, Socotá, Sogamoso, Tasco, Tópaga, Ventaquemada
+Caldas: Manizales
+Casanare: La Salina
+Cauca: Corinto, Inzá, Puracé, San Sebastián, Santa Rosa, Silvia, Totoró
+Cundinamarca: Cabrera, Chipaque, Guachetá, Guasca, La Calera, Lenguazaque, San Bernardo, Une, Villapinzón
+Huila: Colombia, San Agustín
+Meta: Acacías, Lejanías, Uribe
+Nariño: Aldana, Cuaspud, Guachucal
+Quindío: Génova
+Tolima: Casabianca, Chaparral, Herveo, Rioblanco, Roncesvalles, Villahermosa
+Valle del Cauca: Buga

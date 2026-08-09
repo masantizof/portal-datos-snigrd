@@ -1,0 +1,14 @@
+Arauca: Fortul
+Boyacá: Arcabuco, Belén, Boyacá, Cerinza, Chita, Chivatá, Chíquiza, Corrales, Cucaita, Cuítiva, Cómbita, Duitama, El Espino, Guacamayas, Iza, Motavita, Oicatá, Paipa, Panqueba, Paz De Rio, Pesca, Rondón, Samacá, San Mateo, Santa Rosa De Viterbo, Siachoque, Socotá, Sora, Soracá, Sotaquirá, Toca, Tota, Tunja, Tuta, Tutazá, Ventaquemada, Viracachá
+Cauca: Corinto, Inzá, Miranda, Puracé, San Sebastián, Santa Rosa, Silvia, Sotará, Totoró
+Cundinamarca: Choachí, Chocontá, Chía, Cogua, Cucunubá, Fosca, Fómeque, Gachetá, Guachetá, Guatavita, Junín, Lenguazaque, Machetá, Pasca, Sesquilé, Soacha, Sopó, Suesca, Tausa, Tocancipá, Villapinzón, Zipaquirá
+Huila: Isnos, La Argentina, Saladoblanco, San Agustín
+Meta: Acacías, Lejanías, Uribe
+N/A: Area En Litigio Cauca - Huila
+Nariño: Aldana, Cuaspud, Córdoba, Funes, Guachucal, Ipiales, La Cruz, Mallama, Pasto, Potosí, Puerres, Sapuyes, Tangua
+Norte de Santander: Chitagá, Mutiscua, Silos
+Putumayo: Mocoa
+Quindío: Génova, Pijao
+Santander: Carcasí, Cerrito, Concepción, Encino, Guaca, Piedecuesta, San Andrés, Santa Bárbara, Tona, Vetas
+Tolima: Cajamarca, Roncesvalles, Rovira
+Valle del Cauca: Florida, Sevilla, Tuluá

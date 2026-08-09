@@ -1,0 +1,9 @@
+Arauca: Tame
+Boyacá: Güicán De La Sierra
+Caldas: Villamaria
+Cauca: Páez, Toribío
+Cundinamarca: Bogotá, D.C., Gutiérrez
+Huila: Teruel
+Meta: Cubarral, Guamal
+Nariño: Cumbal
+Tolima: Anzoátegui, Ibagué, Murillo, Planadas, Santa Isabel

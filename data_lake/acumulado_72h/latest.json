@@ -1,10 +1,10 @@
 {
   "dataset": "acumulado_72h",
   "kind": "raster",
-  "updated_at": "2026-08-08T19:00:00+00:00",
+  "updated_at": "2026-08-09T19:03:29+00:00",
   "files": {
-    "png": "data_lake/acumulado_72h/dt=2026-08-08/acumulado_72h.png",
-    "legend": "data_lake/acumulado_72h/dt=2026-08-08/acumulado_72h_legend.json"
+    "png": "data_lake/acumulado_72h/dt=2026-08-09/acumulado_72h.png",
+    "legend": "data_lake/acumulado_72h/dt=2026-08-09/acumulado_72h_legend.json"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Precipitacion__Acumulada/MapServer/export",
   "descripcion": "Precipitación acumulada 72h",
@@ -18,5 +18,5 @@
       -66.0
     ]
   ],
-  "content_hash": "a16df1a4f699db7c163e7d2cf461f5c85a9e3e560c164fcd3424dbf6f89a7278"
+  "content_hash": "e4cbd49dd290ed511a1e5ee86e0d63ea64c9573a2382cec41b6b076db17fd286"
 }
