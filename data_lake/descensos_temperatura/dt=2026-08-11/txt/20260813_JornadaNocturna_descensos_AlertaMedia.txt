@@ -1,0 +1,12 @@
+Caldas: Manizales
+Cauca: Corinto, Inzá, La Vega, Puracé, Páez, San Sebastián, Santa Rosa, Silvia, Sotará, Toribío, Totoró
+Cundinamarca: Bogotá, D.C., Cabrera, Chipaque, Guasca, La Calera, Soacha
+Huila: Isnos, La Argentina, Saladoblanco, San Agustín, Teruel
+Magdalena: Aracataca, Santa Marta
+Meta: Cubarral
+N/A: Area En Litigio Cauca - Huila
+Nariño: Aldana, Cuaspud, Córdoba, Funes, Guachucal, Ipiales, La Cruz, Mallama, Pasto, Potosí, Puerres, Pupiales, Sapuyes, Tangua, Túquerres
+Quindío: Génova, Salento
+Risaralda: Santa Rosa De Cabal
+Tolima: Anzoátegui, Casabianca, Chaparral, Herveo, Ibagué, Planadas, Rioblanco, Roncesvalles, Villahermosa
+Valle del Cauca: Buga, Sevilla, Tuluá
