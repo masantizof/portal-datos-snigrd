@@ -1,0 +1,21 @@
+Descensos de temperatura | Noche del 2026-08-12 y madrugada del 2026-08-13 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Aquitania (44.2%), Belen (34.8%), Cerinza (42.6%), Chiquiza (33.5%), Chiscas (63.3%), Chita (46.1%), Combita (28.6%), Duitama (48.6%), El Cocuy (91.9%), Gameza (80.0%), Guican De La Sierra (70.4%), Mongua (43.5%), Mongui (83.0%), Pesca (32.0%), Santa Rosa De Viterbo (36.4%), Siachoque (56.2%), Socha (58.1%), Socota (43.1%), Sogamoso (55.2%), Tasco (70.5%), Toca (25.6%), Tota (63.4%), Tutaza (56.2%), Viracacha (26.7%)
+Caldas: Villamaria (44.5%)
+Casanare: La Salina (26.5%)
+Cauca: Inza (28.6%)
+Cundinamarca: Bogota, D.C. (59.0%), Cabrera (35.0%), Chipaque (38.9%), Choachi (34.1%), Cogua (26.4%), Fomeque (45.1%), Guasca (64.2%), Guatavita (36.6%), Gutierrez (43.3%), La Calera (43.0%), Pasca (46.1%), San Bernardo (37.7%), Sesquile (31.9%), Tausa (47.8%), Une (53.4%), Zipaquira (27.9%)
+Huila: Teruel (26.6%)
+Meta: Cubarral (39.6%), Guamal (37.5%)
+N/A: Area En Litigio Cauca - Huila (38.2%)
+Narino: Cordoba (29.2%), Guachucal (87.5%), Pasto (49.4%), Potosi (56.0%)
+Norte de Santander: Mutiscua (48.1%), Silos (66.2%)
+Putumayo: Santiago (26.1%)
+Santander: Carcasi (27.8%), Cerrito (60.7%), Concepcion (43.5%), Encino (29.7%), Guaca (47.6%), Santa Barbara (31.0%), Tona (32.9%), Vetas (59.5%)
+Tolima: Anzoategui (43.5%), Casabianca (34.5%), Herveo (30.2%), Murillo (54.9%), Planadas (27.6%), Rioblanco (27.9%), Santa Isabel (51.5%), Villahermosa (26.9%)
+
+Alerta Media
+Boyaca: Cuitiva (27.0%), Motavita (55.7%), Samaca (26.5%), Ventaquemada (30.4%)
+Cundinamarca: Lenguazaque (28.1%), Villapinzon (33.7%)
+Narino: Aldana (78.9%), Cuaspud (72.4%), Sapuyes (58.8%)

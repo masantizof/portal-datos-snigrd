@@ -1,10 +1,10 @@
 {
   "dataset": "amenaza_incendios",
   "kind": "amenaza_modelo",
-  "updated_at": "2026-08-11T18:19:26+00:00",
+  "updated_at": "2026-08-12T18:27:28+00:00",
   "files": {
-    "2026_amenaza_icv_vidhag.csv": "data_lake/amenaza_incendios/dt=2026-08-11/2026_amenaza_icv_vidhag.csv",
-    "amenaza_icv.csv": "data_lake/amenaza_incendios/dt=2026-08-11/amenaza_icv.csv"
+    "2026_amenaza_icv_vidhag.csv": "data_lake/amenaza_incendios/dt=2026-08-12/2026_amenaza_icv_vidhag.csv",
+    "amenaza_icv.csv": "data_lake/amenaza_incendios/dt=2026-08-12/amenaza_icv.csv"
   },
   "source_url": "https://bart.ideam.gov.co/ospa/Alertas/modelos/incendios/ultimo/",
   "categoria": "incendios",

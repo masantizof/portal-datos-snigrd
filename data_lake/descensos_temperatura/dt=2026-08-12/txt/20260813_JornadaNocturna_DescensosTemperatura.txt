@@ -1,0 +1,9 @@
+Descensos de temperatura | Noche del 2026-08-13 y madrugada del 2026-08-14 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Caldas: Villamaria (40.2%)
+Narino: Guachucal (47.8%), Potosi (39.8%)
+Tolima: Anzoategui (37.1%), Casabianca (31.9%), Herveo (25.8%), Murillo (48.5%), Santa Isabel (47.4%)
+
+Alerta Media
+Narino: Aldana (34.6%)
