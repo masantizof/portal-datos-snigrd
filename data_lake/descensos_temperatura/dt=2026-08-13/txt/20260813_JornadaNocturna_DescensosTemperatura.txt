@@ -1,0 +1,16 @@
+Descensos de temperatura | Noche del 2026-08-13 y madrugada del 2026-08-14 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Cerinza (26.7%), Tutaza (27.0%)
+Caldas: Villamaria (42.4%)
+Cauca: Inza (31.0%)
+Cundinamarca: Bogota, D.C. (51.6%), Cabrera (26.4%), Gutierrez (37.1%), Pasca (34.4%), San Bernardo (25.4%), Une (41.1%)
+Meta: Cubarral (35.4%), Guamal (32.5%)
+N/A: Area En Litigio Cauca - Huila (25.0%)
+Narino: Cordoba (28.6%), Guachucal (71.5%), Pasto (35.6%), Potosi (42.9%)
+Tolima: Anzoategui (38.3%), Casabianca (33.1%), Murillo (49.1%), Planadas (26.1%), Roncesvalles (32.8%), Santa Isabel (48.3%)
+
+Alerta Media
+Boyaca: El Cocuy (38.6%)
+Cundinamarca: Guasca (38.8%)
+Narino: Cuaspud (28.5%), Sapuyes (61.4%)
