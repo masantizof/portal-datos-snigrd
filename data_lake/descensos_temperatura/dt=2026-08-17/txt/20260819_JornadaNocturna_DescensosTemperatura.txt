@@ -1,0 +1,8 @@
+Descensos de temperatura | Noche del 2026-08-19 y madrugada del 2026-08-20 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Aquitania (32.2%), Chiscas (47.1%), Gameza (66.4%), Guican De La Sierra (49.4%), Mongua (31.7%), Mongui (58.2%), Socha (37.1%), Sogamoso (40.0%), Tasco (55.3%)
+Cundinamarca: Bogota, D.C. (45.6%), Fomeque (26.6%), Guasca (41.3%), Gutierrez (34.0%), Pasca (31.2%), San Bernardo (28.1%), Une (40.9%)
+Meta: Cubarral (32.9%), Guamal (29.9%)
+Norte de Santander: Mutiscua (29.2%)
+Santander: Vetas (29.2%)
