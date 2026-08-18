@@ -1,0 +1,7 @@
+Descensos de temperatura | Noche del 2026-08-20 y madrugada del 2026-08-21 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Duitama (28.2%), El Cocuy (63.5%), Gameza (63.6%), Guican De La Sierra (27.7%), Mongua (28.3%), Mongui (68.8%), Sogamoso (33.3%), Tasco (48.2%)
+Cundinamarca: Bogota, D.C. (43.1%), Guasca (39.8%), Gutierrez (26.8%), Pasca (28.5%), San Bernardo (27.4%)
+Meta: Cubarral (29.6%)
+Tolima: Anzoategui (28.9%), Murillo (38.8%), Santa Isabel (28.5%)
