@@ -1,14 +1,14 @@
 {
   "dataset": "alertas_hidrologicas",
   "kind": "vector",
-  "updated_at": "2026-08-17T17:35:23+00:00",
+  "updated_at": "2026-08-18T17:57:10+00:00",
   "files": {
-    "geojson": "data_lake/alertas_hidrologicas/dt=2026-08-17/alertas_hidrologicas.geojson",
-    "parquet": "data_lake/alertas_hidrologicas/dt=2026-08-17/alertas_hidrologicas.parquet"
+    "geojson": "data_lake/alertas_hidrologicas/dt=2026-08-18/alertas_hidrologicas.geojson",
+    "parquet": "data_lake/alertas_hidrologicas/dt=2026-08-18/alertas_hidrologicas.parquet"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas_Hidrologicas/MapServer/2",
   "descripcion": "Alertas hidrológicas vigentes",
-  "n_features": 170,
-  "content_hash": "742aeae41489a263362d338367c29c801ddc4c1d1621a9d3f81f868a4bf7d5fb",
+  "n_features": 179,
+  "content_hash": "f5ac5e3f5f7537ec226f5108d0ea2988cafde80aab88e943c94221cdf759e6d1",
   "geometry_type": "esriGeometryPolygon"
 }
