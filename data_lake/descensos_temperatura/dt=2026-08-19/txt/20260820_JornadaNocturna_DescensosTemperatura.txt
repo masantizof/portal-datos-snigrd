@@ -1,0 +1,15 @@
+Descensos de temperatura | Noche del 2026-08-20 y madrugada del 2026-08-21 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: El Cocuy (70.9%), Gameza (56.3%), Guican De La Sierra (27.5%), Mongui (59.7%), Socha (33.7%), Sogamoso (39.4%), Tasco (45.4%)
+Caldas: Villamaria (34.7%)
+Cauca: Purace (28.6%)
+Cundinamarca: Bogota, D.C. (35.9%), Guasca (41.1%), Gutierrez (32.6%)
+Meta: Cubarral (31.4%)
+N/A: Area En Litigio Cauca - Huila (31.0%)
+Narino: Potosi (28.5%)
+Tolima: Anzoategui (31.1%), Casabianca (30.0%), Murillo (44.5%), Roncesvalles (30.7%), Santa Isabel (44.3%)
+
+Alerta Media
+Boyaca: Duitama (27.3%)
+Narino: Aldana (44.9%), Cuaspud (40.8%), Guachucal (41.9%)
