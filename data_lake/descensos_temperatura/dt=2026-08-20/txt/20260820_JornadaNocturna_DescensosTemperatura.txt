@@ -1,0 +1,14 @@
+Descensos de temperatura | Noche del 2026-08-20 y madrugada del 2026-08-21 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Guican De La Sierra (31.7%), Mongui (65.7%), Sogamoso (36.3%)
+Caldas: Villamaria (40.4%)
+Cundinamarca: Bogota, D.C. (42.0%), Gutierrez (28.3%), Pasca (28.9%), San Bernardo (25.5%)
+Meta: Cubarral (29.7%)
+Narino: Cordoba (29.0%), Pasto (32.5%), Potosi (42.7%)
+Tolima: Anzoategui (33.0%), Casabianca (31.5%), Murillo (46.1%), Roncesvalles (27.5%), Santa Isabel (45.8%)
+
+Alerta Media
+Boyaca: El Cocuy (48.4%)
+Cundinamarca: Guasca (38.0%)
+Narino: Aldana (59.2%), Cuaspud (59.4%), Guachucal (57.1%)
