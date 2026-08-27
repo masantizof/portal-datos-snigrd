@@ -1,14 +1,14 @@
 {
   "dataset": "temperatura_max_diaria",
   "kind": "vector",
-  "updated_at": "2026-08-26T19:14:41+00:00",
+  "updated_at": "2026-08-27T22:55:55+00:00",
   "files": {
-    "geojson": "data_lake/temperatura_max_diaria/dt=2026-08-26/temperatura_max_diaria.geojson",
-    "parquet": "data_lake/temperatura_max_diaria/dt=2026-08-26/temperatura_max_diaria.parquet"
+    "geojson": "data_lake/temperatura_max_diaria/dt=2026-08-27/temperatura_max_diaria.geojson",
+    "parquet": "data_lake/temperatura_max_diaria/dt=2026-08-27/temperatura_max_diaria.parquet"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Datos_TMaxima/MapServer/0",
   "descripcion": "Temperatura máxima diaria por estación",
-  "n_features": 153,
-  "content_hash": "0b59c419b71f1ba313ece10575c4b584b0c3de710413f54dad5f1efe1c958c89",
+  "n_features": 146,
+  "content_hash": "c22afd0ca0916d20b074cfba5730733b387bac00b9041ebc33bb3cb0654392b6",
   "geometry_type": "esriGeometryPoint"
 }
