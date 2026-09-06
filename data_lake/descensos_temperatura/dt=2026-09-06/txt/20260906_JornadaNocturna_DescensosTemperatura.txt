@@ -1,0 +1,14 @@
+Descensos de temperatura | Noche del 2026-09-06 y madrugada del 2026-09-07 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Aquitania (31.2%), Cerinza (26.1%), El Cocuy (65.8%), Gameza (68.1%), Guican De La Sierra (40.1%), Mongua (36.2%), Mongui (52.6%), Socha (47.7%), Sogamoso (28.6%), Tasco (57.3%), Tota (33.4%), Tutaza (25.2%)
+Cundinamarca: Bogota, D.C. (48.4%), Guasca (46.5%), Gutierrez (35.0%), La Calera (25.7%), San Bernardo (28.0%), Une (42.2%)
+Meta: Cubarral (33.0%), Guamal (30.4%)
+Narino: Guachucal (59.4%), Potosi (34.3%)
+Santander: Vetas (26.5%)
+Tolima: Anzoategui (30.0%), Murillo (43.5%), Santa Isabel (39.6%)
+
+Alerta Media
+Boyaca: Siachoque (32.1%)
+Cundinamarca: Fomeque (28.4%)
+Narino: Aldana (32.6%), Cuaspud (49.8%)

@@ -1,0 +1,10 @@
+Descensos de temperatura | Noche del 2026-09-07 y madrugada del 2026-09-08 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Cerinza (26.1%), Duitama (28.4%), Tutaza (30.9%)
+Cundinamarca: Bogota, D.C. (41.0%), Fomeque (33.4%), Guasca (45.7%), Gutierrez (27.5%), Une (44.0%)
+Narino: Potosi (26.6%)
+Tolima: Anzoategui (32.7%), Murillo (35.8%), Santa Isabel (36.4%)
+
+Alerta Media
+Boyaca: Gameza (45.5%), Mongui (39.3%), Tasco (28.4%)
