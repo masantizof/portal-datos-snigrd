@@ -1,5 +1,7 @@
 Descensos de temperatura | Noche del 2026-09-12 y madrugada del 2026-09-13 | 19:00 - 07:00 HLC
 
 Alerta Alta
-Cundinamarca: Bogota, D.C. (30.3%)
-Meta: Cubarral (25.3%)
+Boyaca: Socha (36.8%), Tasco (39.4%)
+
+Alerta Media
+Boyaca: El Cocuy (32.9%), Gameza (45.7%), Mongui (39.7%)
