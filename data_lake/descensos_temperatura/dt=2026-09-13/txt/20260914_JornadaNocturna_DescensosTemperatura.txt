@@ -1,8 +1,10 @@
 Descensos de temperatura | Noche del 2026-09-14 y madrugada del 2026-09-15 | 19:00 - 07:00 HLC
 
 Alerta Alta
-Boyaca: El Cocuy (56.6%), Gameza (50.4%), Guican De La Sierra (45.6%), Mongui (50.0%), Socha (35.4%), Sogamoso (29.1%), Tasco (38.7%)
-Norte de Santander: Silos (26.5%)
+Boyaca: Chiscas (33.6%), El Cocuy (52.6%), Gameza (55.1%), Guican De La Sierra (48.0%), Mongua (25.5%), Mongui (58.7%), Socha (40.1%), Sogamoso (36.3%), Tasco (47.1%)
+Cundinamarca: Bogota, D.C. (37.2%), Guasca (32.7%), Pasca (26.7%), Une (31.8%)
+Meta: Cubarral (26.0%)
+Narino: Cumbal (27.8%), Guachucal (26.8%)
 
 Alerta Media
-Boyaca: Chiscas (40.7%)
+Santander: Vetas (25.1%)
