@@ -1,0 +1,12 @@
+Descensos de temperatura | Noche del 2026-09-20 y madrugada del 2026-09-21 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Chiscas (36.2%), El Cocuy (48.8%), Gameza (48.6%), Guican De La Sierra (48.6%), Mongui (50.8%), Socha (42.6%), Tasco (43.3%)
+Cauca: Purace (26.7%)
+Cundinamarca: Bogota, D.C. (34.1%)
+Meta: Cubarral (25.7%)
+N/A: Area En Litigio Cauca - Huila (25.7%)
+Narino: Tangua (30.8%)
+
+Alerta Media
+Boyaca: Sogamoso (30.8%)
