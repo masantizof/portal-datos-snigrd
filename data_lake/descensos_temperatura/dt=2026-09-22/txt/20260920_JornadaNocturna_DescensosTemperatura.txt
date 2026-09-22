@@ -1,0 +1,14 @@
+Descensos de temperatura | Noche del 2026-09-20 y madrugada del 2026-09-21 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Chiscas (42.2%), El Cocuy (39.4%), Gameza (52.6%), Guican De La Sierra (47.1%), Mongui (53.4%), Socha (40.5%), Sogamoso (33.2%), Tasco (45.2%)
+Cauca: Purace (39.7%), Silvia (29.8%)
+Meta: Cubarral (26.4%)
+N/A: Area En Litigio Cauca - Huila (29.4%)
+Narino: Funes (28.0%), Potosi (27.6%), Tangua (35.6%)
+Santander: Cerrito (35.9%)
+
+Alerta Media
+Boyaca: Tota (25.5%)
+Cundinamarca: Bogota, D.C. (28.3%)
+Santander: Vetas (32.6%)
