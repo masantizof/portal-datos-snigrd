@@ -1,14 +1,14 @@
 {
   "dataset": "alertas_icv",
   "kind": "vector",
-  "updated_at": "2026-09-28T23:21:00+00:00",
+  "updated_at": "2026-09-29T21:37:06+00:00",
   "files": {
-    "geojson": "data_lake/alertas_icv/dt=2026-09-28/alertas_icv.geojson",
-    "parquet": "data_lake/alertas_icv/dt=2026-09-28/alertas_icv.parquet"
+    "geojson": "data_lake/alertas_icv/dt=2026-09-29/alertas_icv.geojson",
+    "parquet": "data_lake/alertas_icv/dt=2026-09-29/alertas_icv.parquet"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas_ICV/MapServer/2",
   "descripcion": "Alertas por incendios cobertura vegetal",
   "n_features": 1121,
-  "content_hash": "ef85a80a2976654f1fcffc71ecab7f8cd6d01965f618981a236c5f00e59c2b70",
+  "content_hash": "ceb84db1c6c4c2926145fdb6e78b21d8648b2ee98f396e1af47429cdce279cef",
   "geometry_type": "esriGeometryPolygon"
 }
