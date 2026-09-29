@@ -1,0 +1,142 @@
+{
+  "layers": [
+    {
+      "layerId": 0,
+      "layerName": "DepartamentosIslas",
+      "layerType": "Feature Layer",
+      "minScale": 0,
+      "maxScale": 0,
+      "legend": [
+        {
+          "label": "",
+          "url": "d6fb98e0d47c81bb190268625f688c74",
+          "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAN0lEQVQ4je3QoREAMBACQTJD/y0Tk4jX4J4zuBUQgBCMb0/I0wdjsaAdfWJW0I8BY1Rw04dKiRdWjgNPSyeLfgAAAABJRU5ErkJggg==",
+          "contentType": "image/png",
+          "groupId": "0",
+          "height": 20,
+          "width": 20
+        }
+      ],
+      "legendGroups": [
+        {
+          "id": "0",
+          "heading": ""
+        }
+      ]
+    },
+    {
+      "layerId": 2,
+      "layerName": "probabilidad_icv_joined",
+      "layerType": "Feature Layer",
+      "minScale": 0,
+      "maxScale": 0,
+      "legend": [
+        {
+          "label": "Condición Normal",
+          "url": "bdba961e5de6338ada68531381765795",
+          "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPklEQVQ4je3VIRIAMAgDwXYm773H8GE6rUMTV04gV8QgIJcx3RMR24EB+UBnGrCd+kRtwH4yGKUBv9kQ4xs4eKYI4yS+tIEAAAAASUVORK5CYII=",
+          "contentType": "image/png",
+          "groupId": "0",
+          "height": 20,
+          "width": 20,
+          "values": [
+            "0"
+          ]
+        },
+        {
+          "label": "Alerta Amarilla",
+          "url": "d9106e3793fffa77ac09bcad9073ff73",
+          "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPUlEQVQ4je3QoREAMAxC0QrmhVnShZvrVUUH13yBfAKQPMsY7kRsCybxgc4wYDv0idqA/WAwSgN+86FEm5h8VAbmsM4tMgAAAABJRU5ErkJggg==",
+          "contentType": "image/png",
+          "groupId": "0",
+          "height": 20,
+          "width": 20,
+          "values": [
+            "1"
+          ]
+        },
+        {
+          "label": "Alerta Naranja",
+          "url": "183aec04f1fcfe67e77eadda66095acd",
+          "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPklEQVQ4jWPJy8v7z0BFwAIiJtpMooph+UfyIAZSE7CMGkgxYKHcCFQwaiDlgIUKZqCAUQNHTBjmH8mjmokAfVMHO5rIqRQAAAAASUVORK5CYII=",
+          "contentType": "image/png",
+          "groupId": "0",
+          "height": 20,
+          "width": 20,
+          "values": [
+            "2"
+          ]
+        },
+        {
+          "label": "Alerta Roja",
+          "url": "d1430a01c65ff87bed73d6477baef790",
+          "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPUlEQVQ4je3QIRIAIAwDQUTee30LfBiGQVU3jp6IXBEBexjTnbmWBQt4oDM1WE51ItdgPRmMVIPffBhgEw98UQblSHF8TwAAAABJRU5ErkJggg==",
+          "contentType": "image/png",
+          "groupId": "0",
+          "height": 20,
+          "width": 20,
+          "values": [
+            "3"
+          ]
+        }
+      ],
+      "legendGroups": [
+        {
+          "id": "0",
+          "heading": "PROBABILID"
+        }
+      ]
+    },
+    {
+      "layerId": 3,
+      "layerName": "AMENAZA_ICV",
+      "layerType": "Raster Layer",
+      "minScale": 0,
+      "maxScale": 0,
+      "legend": [
+        {
+          "label": "Muy Baja",
+          "url": "e31c8b3e11e9b05722b46106bc3c8871",
+          "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAQElEQVQ4jWNhoDJgoZmBBSsY/lNi0IQIBkYUA6kFWEYNpBiwUG4EKhg1kHLAQgUzUMCogZQDeBjCyjOqGUgtAABY0AQ6RfCNlAAAAABJRU5ErkJggg==",
+          "contentType": "image/png",
+          "groupId": "0",
+          "height": 20,
+          "width": 20
+        },
+        {
+          "label": "Baja",
+          "url": "63aebd5d8cdf2c88b24d60af9f9958db",
+          "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPUlEQVQ4je3UoQ0AMBBCUS5h/5Wvqk3QUMcf4AkERDh+A3exDjSDETAVC9rRJ7SCfgwYUkG/t+H9sxiY6gAJMQNUbcp4vQAAAABJRU5ErkJggg==",
+          "contentType": "image/png",
+          "groupId": "0",
+          "height": 20,
+          "width": 20
+        },
+        {
+          "label": "Moderada",
+          "url": "504fec6fbf9e1a7349db7544bf2c0b40",
+          "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAP0lEQVQ4je3UsQ0AIBBCUS5hRod0ybPShBrs7g/wCgqIcPwG9kY7UC2UgKk4oB19QhvQjwFDGtDvbXj/LAamOiZpA6lqLs9EAAAAAElFTkSuQmCC",
+          "contentType": "image/png",
+          "groupId": "0",
+          "height": 20,
+          "width": 20
+        },
+        {
+          "label": "Alta",
+          "url": "f2c5dae169c5fc091592761e9e28c5b5",
+          "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAOklEQVQ4jWNhoDJgoZmB/8GIfMAIRrR0IbUAC9VMgoJRAykHLFQwAwWMGkg5YBnBBjJCyzOqGUgtAABgfwJTnasaYgAAAABJRU5ErkJggg==",
+          "contentType": "image/png",
+          "groupId": "0",
+          "height": 20,
+          "width": 20
+        }
+      ],
+      "legendGroups": [
+        {
+          "id": "0",
+          "heading": "Value"
+        }
+      ]
+    }
+  ]
+}
