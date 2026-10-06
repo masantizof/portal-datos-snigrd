@@ -1,7 +1,7 @@
 {
   "dataset": "amenaza_icv",
   "kind": "raster",
-  "updated_at": "2026-10-06T00:11:46+00:00",
+  "updated_at": "2026-10-06T17:40:45+00:00",
   "files": {
     "png": "data_lake/amenaza_icv/dt=2026-10-06/amenaza_icv.png",
     "legend": "data_lake/amenaza_icv/dt=2026-10-06/amenaza_icv_legend.json"
@@ -18,5 +18,5 @@
       -66.0
     ]
   ],
-  "content_hash": "610bbae33a76fbf70298d5b617e9742a2f486116d3191976b425584cc14d1202"
+  "content_hash": "08e00ab5d45fdc1f7e48189b27441c32c34085445aeb8a1c36b808ae62a4e928"
 }
