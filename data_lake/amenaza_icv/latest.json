@@ -1,10 +1,10 @@
 {
   "dataset": "amenaza_icv",
   "kind": "raster",
-  "updated_at": "2026-10-07T18:20:18+00:00",
+  "updated_at": "2026-10-08T18:13:50+00:00",
   "files": {
-    "png": "data_lake/amenaza_icv/dt=2026-10-07/amenaza_icv.png",
-    "legend": "data_lake/amenaza_icv/dt=2026-10-07/amenaza_icv_legend.json"
+    "png": "data_lake/amenaza_icv/dt=2026-10-08/amenaza_icv.png",
+    "legend": "data_lake/amenaza_icv/dt=2026-10-08/amenaza_icv_legend.json"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas_ICV/MapServer/export",
   "descripcion": "Amenaza por incendios (tipo por verificar)",
@@ -18,5 +18,5 @@
       -66.0
     ]
   ],
-  "content_hash": "8858b9e3e68b56de49521fd38f3f91651d7b231df035ce6f1680916eaf67b4c0"
+  "content_hash": "35eadeef363f7905b0381db82fb15f7cc3463e0dd7f020652caae70e49f8ccb3"
 }
