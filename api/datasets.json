@@ -1,11 +1,11 @@
 {
   "repo": "masantizof/portal-datos-snigrd",
-  "generado": "2026-10-18T01:20:30+00:00",
+  "generado": "2026-10-18T18:38:35+00:00",
   "nota": "API de sólo lectura: cada URL sirve el archivo crudo del último snapshot vía raw.githubusercontent.com. No hay endpoint de consulta/filtrado — para eso ver la capa Datasette (nivel avanzado, ver README).",
   "datasets": {
     "acumulado_24h": {
       "kind": "raster",
-      "updated_at": "2026-10-18T01:17:27+00:00",
+      "updated_at": "2026-10-18T18:37:29+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Precipitacion__Acumulada/MapServer/export",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/acumulado_24h/latest.json",
       "files": {
@@ -15,7 +15,7 @@
     },
     "acumulado_72h": {
       "kind": "raster",
-      "updated_at": "2026-10-18T01:17:28+00:00",
+      "updated_at": "2026-10-18T18:37:30+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Precipitacion__Acumulada/MapServer/export",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/acumulado_72h/latest.json",
       "files": {
@@ -25,37 +25,37 @@
     },
     "alertas_hidrologicas": {
       "kind": "vector",
-      "updated_at": "2026-10-17T17:52:09+00:00",
+      "updated_at": "2026-10-18T18:00:48+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas_Hidrologicas/MapServer/2",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_hidrologicas/latest.json",
       "files": {
-        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_hidrologicas/dt=2026-10-17/alertas_hidrologicas.geojson",
-        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_hidrologicas/dt=2026-10-17/alertas_hidrologicas.parquet"
+        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_hidrologicas/dt=2026-10-18/alertas_hidrologicas.geojson",
+        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_hidrologicas/dt=2026-10-18/alertas_hidrologicas.parquet"
       }
     },
     "alertas_icv": {
       "kind": "vector",
-      "updated_at": "2026-10-17T18:10:47+00:00",
+      "updated_at": "2026-10-18T18:26:55+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas_ICV/MapServer/2",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_icv/latest.json",
       "files": {
-        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_icv/dt=2026-10-17/alertas_icv.geojson",
-        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_icv/dt=2026-10-17/alertas_icv.parquet"
+        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_icv/dt=2026-10-18/alertas_icv.geojson",
+        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_icv/dt=2026-10-18/alertas_icv.parquet"
       }
     },
     "alertas_idd": {
       "kind": "vector",
-      "updated_at": "2026-10-17T18:02:09+00:00",
+      "updated_at": "2026-10-18T18:14:22+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas__IDD/MapServer/1",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_idd/latest.json",
       "files": {
-        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_idd/dt=2026-10-17/alertas_idd.geojson",
-        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_idd/dt=2026-10-17/alertas_idd.parquet"
+        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_idd/dt=2026-10-18/alertas_idd.geojson",
+        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/alertas_idd/dt=2026-10-18/alertas_idd.parquet"
       }
     },
     "amenaza_deslizamientos": {
       "kind": "amenaza_modelo",
-      "updated_at": "2026-10-18T01:18:19+00:00",
+      "updated_at": "2026-10-18T18:38:31+00:00",
       "source_url": "https://bart.ideam.gov.co/ospa/Alertas/modelos/deslizamientos/ultimo/",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_deslizamientos/latest.json",
       "files": {
@@ -65,7 +65,7 @@
     },
     "amenaza_hidrologia": {
       "kind": "vector",
-      "updated_at": "2026-10-18T01:18:21+00:00",
+      "updated_at": "2026-10-18T18:38:35+00:00",
       "source_url": "https://bart.ideam.gov.co/ospa/Alertas/modelos/hidrologia/",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_hidrologia/latest.json",
       "files": {
@@ -78,27 +78,27 @@
     },
     "amenaza_icv": {
       "kind": "raster",
-      "updated_at": "2026-10-17T18:19:39+00:00",
+      "updated_at": "2026-10-18T18:37:26+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas_ICV/MapServer/export",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_icv/latest.json",
       "files": {
-        "png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_icv/dt=2026-10-17/amenaza_icv.png",
-        "legend": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_icv/dt=2026-10-17/amenaza_icv_legend.json"
+        "png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_icv/dt=2026-10-18/amenaza_icv.png",
+        "legend": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_icv/dt=2026-10-18/amenaza_icv_legend.json"
       }
     },
     "amenaza_idd": {
       "kind": "raster",
-      "updated_at": "2026-10-17T18:19:38+00:00",
+      "updated_at": "2026-10-18T18:37:25+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas__IDD/MapServer/export",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_idd/latest.json",
       "files": {
-        "png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_idd/dt=2026-10-17/amenaza_idd.png",
-        "legend": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_idd/dt=2026-10-17/amenaza_idd_legend.json"
+        "png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_idd/dt=2026-10-18/amenaza_idd.png",
+        "legend": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_idd/dt=2026-10-18/amenaza_idd_legend.json"
       }
     },
     "amenaza_incendios": {
       "kind": "amenaza_modelo",
-      "updated_at": "2026-10-18T01:18:19+00:00",
+      "updated_at": "2026-10-18T18:38:31+00:00",
       "source_url": "https://bart.ideam.gov.co/ospa/Alertas/modelos/incendios/ultimo/",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/amenaza_incendios/latest.json",
       "files": {
@@ -186,7 +186,7 @@
     },
     "datos_diarios_preliminares": {
       "kind": "alerta_diaria",
-      "updated_at": "2026-10-18T01:18:16+00:00",
+      "updated_at": "2026-10-18T18:38:25+00:00",
       "source_url": "https://bart.ideam.gov.co/ospa/Alertas/datos_diarios_preliminares/",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/datos_diarios_preliminares/latest.json",
       "files": {
@@ -235,32 +235,19 @@
     },
     "descensos_temperatura": {
       "kind": "alerta_diaria",
-      "updated_at": "2026-10-18T01:17:55+00:00",
-      "source_url": "https://bart.ideam.gov.co/ospa/Alertas/DescensosTemperatura/20261017/",
+      "updated_at": "2026-10-18T18:38:00+00:00",
+      "source_url": "https://bart.ideam.gov.co/ospa/Alertas/DescensosTemperatura/20261018/",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/latest.json",
       "files": {
-        "mapas/20261017_JornadaNocturna_MapaNacional_CercaniaMinimos.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261017_JornadaNocturna_MapaNacional_CercaniaMinimos.png",
-        "mapas/20261017_JornadaNocturna_MapaNacional_DescensosTemperatura.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261017_JornadaNocturna_MapaNacional_DescensosTemperatura.png",
-        "mapas/20261017_JornadaNocturna_MapaNacional_DescensosTemperaturaCompuesta.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261017_JornadaNocturna_MapaNacional_DescensosTemperaturaCompuesta.png",
         "mapas/20261018_JornadaNocturna_MapaNacional_CercaniaMinimos.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261018_JornadaNocturna_MapaNacional_CercaniaMinimos.png",
         "mapas/20261018_JornadaNocturna_MapaNacional_DescensosTemperatura.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261018_JornadaNocturna_MapaNacional_DescensosTemperatura.png",
         "mapas/20261018_JornadaNocturna_MapaNacional_DescensosTemperaturaCompuesta.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261018_JornadaNocturna_MapaNacional_DescensosTemperaturaCompuesta.png",
         "mapas/20261019_JornadaNocturna_MapaNacional_CercaniaMinimos.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261019_JornadaNocturna_MapaNacional_CercaniaMinimos.png",
         "mapas/20261019_JornadaNocturna_MapaNacional_DescensosTemperatura.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261019_JornadaNocturna_MapaNacional_DescensosTemperatura.png",
         "mapas/20261019_JornadaNocturna_MapaNacional_DescensosTemperaturaCompuesta.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261019_JornadaNocturna_MapaNacional_DescensosTemperaturaCompuesta.png",
-        "shape/20261017_JornadaNocturna_CercaniaMinimos_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_CercaniaMinimos_Resumen.cpg",
-        "shape/20261017_JornadaNocturna_CercaniaMinimos_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_CercaniaMinimos_Resumen.dbf",
-        "shape/20261017_JornadaNocturna_CercaniaMinimos_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_CercaniaMinimos_Resumen.prj",
-        "shape/20261017_JornadaNocturna_CercaniaMinimos_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_CercaniaMinimos_Resumen.shx",
-        "shape/20261017_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.cpg",
-        "shape/20261017_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.dbf",
-        "shape/20261017_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.prj",
-        "shape/20261017_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.shx",
-        "shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.cpg",
-        "shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.dbf",
-        "shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.prj",
-        "shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.shp": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.shp",
-        "shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261017_JornadaNocturna_DescensosTemperatura_Resumen.shx",
+        "mapas/20261020_JornadaNocturna_MapaNacional_CercaniaMinimos.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261020_JornadaNocturna_MapaNacional_CercaniaMinimos.png",
+        "mapas/20261020_JornadaNocturna_MapaNacional_DescensosTemperatura.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261020_JornadaNocturna_MapaNacional_DescensosTemperatura.png",
+        "mapas/20261020_JornadaNocturna_MapaNacional_DescensosTemperaturaCompuesta.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/mapas/20261020_JornadaNocturna_MapaNacional_DescensosTemperaturaCompuesta.png",
         "shape/20261018_JornadaNocturna_CercaniaMinimos_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261018_JornadaNocturna_CercaniaMinimos_Resumen.cpg",
         "shape/20261018_JornadaNocturna_CercaniaMinimos_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261018_JornadaNocturna_CercaniaMinimos_Resumen.dbf",
         "shape/20261018_JornadaNocturna_CercaniaMinimos_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261018_JornadaNocturna_CercaniaMinimos_Resumen.prj",
@@ -287,15 +274,28 @@
         "shape/20261019_JornadaNocturna_DescensosTemperatura_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261019_JornadaNocturna_DescensosTemperatura_Resumen.prj",
         "shape/20261019_JornadaNocturna_DescensosTemperatura_Resumen.shp": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261019_JornadaNocturna_DescensosTemperatura_Resumen.shp",
         "shape/20261019_JornadaNocturna_DescensosTemperatura_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261019_JornadaNocturna_DescensosTemperatura_Resumen.shx",
-        "txt/20261017_JornadaNocturna_CercaniaMinimos.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261017_JornadaNocturna_CercaniaMinimos.txt",
-        "txt/20261017_JornadaNocturna_DescensosTemperatura.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261017_JornadaNocturna_DescensosTemperatura.txt",
-        "txt/20261017_JornadaNocturna_DescensosTemperaturaCompuesta.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261017_JornadaNocturna_DescensosTemperaturaCompuesta.txt",
+        "shape/20261020_JornadaNocturna_CercaniaMinimos_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_CercaniaMinimos_Resumen.cpg",
+        "shape/20261020_JornadaNocturna_CercaniaMinimos_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_CercaniaMinimos_Resumen.dbf",
+        "shape/20261020_JornadaNocturna_CercaniaMinimos_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_CercaniaMinimos_Resumen.prj",
+        "shape/20261020_JornadaNocturna_CercaniaMinimos_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_CercaniaMinimos_Resumen.shx",
+        "shape/20261020_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.cpg",
+        "shape/20261020_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.dbf",
+        "shape/20261020_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.prj",
+        "shape/20261020_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_DescensosTemperaturaCompuesta_Resumen.shx",
+        "shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.cpg",
+        "shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.dbf",
+        "shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.prj",
+        "shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.shp": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.shp",
+        "shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/shape/20261020_JornadaNocturna_DescensosTemperatura_Resumen.shx",
         "txt/20261018_JornadaNocturna_CercaniaMinimos.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261018_JornadaNocturna_CercaniaMinimos.txt",
         "txt/20261018_JornadaNocturna_DescensosTemperatura.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261018_JornadaNocturna_DescensosTemperatura.txt",
         "txt/20261018_JornadaNocturna_DescensosTemperaturaCompuesta.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261018_JornadaNocturna_DescensosTemperaturaCompuesta.txt",
         "txt/20261019_JornadaNocturna_CercaniaMinimos.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261019_JornadaNocturna_CercaniaMinimos.txt",
         "txt/20261019_JornadaNocturna_DescensosTemperatura.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261019_JornadaNocturna_DescensosTemperatura.txt",
-        "txt/20261019_JornadaNocturna_DescensosTemperaturaCompuesta.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261019_JornadaNocturna_DescensosTemperaturaCompuesta.txt"
+        "txt/20261019_JornadaNocturna_DescensosTemperaturaCompuesta.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261019_JornadaNocturna_DescensosTemperaturaCompuesta.txt",
+        "txt/20261020_JornadaNocturna_CercaniaMinimos.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261020_JornadaNocturna_CercaniaMinimos.txt",
+        "txt/20261020_JornadaNocturna_DescensosTemperatura.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261020_JornadaNocturna_DescensosTemperatura.txt",
+        "txt/20261020_JornadaNocturna_DescensosTemperaturaCompuesta.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/descensos_temperatura/dt=2026-10-18/txt/20261020_JornadaNocturna_DescensosTemperaturaCompuesta.txt"
       }
     },
     "granizo": {
@@ -309,7 +309,7 @@
     },
     "hidroestimador_noaa": {
       "kind": "raster",
-      "updated_at": "2026-10-18T01:17:29+00:00",
+      "updated_at": "2026-10-18T18:37:33+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Precipitacion__Acumulada/MapServer/export",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/hidroestimador_noaa/latest.json",
       "files": {
@@ -319,7 +319,7 @@
     },
     "hidroestimador_satelital": {
       "kind": "alerta_diaria",
-      "updated_at": "2026-10-18T01:18:18+00:00",
+      "updated_at": "2026-10-18T18:38:31+00:00",
       "source_url": "https://bart.ideam.gov.co/ospa/Alertas/hidroestimador_satelital/",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/hidroestimador_satelital/latest.json",
       "files": {
@@ -330,47 +330,47 @@
     },
     "indice_calor": {
       "kind": "alerta_diaria",
-      "updated_at": "2026-10-18T01:18:10+00:00",
-      "source_url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20261017/",
+      "updated_at": "2026-10-18T18:38:18+00:00",
+      "source_url": "https://bart.ideam.gov.co/ospa/Alertas/IndiceCalor/20261018/",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/latest.json",
       "files": {
         "excel/PronosticoMunicipal_IC_Rothfusz_MaxDominio.xlsx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/excel/PronosticoMunicipal_IC_Rothfusz_MaxDominio.xlsx",
-        "mapas/DiaPronostico1_20261017_MapaNacional.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/mapas/DiaPronostico1_20261017_MapaNacional.png",
-        "mapas/DiaPronostico2_20261018_MapaNacional.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/mapas/DiaPronostico2_20261018_MapaNacional.png",
-        "mapas/DiaPronostico3_20261019_MapaNacional.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/mapas/DiaPronostico3_20261019_MapaNacional.png",
-        "shape/DiaPronostico1_20261017_IndiceCalor.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261017_IndiceCalor.cpg",
-        "shape/DiaPronostico1_20261017_IndiceCalor.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261017_IndiceCalor.dbf",
-        "shape/DiaPronostico1_20261017_IndiceCalor.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261017_IndiceCalor.prj",
-        "shape/DiaPronostico1_20261017_IndiceCalor.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261017_IndiceCalor.shx",
-        "shape/DiaPronostico1_20261017_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261017_Resumen.cpg",
-        "shape/DiaPronostico1_20261017_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261017_Resumen.dbf",
-        "shape/DiaPronostico1_20261017_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261017_Resumen.prj",
-        "shape/DiaPronostico1_20261017_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261017_Resumen.shx",
-        "shape/DiaPronostico2_20261018_IndiceCalor.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261018_IndiceCalor.cpg",
-        "shape/DiaPronostico2_20261018_IndiceCalor.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261018_IndiceCalor.dbf",
-        "shape/DiaPronostico2_20261018_IndiceCalor.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261018_IndiceCalor.prj",
-        "shape/DiaPronostico2_20261018_IndiceCalor.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261018_IndiceCalor.shx",
-        "shape/DiaPronostico2_20261018_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261018_Resumen.cpg",
-        "shape/DiaPronostico2_20261018_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261018_Resumen.dbf",
-        "shape/DiaPronostico2_20261018_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261018_Resumen.prj",
-        "shape/DiaPronostico2_20261018_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261018_Resumen.shx",
-        "shape/DiaPronostico3_20261019_IndiceCalor.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261019_IndiceCalor.cpg",
-        "shape/DiaPronostico3_20261019_IndiceCalor.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261019_IndiceCalor.dbf",
-        "shape/DiaPronostico3_20261019_IndiceCalor.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261019_IndiceCalor.prj",
-        "shape/DiaPronostico3_20261019_IndiceCalor.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261019_IndiceCalor.shx",
-        "shape/DiaPronostico3_20261019_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261019_Resumen.cpg",
-        "shape/DiaPronostico3_20261019_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261019_Resumen.dbf",
-        "shape/DiaPronostico3_20261019_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261019_Resumen.prj",
-        "shape/DiaPronostico3_20261019_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261019_Resumen.shx",
-        "txt/DiaPronostico1_20261017_AlertaAmarilla.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico1_20261017_AlertaAmarilla.txt",
-        "txt/DiaPronostico1_20261017_AlertaNaranja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico1_20261017_AlertaNaranja.txt",
-        "txt/DiaPronostico1_20261017_AlertaRoja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico1_20261017_AlertaRoja.txt",
-        "txt/DiaPronostico2_20261018_AlertaAmarilla.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico2_20261018_AlertaAmarilla.txt",
-        "txt/DiaPronostico2_20261018_AlertaNaranja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico2_20261018_AlertaNaranja.txt",
-        "txt/DiaPronostico2_20261018_AlertaRoja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico2_20261018_AlertaRoja.txt",
-        "txt/DiaPronostico3_20261019_AlertaAmarilla.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico3_20261019_AlertaAmarilla.txt",
-        "txt/DiaPronostico3_20261019_AlertaNaranja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico3_20261019_AlertaNaranja.txt",
-        "txt/DiaPronostico3_20261019_AlertaRoja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico3_20261019_AlertaRoja.txt"
+        "mapas/DiaPronostico1_20261018_MapaNacional.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/mapas/DiaPronostico1_20261018_MapaNacional.png",
+        "mapas/DiaPronostico2_20261019_MapaNacional.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/mapas/DiaPronostico2_20261019_MapaNacional.png",
+        "mapas/DiaPronostico3_20261020_MapaNacional.png": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/mapas/DiaPronostico3_20261020_MapaNacional.png",
+        "shape/DiaPronostico1_20261018_IndiceCalor.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261018_IndiceCalor.cpg",
+        "shape/DiaPronostico1_20261018_IndiceCalor.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261018_IndiceCalor.dbf",
+        "shape/DiaPronostico1_20261018_IndiceCalor.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261018_IndiceCalor.prj",
+        "shape/DiaPronostico1_20261018_IndiceCalor.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261018_IndiceCalor.shx",
+        "shape/DiaPronostico1_20261018_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261018_Resumen.cpg",
+        "shape/DiaPronostico1_20261018_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261018_Resumen.dbf",
+        "shape/DiaPronostico1_20261018_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261018_Resumen.prj",
+        "shape/DiaPronostico1_20261018_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico1_20261018_Resumen.shx",
+        "shape/DiaPronostico2_20261019_IndiceCalor.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261019_IndiceCalor.cpg",
+        "shape/DiaPronostico2_20261019_IndiceCalor.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261019_IndiceCalor.dbf",
+        "shape/DiaPronostico2_20261019_IndiceCalor.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261019_IndiceCalor.prj",
+        "shape/DiaPronostico2_20261019_IndiceCalor.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261019_IndiceCalor.shx",
+        "shape/DiaPronostico2_20261019_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261019_Resumen.cpg",
+        "shape/DiaPronostico2_20261019_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261019_Resumen.dbf",
+        "shape/DiaPronostico2_20261019_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261019_Resumen.prj",
+        "shape/DiaPronostico2_20261019_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico2_20261019_Resumen.shx",
+        "shape/DiaPronostico3_20261020_IndiceCalor.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261020_IndiceCalor.cpg",
+        "shape/DiaPronostico3_20261020_IndiceCalor.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261020_IndiceCalor.dbf",
+        "shape/DiaPronostico3_20261020_IndiceCalor.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261020_IndiceCalor.prj",
+        "shape/DiaPronostico3_20261020_IndiceCalor.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261020_IndiceCalor.shx",
+        "shape/DiaPronostico3_20261020_Resumen.cpg": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261020_Resumen.cpg",
+        "shape/DiaPronostico3_20261020_Resumen.dbf": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261020_Resumen.dbf",
+        "shape/DiaPronostico3_20261020_Resumen.prj": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261020_Resumen.prj",
+        "shape/DiaPronostico3_20261020_Resumen.shx": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/shape/DiaPronostico3_20261020_Resumen.shx",
+        "txt/DiaPronostico1_20261018_AlertaAmarilla.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico1_20261018_AlertaAmarilla.txt",
+        "txt/DiaPronostico1_20261018_AlertaNaranja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico1_20261018_AlertaNaranja.txt",
+        "txt/DiaPronostico1_20261018_AlertaRoja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico1_20261018_AlertaRoja.txt",
+        "txt/DiaPronostico2_20261019_AlertaAmarilla.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico2_20261019_AlertaAmarilla.txt",
+        "txt/DiaPronostico2_20261019_AlertaNaranja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico2_20261019_AlertaNaranja.txt",
+        "txt/DiaPronostico2_20261019_AlertaRoja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico2_20261019_AlertaRoja.txt",
+        "txt/DiaPronostico3_20261020_AlertaAmarilla.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico3_20261020_AlertaAmarilla.txt",
+        "txt/DiaPronostico3_20261020_AlertaNaranja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico3_20261020_AlertaNaranja.txt",
+        "txt/DiaPronostico3_20261020_AlertaRoja.txt": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/indice_calor/dt=2026-10-18/txt/DiaPronostico3_20261020_AlertaRoja.txt"
       }
     },
     "municipios": {
@@ -385,17 +385,17 @@
     },
     "precipitacion_diaria": {
       "kind": "vector",
-      "updated_at": "2026-10-17T17:51:54+00:00",
+      "updated_at": "2026-10-18T18:00:24+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Datos_Precipitacion/MapServer/0",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/precipitacion_diaria/latest.json",
       "files": {
-        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/precipitacion_diaria/dt=2026-10-17/precipitacion_diaria.geojson",
-        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/precipitacion_diaria/dt=2026-10-17/precipitacion_diaria.parquet"
+        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/precipitacion_diaria/dt=2026-10-18/precipitacion_diaria.geojson",
+        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/precipitacion_diaria/dt=2026-10-18/precipitacion_diaria.parquet"
       }
     },
     "pronostico_precip_24h": {
       "kind": "raster",
-      "updated_at": "2026-10-18T01:17:27+00:00",
+      "updated_at": "2026-10-18T18:37:27+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Pronostico_24_horas/MapServer/export",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/pronostico_precip_24h/latest.json",
       "files": {
@@ -431,12 +431,12 @@
     },
     "temperatura_max_diaria": {
       "kind": "vector",
-      "updated_at": "2026-10-17T17:51:54+00:00",
+      "updated_at": "2026-10-18T18:00:24+00:00",
       "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Datos_TMaxima/MapServer/0",
       "manifest_url": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/temperatura_max_diaria/latest.json",
       "files": {
-        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/temperatura_max_diaria/dt=2026-10-17/temperatura_max_diaria.geojson",
-        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/temperatura_max_diaria/dt=2026-10-17/temperatura_max_diaria.parquet"
+        "geojson": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/temperatura_max_diaria/dt=2026-10-18/temperatura_max_diaria.geojson",
+        "parquet": "https://raw.githubusercontent.com/masantizof/portal-datos-snigrd/main/data_lake/temperatura_max_diaria/dt=2026-10-18/temperatura_max_diaria.parquet"
       }
     },
     "zonas_hidrograficas": {

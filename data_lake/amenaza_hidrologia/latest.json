@@ -1,7 +1,7 @@
 {
   "dataset": "amenaza_hidrologia",
   "kind": "vector",
-  "updated_at": "2026-10-18T01:18:21+00:00",
+  "updated_at": "2026-10-18T18:38:35+00:00",
   "files": {
     "Alertas_vigentes.dbf": "data_lake/amenaza_hidrologia/dt=2026-10-18/Alertas_vigentes.dbf",
     "Alertas_vigentes.prj": "data_lake/amenaza_hidrologia/dt=2026-10-18/Alertas_vigentes.prj",

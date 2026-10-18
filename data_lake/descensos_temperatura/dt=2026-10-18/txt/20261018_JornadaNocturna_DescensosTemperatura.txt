@@ -1,3 +1,4 @@
 Descensos de temperatura | Noche del 2026-10-18 y madrugada del 2026-10-19 | 19:00 - 07:00 HLC
 
-Sin municipios con cobertura de alerta mayor o igual a 25%.
+Alerta Alta
+Boyaca: Guican De La Sierra (42.7%)

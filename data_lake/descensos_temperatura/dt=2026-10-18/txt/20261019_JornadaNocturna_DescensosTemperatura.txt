@@ -1,3 +1,9 @@
 Descensos de temperatura | Noche del 2026-10-19 y madrugada del 2026-10-20 | 19:00 - 07:00 HLC
 
-Sin municipios con cobertura de alerta mayor o igual a 25%.
+Alerta Alta
+Cundinamarca: Bogota, D.C. (37.1%)
+Meta: Cubarral (30.3%)
+
+Alerta Media
+Boyaca: Gameza (33.5%)
+Cundinamarca: Une (28.6%)
