@@ -1,14 +1,14 @@
 {
   "dataset": "alertas_idd",
   "kind": "vector",
-  "updated_at": "2026-11-01T21:57:48+00:00",
+  "updated_at": "2026-11-02T20:53:46+00:00",
   "files": {
-    "geojson": "data_lake/alertas_idd/dt=2026-11-01/alertas_idd.geojson",
-    "parquet": "data_lake/alertas_idd/dt=2026-11-01/alertas_idd.parquet"
+    "geojson": "data_lake/alertas_idd/dt=2026-11-02/alertas_idd.geojson",
+    "parquet": "data_lake/alertas_idd/dt=2026-11-02/alertas_idd.parquet"
   },
   "source_url": "https://visualizador.ideam.gov.co/gisserver/rest/services/StoryMaps_IDA/Alertas__IDD/MapServer/1",
   "descripcion": "Alertas por deslizamientos (municipio)",
   "n_features": 1121,
-  "content_hash": "860ea1aedc9744e3b2c0a3da718d1b00ecd1b6cd19e4c11adf83b03bc645378c",
+  "content_hash": "d4f79a44c574794eee41f9e88a8668169754cd5a82d6d05d39828e97059ec198",
   "geometry_type": "esriGeometryPolygon"
 }
