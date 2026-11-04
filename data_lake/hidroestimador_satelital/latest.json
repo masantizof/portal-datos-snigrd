@@ -1,11 +1,11 @@
 {
   "dataset": "hidroestimador_satelital",
   "kind": "alerta_diaria",
-  "updated_at": "2026-11-03T18:59:34+00:00",
+  "updated_at": "2026-11-04T19:04:08+00:00",
   "files": {
-    "hidroestimador.log": "data_lake/hidroestimador_satelital/dt=2026-11-03/hidroestimador.log",
-    "NOAA_HE_COL_20251231.tif": "data_lake/hidroestimador_satelital/dt=2026-11-03/NOAA_HE_COL_20251231.tif",
-    "NOAA_HE_COL_20251230.tif": "data_lake/hidroestimador_satelital/dt=2026-11-03/NOAA_HE_COL_20251230.tif"
+    "hidroestimador.log": "data_lake/hidroestimador_satelital/dt=2026-11-04/hidroestimador.log",
+    "NOAA_HE_COL_20251231.tif": "data_lake/hidroestimador_satelital/dt=2026-11-04/NOAA_HE_COL_20251231.tif",
+    "NOAA_HE_COL_20251230.tif": "data_lake/hidroestimador_satelital/dt=2026-11-04/NOAA_HE_COL_20251230.tif"
   },
   "source_url": "https://bart.ideam.gov.co/ospa/Alertas/hidroestimador_satelital/",
   "categoria": "hidroestimador_satelital",
