@@ -1,0 +1,15 @@
+Descensos de temperatura | Noche del 2026-11-10 y madrugada del 2026-11-11 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Aquitania (45.0%), Belen (31.2%), Cerinza (41.4%), Chiscas (58.2%), Chita (39.0%), Cuitiva (34.3%), Duitama (42.2%), El Cocuy (59.4%), Gameza (78.0%), Guican De La Sierra (61.7%), Mongua (42.3%), Mongui (79.1%), Pesca (35.5%), Santa Rosa De Viterbo (33.8%), Siachoque (54.1%), Socha (58.2%), Socota (46.1%), Sogamoso (54.8%), Tasco (68.7%), Toca (30.2%), Tota (65.8%), Tutaza (46.3%), Viracacha (31.1%)
+Caldas: Villamaria (38.6%)
+Cundinamarca: Bogota, D.C. (53.9%), Chipaque (34.5%), Cogua (25.1%), Fomeque (38.4%), Guasca (56.9%), Guatavita (37.4%), Gutierrez (39.5%), La Calera (32.8%), Pasca (34.9%), San Bernardo (29.1%), Tausa (46.7%), Une (49.0%)
+Meta: Cubarral (35.6%), Guamal (33.4%)
+N/A: Area En Litigio Cauca - Huila (26.8%)
+Norte de Santander: Mutiscua (33.9%), Silos (42.3%)
+Santander: Carcasi (26.0%), Cerrito (44.1%), Concepcion (28.3%), Encino (25.1%), Guaca (37.8%), Santa Barbara (25.7%), Vetas (49.6%)
+Tolima: Anzoategui (30.4%), Casabianca (29.2%), Murillo (44.8%), Roncesvalles (29.4%), Santa Isabel (44.8%)
+
+Alerta Media
+Boyaca: Motavita (37.8%), Ventaquemada (29.9%)
+Cundinamarca: Sesquile (28.8%), Villapinzon (36.2%)
