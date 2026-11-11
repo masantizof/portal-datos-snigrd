@@ -1,0 +1,14 @@
+Descensos de temperatura | Noche del 2026-11-11 y madrugada del 2026-11-12 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Gameza (56.0%), Mongui (57.7%), Socha (46.8%), Socota (26.9%), Sogamoso (34.5%), Tasco (51.1%)
+Caldas: Villamaria (25.5%)
+Cundinamarca: Bogota, D.C. (44.3%), Guasca (36.1%), Gutierrez (27.0%), Pasca (27.7%), Une (36.8%)
+Meta: Cubarral (29.3%)
+N/A: Area En Litigio Cauca - Huila (25.5%)
+Narino: Tangua (34.8%)
+Tolima: Murillo (37.4%), Santa Isabel (27.9%)
+
+Alerta Media
+Boyaca: Tota (28.8%)
+Narino: Potosi (26.9%)
