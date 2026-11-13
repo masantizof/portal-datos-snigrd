@@ -1,0 +1,10 @@
+Descensos de temperatura | Noche del 2026-11-14 y madrugada del 2026-11-15 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Chiscas (59.4%), El Cocuy (59.8%), Gameza (54.7%), Guican De La Sierra (55.4%), Mongui (53.4%), Socha (40.8%), Sogamoso (32.9%), Tasco (47.6%)
+Caldas: Villamaria (32.3%)
+Cundinamarca: Bogota, D.C. (39.5%), San Bernardo (27.0%)
+Meta: Cubarral (26.7%)
+Norte de Santander: Mutiscua (33.8%), Silos (51.9%)
+Santander: Carcasi (30.3%), Cerrito (57.0%), Concepcion (43.2%), Guaca (39.1%), Santa Barbara (26.8%), Vetas (51.7%)
+Tolima: Murillo (34.5%), Rioblanco (26.2%), Santa Isabel (28.1%)

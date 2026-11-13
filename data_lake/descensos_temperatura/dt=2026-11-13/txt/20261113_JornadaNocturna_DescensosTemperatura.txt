@@ -1,0 +1,11 @@
+Descensos de temperatura | Noche del 2026-11-13 y madrugada del 2026-11-14 | 19:00 - 07:00 HLC
+
+Alerta Alta
+Boyaca: Aquitania (27.4%), Chiscas (47.8%), Chita (28.5%), Duitama (26.7%), El Cocuy (79.0%), Gameza (66.4%), Guican De La Sierra (62.7%), Mongua (32.3%), Mongui (60.9%), Socha (48.7%), Socota (32.6%), Sogamoso (39.8%), Tasco (56.5%), Tota (29.9%)
+Cundinamarca: Bogota, D.C. (40.9%), Pasca (25.8%), Une (25.5%)
+Meta: Cubarral (28.8%)
+Santander: Cerrito (39.7%), Guaca (32.0%)
+Tolima: Murillo (32.2%)
+
+Alerta Media
+Cundinamarca: San Bernardo (26.5%), Tausa (28.5%)
